@@ -1,0 +1,2016 @@
+TransactionID,Date,CustomerID,Gender,Age,ProductCategory,ProductName,Quantity,UnitPrice,TotalPrice,Branch,PaymentMethod
+5001,1/1/2023 0:00,3366,Female,66,Snacks,Cookies,6,47.13,282.78,A,Bank Transfer
+5002,1/1/2023 1:00,3383,Male,48,Beverage,Soft Drink,8,24.68,197.44,C,Bank Transfer
+5003,1/1/2023 2:00,3323,Female,54,Dairy,Cheese,10,60.18,601.8,A,Credit Card
+5004,1/1/2023 3:00,3477,Male,29,Electronics,USB Cable,8,107.79,862.32,C,Credit Card
+5005,1/1/2023 4:00,3099,Male,48,Beverage,Mineral Water,3,118.46,355.38,C,Credit Card
+5006,1/1/2023 5:00,3231,,63,Household,Detergent,4,92.16,368.64,A,Cash
+5007,1/1/2023 6:00,3018,Male,55,Personal Care,Soap,7,117.63,823.41,C,E-Wallet
+5008,1/1/2023 7:00,3084,Male,68,Household,Detergent,10,75.65,756.5,D,Credit Card
+5009,1/1/2023 8:00,3107,,59,Dairy,Butter,1,23.84,23.84,B,E-Wallet
+5010,1/1/2023 9:00,3124,Female,60,Electronics,Earphones,9,104.46,940.14,D,Bank Transfer
+5011,1/1/2023 10:00,3058,Male,52,Beverage,Soft Drink,9,102.59,923.31,A,Cash
+5012,1/1/2023 11:00,3215,Male,54,Dairy,Butter,4,55.57,222.28,D,E-Wallet
+5013,1/1/2023 12:00,3226,Male,31,Household,Dish Soap,11,71.42,785.62,B,Credit Card
+5014,1/1/2023 13:00,3097,Female,66,Dairy,Milk,6,65.85,395.1,A,Credit Card
+5015,1/1/2023 14:00,3114,Male,49,Dairy,Cheese,3,73.26,219.78,A,E-Wallet
+5016,1/1/2023 15:00,3127,Male,21,Produce,Carrots,4,88.15,352.6,D,E-Wallet
+5017,1/1/2023 16:00,3048,Male,67,Produce,Carrots,11,86.41,950.51,A,E-Wallet
+5018,1/1/2023 17:00,3074,Male,20,Electronics,Phone Case,4,98.28,393.12,B,E-Wallet
+5019,1/1/2023 18:00,3033,Female,44,Electronics,Phone Case,11,21.11,232.21,C,Credit Card
+5020,1/1/2023 19:00,3431,Female,40,Household,Cleaner,3,66.37,199.11,A,Cash
+5021,1/1/2023 20:00,3225,Female,41,,,10,14.38,143.8,C,Credit Card
+5022,1/1/2023 21:00,3112,Female,59,Household,Tissue,4,83.3,333.2,D,Bank Transfer
+5023,1/1/2023 22:00,3410,Female,52,Electronics,USB Cable,11,100.76,1108.36,C,Bank Transfer
+5024,1/1/2023 23:00,3340,Female,24,Dairy,Cheese,1,81.29,81.29,A,Cash
+5025,1/2/2023 0:00,3335,Male,23,Snacks,Nuts,3,74.1,222.3,C,Bank Transfer
+5026,1/2/2023 1:00,3254,Male,53,Personal Care,Shampoo,10,37.25,372.5,B,Bank Transfer
+5027,1/2/2023 2:00,3421,Female,37,Household,Detergent,7,107.16,750.12,A,E-Wallet
+5028,1/2/2023 3:00,3097,Male,55,Dairy,Butter,8,50.71,405.68,A,Bank Transfer
+5029,1/2/2023 4:00,3209,Male,50,Household,Tissue,11,114.51,1259.61,C,E-Wallet
+5030,1/2/2023 5:00,3069,Male,27,Electronics,Earphones,2,116.4,232.8,D,Credit Card
+5031,1/2/2023 6:00,3306,Male,52,Snacks,Cookies,5,30.75,153.75,C,Credit Card
+5032,1/2/2023 7:00,3312,Male,69,Frozen,Frozen Pizza,1,87.57,87.57,C,Bank Transfer
+5033,1/2/2023 8:00,3452,Male,39,Beverage,Mineral Water,5,14.71,73.55,C,E-Wallet
+5034,1/2/2023 9:00,3003,,36,Snacks,Chips,8,108.74,869.92,B,Cash
+5035,1/2/2023 10:00,3341,Male,59,Beverage,Juice,6,17.08,102.48,A,Credit Card
+5036,1/2/2023 11:00,3040,Female,22,Dairy,Milk,3,16.66,49.98,C,Bank Transfer
+5037,1/2/2023 12:00,3323,Male,55,Household,Cleaner,6,100.4,602.4,B,Bank Transfer
+5038,1/2/2023 13:00,3085,Male,23,Electronics,USB Cable,11,24.24,266.64,B,Bank Transfer
+5039,1/2/2023 14:00,3048,Male,69,Electronics,Earphones,5,56.92,284.6,A,Bank Transfer
+5040,1/2/2023 15:00,3446,Male,17,Snacks,Nuts,11,25.58,281.38,C,E-Wallet
+5041,1/2/2023 16:00,3177,,35,Personal Care,Toothpaste,1,76.67,76.67,D,Credit Card
+5042,1/2/2023 17:00,3136,Female,37,Household,Cleaner,7,84.82,593.74,D,Credit Card
+5043,1/2/2023 18:00,3362,Male,46,Household,Detergent,9,51.05,459.45,B,Credit Card
+5044,1/2/2023 19:00,3100,Female,39,Beverage,Energy Drink,8,88.5,708,C,Bank Transfer
+5045,1/2/2023 20:00,3381,Male,18,Snacks,Nuts,8,14.16,113.28,B,Bank Transfer
+5046,1/2/2023 21:00,3349,Male,26,Personal Care,Toothpaste,4,103.14,412.56,C,E-Wallet
+5047,1/2/2023 22:00,3181,Female,58,Beverage,Mineral Water,2,88.05,176.1,A,Bank Transfer
+5048,1/2/2023 23:00,3359,Female,63,Beverage,Energy Drink,7,19.95,139.65,D,Bank Transfer
+5049,1/3/2023 0:00,3354,Female,52,Snacks,Crackers,9,26.16,235.44,D,Cash
+5050,1/3/2023 1:00,3214,Female,66,Beverage,Soft Drink,3,44.23,132.69,B,E-Wallet
+5051,1/3/2023 2:00,3119,Female,32,Electronics,Phone Case,10,78.82,788.2,C,E-Wallet
+5052,1/3/2023 3:00,3351,Male,43,Dairy,Butter,9,84.76,762.84,B,Cash
+5053,1/3/2023 4:00,3412,Male,60,Electronics,Earphones,7,112.34,786.38,B,E-Wallet
+5054,1/3/2023 5:00,3291,Female,58,Snacks,Cookies,2,41.51,83.02,D,Credit Card
+5055,1/3/2023 6:00,3482,Female,60,Dairy,Butter,1,49.56,49.56,D,E-Wallet
+5056,1/3/2023 7:00,3077,Female,64,Beverage,Soft Drink,9,84.73,762.57,C,E-Wallet
+5057,1/3/2023 8:00,3169,,44,Snacks,Nuts,10,44.62,446.2,C,Credit Card
+5058,1/3/2023 9:00,3388,Male,43,Beverage,Energy Drink,1,82.24,82.24,A,Bank Transfer
+5059,1/3/2023 10:00,3107,Female,27,Electronics,USB Cable,5,67.57,337.85,A,Cash
+5060,1/3/2023 11:00,3326,Female,32,Dairy,Cheese,4,18.65,74.6,B,Bank Transfer
+5061,1/3/2023 12:00,3065,Male,25,Personal Care,Lotion,11,50.44,554.84,B,Credit Card
+5062,1/3/2023 13:00,3332,Male,39,Electronics,Phone Case,3,5.86,17.58,B,Bank Transfer
+5063,1/3/2023 14:00,3419,Female,22,Snacks,Cookies,5,96.59,482.95,C,Bank Transfer
+5064,1/3/2023 15:00,3315,Male,34,Household,Tissue,2,112.83,225.66,B,Bank Transfer
+5065,1/3/2023 16:00,3395,Female,61,Frozen,Frozen Pizza,1,105.8,105.8,B,Cash
+5066,1/3/2023 17:00,3279,Male,53,Snacks,Chips,3,49.37,148.11,C,Credit Card
+5067,1/3/2023 18:00,3206,Female,57,Dairy,Butter,2,24.44,48.88,D,Credit Card
+5068,1/3/2023 19:00,3147,Female,16,Household,Detergent,10,48.44,484.4,A,Bank Transfer
+5069,1/3/2023 20:00,3485,Male,37,Beverage,Juice,10,33.02,330.2,B,Credit Card
+5070,1/3/2023 21:00,3272,Female,32,Snacks,Crackers,11,113.89,1252.79,B,Cash
+5071,1/3/2023 22:00,3492,Male,52,Beverage,Soft Drink,9,74.69,672.21,A,Bank Transfer
+5072,1/3/2023 23:00,3412,Female,52,Beverage,Soft Drink,7,60.13,420.91,A,Credit Card
+5073,1/4/2023 0:00,3254,Female,65,Personal Care,Soap,10,66.6,666,B,Cash
+5074,1/4/2023 1:00,3493,Female,68,Beverage,Energy Drink,7,18.69,130.83,D,E-Wallet
+5075,1/4/2023 2:00,3159,Male,67,Beverage,Mineral Water,5,109.72,548.6,D,Credit Card
+5076,1/4/2023 3:00,3181,Male,41,Dairy,Cheese,11,14.24,156.64,D,E-Wallet
+5077,1/4/2023 4:00,3071,Female,60,Snacks,Cookies,8,43.97,351.76,B,Cash
+5078,1/4/2023 5:00,3366,Female,51,Electronics,Phone Case,11,46.98,516.78,C,Bank Transfer
+5079,1/4/2023 6:00,3372,Female,54,Personal Care,Lotion,10,97.07,970.7,A,Credit Card
+5080,1/4/2023 7:00,3155,Female,31,Frozen,Frozen Pizza,1,34,34,A,Bank Transfer
+5081,1/4/2023 8:00,3209,Male,23,Household,Tissue,6,63.43,380.58,C,Credit Card
+5082,1/4/2023 9:00,3391,Male,,Frozen,Ice Cream,6,97.52,585.12,A,E-Wallet
+5083,1/4/2023 10:00,3271,Male,26,Beverage,Mineral Water,1,113.54,113.54,B,Bank Transfer
+5084,1/4/2023 11:00,3256,Female,49,Dairy,Butter,11,44.94,494.34,D,Bank Transfer
+5085,1/4/2023 12:00,3245,,37,Personal Care,Shampoo,1,50.38,50.38,A,Cash
+5086,1/4/2023 13:00,3360,Female,33,Snacks,Cookies,6,7.75,46.5,B,Cash
+5087,1/4/2023 14:00,3460,Female,30,Produce,Carrots,9,35.49,319.41,A,Bank Transfer
+5088,1/4/2023 15:00,3439,Female,33,Beverage,Mineral Water,2,72.13,144.26,B,E-Wallet
+5089,1/4/2023 16:00,3456,Male,67,Personal Care,Soap,4,44.7,178.8,A,Cash
+5090,1/4/2023 17:00,3130,Female,62,Beverage,Juice,1,9.19,9.19,C,Cash
+5091,1/4/2023 18:00,3044,Female,48,Electronics,USB Cable,6,5.37,32.22,B,Cash
+5092,1/4/2023 19:00,3187,Male,18,Snacks,Crackers,3,7.11,21.33,B,Bank Transfer
+5093,1/4/2023 20:00,3358,Female,30,Beverage,Soft Drink,7,32.6,228.2,D,E-Wallet
+5094,1/4/2023 21:00,3184,Male,32,Snacks,Nuts,6,68.67,412.02,C,Bank Transfer
+5095,1/4/2023 22:00,3026,Male,52,Beverage,Juice,1,54.05,54.05,A,E-Wallet
+5096,1/4/2023 23:00,3435,Female,30,Dairy,Cheese,8,54.86,438.88,A,E-Wallet
+5097,1/5/2023 0:00,3469,Male,63,Electronics,USB Cable,4,90.23,360.92,B,E-Wallet
+5098,1/5/2023 1:00,3313,Female,33,Dairy,Milk,7,27.95,195.65,C,E-Wallet
+5099,1/5/2023 2:00,3306,Male,69,Dairy,Milk,10,111.59,1115.9,B,Bank Transfer
+5100,1/5/2023 3:00,3269,Female,43,Dairy,Cheese,6,4.46,26.76,C,E-Wallet
+5101,1/5/2023 4:00,3019,Male,69,Snacks,Chips,7,101.98,713.86,A,Credit Card
+5102,1/5/2023 5:00,3466,Female,51,Dairy,Cheese,5,81.7,408.5,D,Credit Card
+5103,1/5/2023 6:00,3002,Male,35,Snacks,Nuts,8,20.19,161.52,A,Bank Transfer
+5104,1/5/2023 7:00,3052,Male,57,Beverage,Mineral Water,2,18.68,37.36,A,E-Wallet
+5105,1/5/2023 8:00,3429,Male,34,Dairy,Butter,10,7.22,72.2,A,E-Wallet
+5106,1/5/2023 9:00,3374,Male,59,Snacks,Nuts,10,45.48,454.8,A,Cash
+5107,1/5/2023 10:00,3234,Male,24,Snacks,Crackers,11,62.47,687.17,D,Credit Card
+5108,1/5/2023 11:00,3305,Female,22,Personal Care,Lotion,8,72.07,576.56,A,Credit Card
+5109,1/5/2023 12:00,3057,Female,43,Snacks,Chips,4,49.06,196.24,A,E-Wallet
+5110,1/5/2023 13:00,3476,Male,65,Snacks,Chips,1,13.49,13.49,B,Bank Transfer
+5111,1/5/2023 14:00,3434,Female,27,Frozen,Frozen Pizza,9,43.56,392.04,C,Credit Card
+5112,1/5/2023 15:00,3343,Female,33,Household,Cleaner,7,68.84,481.88,A,E-Wallet
+5113,1/5/2023 16:00,3004,Female,68,Snacks,Chips,11,102.33,1125.63,D,Bank Transfer
+5114,1/5/2023 17:00,3068,Male,61,Dairy,Cheese,6,50.83,304.98,A,Cash
+5115,1/5/2023 18:00,3140,Female,57,Produce,Broccoli,8,29.93,239.44,B,Bank Transfer
+5116,1/5/2023 19:00,3150,Female,62,Snacks,Nuts,1,101.82,101.82,C,E-Wallet
+5117,1/5/2023 20:00,3474,Male,61,Household,Cleaner,3,54.82,164.46,C,Credit Card
+5118,1/5/2023 21:00,3104,Male,40,Produce,Apples,1,109.37,109.37,A,Bank Transfer
+5119,1/5/2023 22:00,3490,,31,Dairy,Milk,7,51.49,360.43,C,Bank Transfer
+5120,1/5/2023 23:00,3355,Female,46,Personal Care,Shampoo,6,15.54,93.24,C,E-Wallet
+5121,1/6/2023 0:00,3004,Female,54,Snacks,Crackers,7,72.46,507.22,D,E-Wallet
+5122,1/6/2023 1:00,3396,Male,68,Household,Detergent,5,95.14,475.7,A,Cash
+5123,1/6/2023 2:00,3260,Female,40,Beverage,Mineral Water,1,89.3,89.3,C,Cash
+5124,1/6/2023 3:00,3244,Female,23,Snacks,Cookies,3,112.7,338.1,D,Credit Card
+5125,1/6/2023 4:00,3223,Male,50,Beverage,Soft Drink,9,13.74,123.66,D,E-Wallet
+5126,1/6/2023 5:00,3263,Female,36,Dairy,Milk,7,114.07,798.49,B,E-Wallet
+5127,1/6/2023 6:00,3266,Male,28,Snacks,Cookies,5,27.32,136.6,B,Bank Transfer
+5128,1/6/2023 7:00,3088,Female,36,Snacks,Chips,1,60.24,60.24,B,Cash
+5129,1/6/2023 8:00,3015,Male,64,Dairy,Cheese,4,105.81,423.24,B,E-Wallet
+5130,1/6/2023 9:00,3487,Male,37,Household,Dish Soap,7,40.86,286.02,A,Credit Card
+5131,1/6/2023 10:00,3468,Female,55,Snacks,Cookies,9,39.53,355.77,D,Bank Transfer
+5132,1/6/2023 11:00,3378,Female,21,Beverage,Energy Drink,10,72.27,722.7,A,Bank Transfer
+5133,1/6/2023 12:00,3199,Female,60,Beverage,Mineral Water,9,14.67,132.03,A,E-Wallet
+5134,1/6/2023 13:00,3141,Male,61,Beverage,Energy Drink,6,119.04,714.24,C,E-Wallet
+5135,1/6/2023 14:00,3439,Male,62,Personal Care,Shampoo,6,50.42,302.52,A,Cash
+5136,1/6/2023 15:00,3028,Female,36,Dairy,Butter,11,17.97,197.67,B,Credit Card
+5137,1/6/2023 16:00,3295,Male,21,Personal Care,Toothpaste,2,104.88,209.76,B,Cash
+5138,1/6/2023 17:00,3402,Female,56,Frozen,Ice Cream,5,7.69,38.45,D,Bank Transfer
+5139,1/6/2023 18:00,3446,Female,58,Personal Care,Lotion,2,105.44,210.88,D,Bank Transfer
+5140,1/6/2023 19:00,3367,Male,41,Household,Cleaner,1,34.46,34.46,D,E-Wallet
+5141,1/6/2023 20:00,3331,Male,20,Beverage,Soft Drink,6,49.01,294.06,C,Credit Card
+5142,1/6/2023 21:00,3356,Female,54,Frozen,Ice Cream,11,34.91,384.01,A,Cash
+5143,1/6/2023 22:00,3117,Male,48,Snacks,Crackers,5,5.74,28.7,A,E-Wallet
+5144,1/6/2023 23:00,3100,Male,55,Frozen,Ice Cream,10,114.39,1143.9,A,E-Wallet
+5145,1/7/2023 0:00,3194,Female,35,Dairy,Milk,4,11.82,47.28,A,Bank Transfer
+5146,1/7/2023 1:00,3304,Female,50,Household,Cleaner,3,3.59,10.77,C,E-Wallet
+5147,1/7/2023 2:00,3494,Male,60,Snacks,Cookies,4,90.77,363.08,C,E-Wallet
+5148,1/7/2023 3:00,3017,Male,44,Household,Dish Soap,5,87.79,438.95,B,Cash
+5149,1/7/2023 4:00,3134,Female,61,Household,Tissue,11,42.05,462.55,A,E-Wallet
+5150,1/7/2023 5:00,3361,Male,19,Household,Dish Soap,4,1.56,6.24,D,E-Wallet
+5151,1/7/2023 6:00,3110,Female,67,Snacks,Cookies,5,3.64,18.2,D,Credit Card
+5152,1/7/2023 7:00,3087,Male,62,Personal Care,Soap,3,21.77,65.31,A,Cash
+5153,1/7/2023 8:00,3047,Female,62,Beverage,Energy Drink,6,73.05,438.3,B,E-Wallet
+5154,1/7/2023 9:00,3272,Male,54,Household,Dish Soap,8,31.36,250.88,B,Credit Card
+5155,1/7/2023 10:00,3316,Female,21,Beverage,Energy Drink,11,34.82,383.02,B,Bank Transfer
+5156,1/7/2023 11:00,3297,Male,69,Personal Care,Shampoo,11,115.61,1271.71,A,Credit Card
+5157,1/7/2023 12:00,3410,Male,63,Beverage,Juice,10,108.11,1081.1,C,Cash
+5158,1/7/2023 13:00,3302,Female,58,Produce,Broccoli,11,16.49,181.39,D,Cash
+5159,1/7/2023 14:00,3434,Male,17,Dairy,Cheese,10,73.61,736.1,D,Bank Transfer
+5160,1/7/2023 15:00,3257,Male,27,Frozen,Frozen Pizza,9,30.66,275.94,C,Cash
+5161,1/7/2023 16:00,3420,Male,28,Beverage,Mineral Water,1,4.09,4.09,D,Cash
+5162,1/7/2023 17:00,3414,Female,38,Produce,Apples,9,21.26,191.34,B,Cash
+5163,1/7/2023 18:00,3386,Male,,Household,Detergent,7,13.42,93.94,B,E-Wallet
+5164,1/7/2023 19:00,3468,,40,Beverage,Energy Drink,2,96.69,193.38,A,Credit Card
+5165,1/7/2023 20:00,3325,Female,52,Beverage,Soft Drink,4,5.56,22.24,A,Bank Transfer
+5166,1/7/2023 21:00,3415,Male,20,Household,Dish Soap,5,6.07,30.35,A,Bank Transfer
+5167,1/7/2023 22:00,3392,Female,42,Frozen,Frozen Vegetables,11,73.12,804.32,D,E-Wallet
+5168,1/7/2023 23:00,3350,Female,57,Dairy,Butter,8,111.41,891.28,B,Bank Transfer
+5169,1/8/2023 0:00,3487,Female,21,Dairy,Milk,9,2.41,21.69,A,E-Wallet
+5170,1/8/2023 1:00,3061,Male,67,Produce,Carrots,3,87.91,263.73,B,Credit Card
+5171,1/8/2023 2:00,3322,Female,63,Household,Detergent,6,45.12,270.72,A,Cash
+5172,1/8/2023 3:00,3373,Male,39,Produce,Carrots,8,53.07,424.56,C,E-Wallet
+5173,1/8/2023 4:00,3255,Male,64,Snacks,Nuts,8,45.96,367.68,C,Cash
+5174,1/8/2023 5:00,3461,Male,42,Beverage,Juice,5,75.19,375.95,A,Cash
+5175,1/8/2023 6:00,3324,,66,Household,Cleaner,10,16.35,163.5,A,Cash
+5176,1/8/2023 7:00,3301,Male,46,Snacks,Crackers,3,15.2,45.6,B,Cash
+5177,1/8/2023 8:00,3308,Male,61,Produce,Carrots,5,41.37,206.85,B,Cash
+5178,1/8/2023 9:00,3136,Female,37,Household,Detergent,5,12.48,62.4,C,Credit Card
+5179,1/8/2023 10:00,3487,Female,55,Snacks,Chips,2,104.97,209.94,A,Bank Transfer
+5180,1/8/2023 11:00,3089,,34,Snacks,Crackers,3,118.99,356.97,C,Bank Transfer
+5181,1/8/2023 12:00,3455,Male,55,Snacks,Nuts,7,115.83,810.81,B,E-Wallet
+5182,1/8/2023 13:00,3142,,18,Beverage,Mineral Water,7,64.11,448.77,A,E-Wallet
+5183,1/8/2023 14:00,3413,Male,18,Frozen,Ice Cream,5,95.91,479.55,C,Cash
+5184,1/8/2023 15:00,3365,Male,29,Snacks,Crackers,3,116.76,350.28,D,Credit Card
+5185,1/8/2023 16:00,3320,Male,37,Frozen,Ice Cream,4,85.6,342.4,D,Credit Card
+5186,1/8/2023 17:00,3341,Male,21,Personal Care,Shampoo,1,110.88,110.88,D,Bank Transfer
+5187,1/8/2023 18:00,3421,Male,38,Household,Detergent,7,20.79,145.53,B,Credit Card
+5188,1/8/2023 19:00,3120,Male,53,Household,Dish Soap,11,113.86,1252.46,C,E-Wallet
+5189,1/8/2023 20:00,3497,Female,50,Dairy,Butter,3,20.56,61.68,B,Bank Transfer
+5190,1/8/2023 21:00,3481,Female,25,Snacks,Chips,8,8.24,65.92,D,Cash
+5191,1/8/2023 22:00,3378,Male,56,Snacks,Nuts,6,117.79,706.74,A,Bank Transfer
+5192,1/8/2023 23:00,3425,Female,34,Personal Care,Lotion,11,118.65,1305.15,A,Credit Card
+5193,1/9/2023 0:00,3473,Male,35,Beverage,Juice,8,14.24,113.92,C,Credit Card
+5194,1/9/2023 1:00,3373,Female,56,Dairy,Milk,4,50.24,200.96,B,Bank Transfer
+5195,1/9/2023 2:00,3251,Male,61,Dairy,Milk,10,76.87,768.7,A,E-Wallet
+5196,1/9/2023 3:00,3448,Female,62,Snacks,Chips,2,102.37,204.74,D,Cash
+5197,1/9/2023 4:00,3059,Female,16,Snacks,Cookies,8,45.55,364.4,A,Credit Card
+5198,1/9/2023 5:00,3494,Female,45,Snacks,Cookies,2,110.04,220.08,D,E-Wallet
+5199,1/9/2023 6:00,3078,Female,19,Snacks,Cookies,1,18.6,18.6,C,Bank Transfer
+5200,1/9/2023 7:00,3009,Female,,Personal Care,Soap,5,5.4,27,C,Credit Card
+5201,1/9/2023 8:00,3207,Male,60,Frozen,Ice Cream,3,49.56,148.68,D,Cash
+5202,1/9/2023 9:00,3391,Female,57,Snacks,Nuts,1,64.08,64.08,D,Credit Card
+5203,1/9/2023 10:00,3066,Female,48,,,4,110.57,442.28,B,Credit Card
+5204,1/9/2023 11:00,3223,Female,55,Frozen,Frozen Vegetables,5,107.41,537.05,A,Cash
+5205,1/9/2023 12:00,3199,Male,19,Snacks,Cookies,4,52.76,211.04,B,Bank Transfer
+5206,1/9/2023 13:00,3041,Female,25,Produce,Broccoli,7,103.88,727.16,B,Credit Card
+5207,1/9/2023 14:00,3376,Female,40,Electronics,USB Cable,3,20.99,62.97,C,Credit Card
+5208,1/9/2023 15:00,3459,Male,54,Beverage,Soft Drink,8,26.67,213.36,D,Credit Card
+5209,1/9/2023 16:00,3077,Male,37,Beverage,Energy Drink,1,62.15,62.15,B,Bank Transfer
+5210,1/9/2023 17:00,3461,Female,42,Electronics,USB Cable,5,7.26,36.3,C,Cash
+5211,1/9/2023 18:00,3154,Female,45,Frozen,Frozen Vegetables,9,91.15,820.35,A,Bank Transfer
+5212,1/9/2023 19:00,3491,Male,40,Beverage,Mineral Water,1,64.92,64.92,A,Credit Card
+5213,1/9/2023 20:00,3124,Male,26,Snacks,Crackers,2,18.54,37.08,B,Bank Transfer
+5214,1/9/2023 21:00,3498,Female,25,Personal Care,Toothpaste,8,62.04,496.32,D,Credit Card
+5215,1/9/2023 22:00,3136,Female,46,Personal Care,Lotion,1,60.44,60.44,D,Bank Transfer
+5216,1/9/2023 23:00,3270,Female,68,Beverage,Mineral Water,3,77.24,231.72,C,Credit Card
+5217,1/10/2023 0:00,3429,Male,35,Electronics,USB Cable,7,8.19,57.33,D,E-Wallet
+5218,1/10/2023 1:00,3252,Female,18,Frozen,Ice Cream,11,45.26,497.86,B,Credit Card
+5219,1/10/2023 2:00,3258,Male,68,Electronics,Phone Case,2,97.15,194.3,D,Bank Transfer
+5220,1/10/2023 3:00,3248,Female,35,Personal Care,Lotion,3,4.51,13.53,C,Cash
+5221,1/10/2023 4:00,3170,Female,23,Beverage,Energy Drink,1,77.18,77.18,D,Bank Transfer
+5222,1/10/2023 5:00,3207,Male,55,Beverage,Mineral Water,8,41.94,335.52,C,E-Wallet
+5223,1/10/2023 6:00,3441,Male,50,Electronics,Phone Case,11,81.53,896.83,B,Bank Transfer
+5224,1/10/2023 7:00,3472,Female,51,Beverage,Energy Drink,10,36.16,361.6,D,Credit Card
+5225,1/10/2023 8:00,3064,Male,23,Snacks,Chips,10,108.62,1086.2,A,E-Wallet
+5226,1/10/2023 9:00,3482,Female,42,Dairy,Milk,7,37.19,260.33,D,E-Wallet
+5227,1/10/2023 10:00,3004,Female,47,Produce,Carrots,5,101.75,508.75,D,Credit Card
+5228,1/10/2023 11:00,3018,Female,21,Snacks,Chips,10,22.03,220.3,B,Credit Card
+5229,1/10/2023 12:00,3089,Male,48,Snacks,Chips,4,117.7,470.8,A,Cash
+5230,1/10/2023 13:00,3239,Male,55,Household,Cleaner,5,44.45,222.25,D,Credit Card
+5231,1/10/2023 14:00,3216,Male,19,Beverage,Mineral Water,4,61.21,244.84,C,Cash
+5232,1/10/2023 15:00,3198,Male,33,Personal Care,Toothpaste,9,100.75,906.75,A,E-Wallet
+5233,1/10/2023 16:00,3098,Female,46,Electronics,Phone Case,10,10.5,105,D,Cash
+5234,1/10/2023 17:00,3051,Male,56,Electronics,Earphones,2,19.33,38.66,C,Bank Transfer
+5235,1/10/2023 18:00,3358,Male,66,Dairy,Milk,9,41.57,374.13,A,Bank Transfer
+5236,1/10/2023 19:00,3131,Male,37,Snacks,Cookies,8,47.61,380.88,C,Cash
+5237,1/10/2023 20:00,3147,Female,53,Produce,Broccoli,6,97.66,585.96,A,Credit Card
+5238,1/10/2023 21:00,3303,Male,51,Beverage,Mineral Water,7,28.13,196.91,C,Bank Transfer
+5239,1/10/2023 22:00,3046,Male,23,,,11,97.54,1072.94,D,Credit Card
+5240,1/10/2023 23:00,3442,Male,,Personal Care,Toothpaste,7,88.62,620.34,D,Credit Card
+5241,1/11/2023 0:00,3420,Female,69,Personal Care,Toothpaste,11,98.21,1080.31,D,E-Wallet
+5242,1/11/2023 1:00,3019,Male,62,Beverage,Juice,3,100.61,301.83,B,Credit Card
+5243,1/11/2023 2:00,3476,Female,68,Beverage,Juice,3,89.46,268.38,C,Credit Card
+5244,1/11/2023 3:00,3175,Female,16,Snacks,Cookies,5,22.97,114.85,A,Cash
+5245,1/11/2023 4:00,3439,Male,19,Household,Cleaner,3,57.94,173.82,B,Credit Card
+5246,1/11/2023 5:00,3074,Male,48,Beverage,Energy Drink,10,94.3,943,D,Credit Card
+5247,1/11/2023 6:00,3466,Female,25,Produce,Bananas,4,28.6,114.4,B,Credit Card
+5248,1/11/2023 7:00,3063,Male,45,Electronics,Earphones,4,97.67,390.68,C,Credit Card
+5249,1/11/2023 8:00,3196,Female,21,Snacks,Chips,5,82.32,411.6,D,Cash
+5250,1/11/2023 9:00,3140,Female,28,,,9,94.72,852.48,D,Bank Transfer
+5251,1/11/2023 10:00,3411,,58,,,1,13.95,13.95,D,E-Wallet
+5252,1/11/2023 11:00,3093,Male,47,Snacks,Nuts,9,67.27,605.43,C,Bank Transfer
+5253,1/11/2023 12:00,3460,Male,40,Electronics,USB Cable,8,89.03,712.24,B,Cash
+5254,1/11/2023 13:00,3395,Male,62,Snacks,Crackers,8,66.77,534.16,A,E-Wallet
+5255,1/11/2023 14:00,3388,Female,17,Beverage,Juice,8,12.74,101.92,C,Bank Transfer
+5256,1/11/2023 15:00,3046,Female,56,Electronics,USB Cable,5,113.69,568.45,D,Credit Card
+5257,1/11/2023 16:00,3123,Male,36,Household,Tissue,3,76.57,229.71,D,Cash
+5258,1/11/2023 17:00,3443,Male,36,Household,Tissue,2,61.63,123.26,A,Cash
+5259,1/11/2023 18:00,3188,Female,35,Household,Cleaner,1,43.4,43.4,C,Credit Card
+5260,1/11/2023 19:00,3408,Female,20,,,6,31.05,186.3,B,E-Wallet
+5261,1/11/2023 20:00,3282,Female,47,Personal Care,Toothpaste,4,62.02,248.08,C,Bank Transfer
+5262,1/11/2023 21:00,3284,Male,27,Electronics,Phone Case,11,8.2,90.2,B,E-Wallet
+5263,1/11/2023 22:00,3442,Female,65,Beverage,Mineral Water,1,113,113,A,E-Wallet
+5264,1/11/2023 23:00,3111,Male,53,Electronics,Earphones,2,22.12,44.24,A,E-Wallet
+5265,1/12/2023 0:00,3260,Female,65,Beverage,Energy Drink,10,38.86,388.6,C,Credit Card
+5266,1/12/2023 1:00,3100,Female,52,Beverage,Soft Drink,6,99.45,596.7,B,Cash
+5267,1/12/2023 2:00,3207,Male,61,Household,Cleaner,4,115.23,460.92,D,Cash
+5268,1/12/2023 3:00,3342,Male,63,Electronics,Earphones,1,62.74,62.74,A,Bank Transfer
+5269,1/12/2023 4:00,3444,Female,42,Household,Tissue,8,88.71,709.68,B,Bank Transfer
+5270,1/12/2023 5:00,3433,Male,25,Beverage,Mineral Water,5,112.54,562.7,A,Credit Card
+5271,1/12/2023 6:00,3313,Female,42,Household,Cleaner,6,8.14,48.84,D,E-Wallet
+5272,1/12/2023 7:00,3472,Male,,Personal Care,Shampoo,3,1.78,5.34,A,Bank Transfer
+5273,1/12/2023 8:00,3344,Male,69,Snacks,Nuts,5,96.03,480.15,B,Bank Transfer
+5274,1/12/2023 9:00,3101,,65,Frozen,Frozen Pizza,1,59.19,59.19,C,Bank Transfer
+5275,1/12/2023 10:00,3389,Male,,Produce,Carrots,1,85.56,85.56,B,Bank Transfer
+5276,1/12/2023 11:00,3326,Male,38,Frozen,Frozen Pizza,7,48.23,337.61,A,Bank Transfer
+5277,1/12/2023 12:00,3113,Male,50,Household,Tissue,6,17.35,104.1,C,Bank Transfer
+5278,1/12/2023 13:00,3313,Male,46,Household,Tissue,6,8.46,50.76,D,E-Wallet
+5279,1/12/2023 14:00,3061,Male,64,Electronics,Earphones,9,108.6,977.4,C,Cash
+5280,1/12/2023 15:00,3138,Female,55,,,1,99.87,99.87,A,E-Wallet
+5281,1/12/2023 16:00,3195,,39,Beverage,Energy Drink,7,97.51,682.57,C,Credit Card
+5282,1/12/2023 17:00,3486,Male,44,Beverage,Mineral Water,10,28.9,289,D,Cash
+5283,1/12/2023 18:00,3162,Female,50,Household,Detergent,10,116.45,1164.5,C,E-Wallet
+5284,1/12/2023 19:00,3070,Female,31,Produce,Broccoli,2,106.06,212.12,D,Bank Transfer
+5285,1/12/2023 20:00,3125,Male,38,Beverage,Energy Drink,5,60.99,304.95,D,E-Wallet
+5286,1/12/2023 21:00,3394,Female,28,Dairy,Milk,8,115.35,922.8,C,E-Wallet
+5287,1/12/2023 22:00,3208,Male,41,Frozen,Ice Cream,3,87.58,262.74,A,Credit Card
+5288,1/12/2023 23:00,3252,Female,69,Frozen,Frozen Pizza,3,3.81,11.43,C,Bank Transfer
+5289,1/13/2023 0:00,3029,Female,17,Personal Care,Soap,6,116.45,698.7,A,Credit Card
+5290,1/13/2023 1:00,3323,Male,67,Personal Care,Toothpaste,6,67.73,406.38,C,Cash
+5291,1/13/2023 2:00,3011,Female,23,Snacks,Crackers,2,9.96,19.92,A,Credit Card
+5292,1/13/2023 3:00,3229,Male,19,Snacks,Nuts,3,44.61,133.83,A,Cash
+5293,1/13/2023 4:00,3260,Female,24,Snacks,Nuts,8,49.98,399.84,D,Bank Transfer
+5294,1/13/2023 5:00,3433,Female,18,Dairy,Cheese,8,101.34,810.72,D,E-Wallet
+5295,1/13/2023 6:00,3260,Female,67,Personal Care,Toothpaste,2,4.81,9.62,D,E-Wallet
+5296,1/13/2023 7:00,3280,Female,46,Snacks,Chips,7,78.3,548.1,D,Credit Card
+5297,1/13/2023 8:00,3220,Male,25,Beverage,Soft Drink,3,107.88,323.64,A,Credit Card
+5298,1/13/2023 9:00,3184,Male,64,Beverage,Energy Drink,4,79.33,317.32,D,E-Wallet
+5299,1/13/2023 10:00,3291,Male,18,Dairy,Milk,11,47.23,519.53,A,Credit Card
+5300,1/13/2023 11:00,3294,Male,69,Snacks,Nuts,2,56.6,113.2,C,Credit Card
+5301,1/13/2023 12:00,3306,Male,21,Beverage,Soft Drink,1,111.52,111.52,C,Bank Transfer
+5302,1/13/2023 13:00,3344,Female,55,,,5,10.22,51.1,C,Bank Transfer
+5303,1/13/2023 14:00,3342,Female,38,Beverage,Soft Drink,4,54.79,219.16,A,Cash
+5304,1/13/2023 15:00,3154,Female,66,Personal Care,Soap,3,71.87,215.61,D,E-Wallet
+5305,1/13/2023 16:00,3402,Female,50,Snacks,Crackers,5,15.51,77.55,C,E-Wallet
+5306,1/13/2023 17:00,3187,Female,,Personal Care,Shampoo,11,72.9,801.9,A,Credit Card
+5307,1/13/2023 18:00,3195,Female,21,Personal Care,Soap,9,12.56,113.04,A,Credit Card
+5308,1/13/2023 19:00,3302,Female,60,Dairy,Milk,1,117.25,117.25,D,Credit Card
+5309,1/13/2023 20:00,3011,Female,27,Household,Cleaner,7,34.9,244.3,D,E-Wallet
+5310,1/13/2023 21:00,3137,,46,Dairy,Butter,11,60.09,660.99,D,Cash
+5311,1/13/2023 22:00,3246,Male,51,Beverage,Juice,6,118.74,712.44,A,Credit Card
+5312,1/13/2023 23:00,3481,Female,28,Snacks,Nuts,8,33.96,271.68,A,Credit Card
+5313,1/14/2023 0:00,3282,Male,28,Beverage,Juice,2,58.68,117.36,A,Bank Transfer
+5314,1/14/2023 1:00,3356,Male,41,Snacks,Nuts,10,81.69,816.9,A,Bank Transfer
+5315,1/14/2023 2:00,3068,Male,17,Beverage,Mineral Water,3,109.96,329.88,B,Credit Card
+5316,1/14/2023 3:00,3116,Male,66,Produce,Apples,1,52.77,52.77,D,Cash
+5317,1/14/2023 4:00,3322,Male,60,Personal Care,Soap,8,37.32,298.56,C,Bank Transfer
+5318,1/14/2023 5:00,3008,Male,66,Frozen,Frozen Vegetables,5,51.19,255.95,C,E-Wallet
+5319,1/14/2023 6:00,3455,Male,37,Personal Care,Lotion,4,49.71,198.84,B,Credit Card
+5320,1/14/2023 7:00,3356,Male,24,Snacks,Crackers,8,68.02,544.16,B,Bank Transfer
+5321,1/14/2023 8:00,3226,Male,43,Beverage,Soft Drink,11,20.5,225.5,C,Credit Card
+5322,1/14/2023 9:00,3168,Male,63,Dairy,Butter,3,8.54,25.62,C,E-Wallet
+5323,1/14/2023 10:00,3467,,56,Beverage,Mineral Water,3,1.66,4.98,D,E-Wallet
+5324,1/14/2023 11:00,3221,Female,25,Personal Care,Soap,8,34.11,272.88,A,Credit Card
+5325,1/14/2023 12:00,3423,Female,65,Beverage,Mineral Water,1,39.25,39.25,C,Cash
+5326,1/14/2023 13:00,3390,Male,37,Personal Care,Soap,9,116.23,1046.07,D,Bank Transfer
+5327,1/14/2023 14:00,3138,Female,33,Snacks,Cookies,10,27.28,272.8,B,Credit Card
+5328,1/14/2023 15:00,3169,Female,33,Electronics,USB Cable,6,66.05,396.3,C,Bank Transfer
+5329,1/14/2023 16:00,3490,Male,43,Dairy,Butter,11,104.43,1148.73,C,E-Wallet
+5330,1/14/2023 17:00,3325,Female,44,Snacks,Chips,2,89.06,178.12,C,Credit Card
+5331,1/14/2023 18:00,3216,Male,42,Household,Detergent,6,8.51,51.06,B,Credit Card
+5332,1/14/2023 19:00,3233,Female,26,Dairy,Butter,9,45.66,410.94,D,Cash
+5333,1/14/2023 20:00,3406,Male,65,Frozen,Frozen Vegetables,8,80.32,642.56,A,E-Wallet
+5334,1/14/2023 21:00,3090,,19,Snacks,Cookies,4,2.24,8.96,A,Bank Transfer
+5335,1/14/2023 22:00,3307,,52,Beverage,Mineral Water,10,114.46,1144.6,D,E-Wallet
+5336,1/14/2023 23:00,3421,Male,59,Personal Care,Toothpaste,1,28.92,28.92,A,Cash
+5337,1/15/2023 0:00,3045,Female,42,Personal Care,Lotion,2,59.21,118.42,C,E-Wallet
+5338,1/15/2023 1:00,3093,Male,55,Beverage,Soft Drink,9,9.94,89.46,C,Bank Transfer
+5339,1/15/2023 2:00,3484,Male,18,Personal Care,Toothpaste,4,19.36,77.44,D,Credit Card
+5340,1/15/2023 3:00,3340,Female,42,Household,Tissue,1,42.29,42.29,B,Cash
+5341,1/15/2023 4:00,3338,Male,38,Beverage,Soft Drink,10,14.72,147.2,D,Credit Card
+5342,1/15/2023 5:00,3488,Female,65,Snacks,Cookies,2,30.09,60.18,A,Bank Transfer
+5343,1/15/2023 6:00,3384,Female,68,Household,Tissue,4,59.71,238.84,A,E-Wallet
+5344,1/15/2023 7:00,3109,Male,17,Personal Care,Soap,1,69.12,69.12,D,Credit Card
+5345,1/15/2023 8:00,3062,Male,58,Electronics,USB Cable,6,100.26,601.56,A,E-Wallet
+5346,1/15/2023 9:00,3361,Male,18,Beverage,Energy Drink,5,31.32,156.6,D,Credit Card
+5347,1/15/2023 10:00,3248,Male,55,Snacks,Chips,3,94.45,283.35,C,E-Wallet
+5348,1/15/2023 11:00,3248,Female,45,Produce,Apples,8,117.85,942.8,C,E-Wallet
+5349,1/15/2023 12:00,3015,Female,28,Dairy,Butter,4,111.74,446.96,D,Cash
+5350,1/15/2023 13:00,3463,Male,23,Produce,Carrots,8,17.09,136.72,C,Credit Card
+5351,1/15/2023 14:00,3024,Female,34,Snacks,Chips,8,52.71,421.68,D,E-Wallet
+5352,1/15/2023 15:00,3319,Female,60,Personal Care,Shampoo,1,79.22,79.22,C,Credit Card
+5353,1/15/2023 16:00,3413,,66,Dairy,Milk,1,9.94,9.94,C,Credit Card
+5354,1/15/2023 17:00,3118,Male,40,Beverage,Energy Drink,1,48.87,48.87,C,Cash
+5355,1/15/2023 18:00,3081,Female,23,Beverage,Soft Drink,1,109.02,109.02,B,Cash
+5356,1/15/2023 19:00,3241,Female,60,Personal Care,Lotion,10,102.87,1028.7,B,Bank Transfer
+5357,1/15/2023 20:00,3239,Male,51,Household,Cleaner,1,7.16,7.16,A,Bank Transfer
+5358,1/15/2023 21:00,3153,Male,60,Electronics,Phone Case,5,92.96,464.8,D,Bank Transfer
+5359,1/15/2023 22:00,3127,Male,44,Beverage,Juice,5,93.08,465.4,B,Cash
+5360,1/15/2023 23:00,3144,Male,48,Electronics,USB Cable,10,9.85,98.5,C,E-Wallet
+5361,1/16/2023 0:00,3434,,41,Dairy,Milk,4,79.07,316.28,B,Credit Card
+5362,1/16/2023 1:00,3465,Male,59,Snacks,Nuts,10,91.38,913.8,C,Cash
+5363,1/16/2023 2:00,3128,,37,Snacks,Cookies,9,25.52,229.68,B,Bank Transfer
+5364,1/16/2023 3:00,3495,Female,20,Frozen,Ice Cream,3,88.56,265.68,C,Credit Card
+5365,1/16/2023 4:00,3495,Male,50,Beverage,Energy Drink,9,103.99,935.91,B,Credit Card
+5366,1/16/2023 5:00,3085,Male,16,Snacks,Crackers,1,65.24,65.24,B,Credit Card
+5367,1/16/2023 6:00,3236,Female,64,Snacks,Crackers,2,22.43,44.86,C,Cash
+5368,1/16/2023 7:00,3240,Female,51,Electronics,Earphones,10,112.52,1125.2,A,Cash
+5369,1/16/2023 8:00,3219,Male,42,Household,Cleaner,7,55.37,387.59,B,Cash
+5370,1/16/2023 9:00,3374,Male,64,Electronics,USB Cable,3,91.08,273.24,B,Cash
+5371,1/16/2023 10:00,3005,Female,36,Dairy,Butter,7,97.41,681.87,A,E-Wallet
+5372,1/16/2023 11:00,3150,Female,26,Dairy,Cheese,9,80.97,728.73,B,E-Wallet
+5373,1/16/2023 12:00,3033,Female,17,Beverage,Mineral Water,9,19.49,175.41,B,E-Wallet
+5374,1/16/2023 13:00,3424,Male,17,Household,Cleaner,6,110.94,665.64,D,Cash
+5375,1/16/2023 14:00,3386,,26,Produce,Bananas,10,101.57,1015.7,B,Credit Card
+5376,1/16/2023 15:00,3355,Female,24,Dairy,Milk,7,71.06,497.42,B,Credit Card
+5377,1/16/2023 16:00,3107,Male,17,Dairy,Butter,4,67.24,268.96,B,Credit Card
+5378,1/16/2023 17:00,3467,Male,51,Snacks,Nuts,5,40.72,203.6,B,E-Wallet
+5379,1/16/2023 18:00,3104,Male,,Electronics,Phone Case,5,110.58,552.9,C,Credit Card
+5380,1/16/2023 19:00,3347,Female,19,Household,Cleaner,4,65.23,260.92,A,Bank Transfer
+5381,1/16/2023 20:00,3360,Female,30,Personal Care,Soap,7,65.98,461.86,A,Bank Transfer
+5382,1/16/2023 21:00,3420,Female,33,Personal Care,Lotion,1,75.41,75.41,B,Bank Transfer
+5383,1/16/2023 22:00,3059,Male,42,Personal Care,Toothpaste,5,47.92,239.6,A,Bank Transfer
+5384,1/16/2023 23:00,3423,Male,45,Personal Care,Lotion,9,40.15,361.35,A,E-Wallet
+5385,1/17/2023 0:00,3258,Male,58,Household,Cleaner,5,93.29,466.45,B,E-Wallet
+5386,1/17/2023 1:00,3489,Male,23,Frozen,Frozen Vegetables,5,91.25,456.25,B,E-Wallet
+5387,1/17/2023 2:00,3437,Female,,Snacks,Chips,2,71.26,142.52,A,Bank Transfer
+5388,1/17/2023 3:00,3402,Female,34,Personal Care,Soap,3,80.72,242.16,A,Credit Card
+5389,1/17/2023 4:00,3174,Female,35,Snacks,Crackers,1,72.9,72.9,B,Credit Card
+5390,1/17/2023 5:00,3279,Female,65,Dairy,Milk,7,55.75,390.25,C,Cash
+5391,1/17/2023 6:00,3054,Female,59,Electronics,Earphones,11,98.67,1085.37,B,Bank Transfer
+5392,1/17/2023 7:00,3474,Male,46,Snacks,Crackers,11,18.82,207.02,C,Cash
+5393,1/17/2023 8:00,3331,Female,44,Household,Cleaner,10,95.18,951.8,D,Credit Card
+5394,1/17/2023 9:00,3496,Female,33,Snacks,Crackers,9,29.97,269.73,D,Cash
+5395,1/17/2023 10:00,3385,Male,57,Produce,Broccoli,11,12.95,142.45,C,Credit Card
+5396,1/17/2023 11:00,3292,Female,36,Snacks,Nuts,10,112.92,1129.2,B,E-Wallet
+5397,1/17/2023 12:00,3370,Male,48,Produce,Bananas,10,73.86,738.6,D,Bank Transfer
+5398,1/17/2023 13:00,3084,Female,25,Beverage,Energy Drink,3,74.68,224.04,C,E-Wallet
+5399,1/17/2023 14:00,3351,Female,28,Snacks,Chips,10,109.88,1098.8,D,E-Wallet
+5400,1/17/2023 15:00,3072,,29,Personal Care,Shampoo,11,27.43,301.73,B,Bank Transfer
+5401,1/17/2023 16:00,3040,Female,32,Household,Tissue,8,61.95,495.6,A,Cash
+5402,1/17/2023 17:00,3344,Male,69,Dairy,Butter,11,119.93,1319.23,C,Bank Transfer
+5403,1/17/2023 18:00,3340,Male,33,Dairy,Cheese,7,46.4,324.8,D,Cash
+5404,1/17/2023 19:00,3375,,48,Beverage,Juice,1,108.94,108.94,D,Credit Card
+5405,1/17/2023 20:00,3335,Male,27,Snacks,Crackers,1,83.36,83.36,A,Credit Card
+5406,1/17/2023 21:00,3030,Female,,Household,Cleaner,8,77.87,622.96,B,Cash
+5407,1/17/2023 22:00,3020,Female,49,Snacks,Crackers,4,18.19,72.76,B,Credit Card
+5408,1/17/2023 23:00,3294,Female,24,Dairy,Milk,2,92.78,185.56,B,Cash
+5409,1/18/2023 0:00,3002,Male,46,Electronics,Earphones,9,10.84,97.56,D,Bank Transfer
+5410,1/18/2023 1:00,3134,Female,47,Snacks,Nuts,11,21.96,241.56,B,Credit Card
+5411,1/18/2023 2:00,3362,Female,17,Produce,Bananas,8,97.2,777.6,C,Cash
+5412,1/18/2023 3:00,3082,Female,22,Personal Care,Shampoo,5,59.8,299,B,Credit Card
+5413,1/18/2023 4:00,3164,Male,67,Snacks,Cookies,7,62.15,435.05,B,Cash
+5414,1/18/2023 5:00,3078,Male,58,Personal Care,Toothpaste,11,65.87,724.57,D,Bank Transfer
+5415,1/18/2023 6:00,3026,Male,17,Frozen,Frozen Pizza,6,23.59,141.54,C,Credit Card
+5416,1/18/2023 7:00,3098,Male,44,Beverage,Juice,11,29.49,324.39,B,E-Wallet
+5417,1/18/2023 8:00,3118,Male,33,Personal Care,Soap,10,107.96,1079.6,D,Credit Card
+5418,1/18/2023 9:00,3478,Female,40,Beverage,Juice,10,63.8,638,C,E-Wallet
+5419,1/18/2023 10:00,3455,Male,54,Snacks,Chips,11,65.52,720.72,C,Cash
+5420,1/18/2023 11:00,3443,Male,45,Electronics,USB Cable,8,21.85,174.8,D,Bank Transfer
+5421,1/18/2023 12:00,3414,Male,61,Electronics,Phone Case,3,95.81,287.43,C,E-Wallet
+5422,1/18/2023 13:00,3082,Female,68,Beverage,Mineral Water,4,89.14,356.56,A,E-Wallet
+5423,1/18/2023 14:00,3406,,41,Frozen,Ice Cream,8,25.2,201.6,D,Cash
+5424,1/18/2023 15:00,3145,Female,32,Frozen,Frozen Vegetables,1,63.3,63.3,B,E-Wallet
+5425,1/18/2023 16:00,3287,Male,22,Snacks,Crackers,10,107.11,1071.1,C,Bank Transfer
+5426,1/18/2023 17:00,3440,Female,46,Personal Care,Toothpaste,11,12.79,140.69,D,Cash
+5427,1/18/2023 18:00,3465,Female,26,Frozen,Frozen Vegetables,4,74.34,297.36,B,Bank Transfer
+5428,1/18/2023 19:00,3159,Female,48,Beverage,Energy Drink,1,74.98,74.98,C,Credit Card
+5429,1/18/2023 20:00,3013,Female,30,Electronics,USB Cable,5,9.71,48.55,A,E-Wallet
+5430,1/18/2023 21:00,3091,Male,63,Household,Dish Soap,4,84.74,338.96,B,Cash
+5431,1/18/2023 22:00,3468,,34,Beverage,Energy Drink,7,10.66,74.62,D,Credit Card
+5432,1/18/2023 23:00,3401,Male,49,Frozen,Ice Cream,9,31.95,287.55,A,Bank Transfer
+5433,1/19/2023 0:00,3093,Male,59,Dairy,Milk,10,110.58,1105.8,D,Cash
+5434,1/19/2023 1:00,3039,Male,63,Household,Detergent,6,86.34,518.04,A,E-Wallet
+5435,1/19/2023 2:00,3355,Female,65,Electronics,USB Cable,8,43.73,349.84,B,E-Wallet
+5436,1/19/2023 3:00,3008,Male,49,Personal Care,Soap,3,46.59,139.77,B,Cash
+5437,1/19/2023 4:00,3107,Male,31,Household,Detergent,3,2.63,7.89,D,Credit Card
+5438,1/19/2023 5:00,3166,Male,43,Electronics,Phone Case,3,5.78,17.34,A,Credit Card
+5439,1/19/2023 6:00,3015,Male,45,Personal Care,Lotion,3,106.15,318.45,B,E-Wallet
+5440,1/19/2023 7:00,3114,Male,56,Beverage,Energy Drink,2,14.67,29.34,B,Cash
+5441,1/19/2023 8:00,3129,Female,54,Produce,Bananas,10,92.76,927.6,D,E-Wallet
+5442,1/19/2023 9:00,3481,Female,16,Dairy,Cheese,7,12.34,86.38,B,Cash
+5443,1/19/2023 10:00,3131,Female,36,Dairy,Butter,8,68.97,551.76,D,Bank Transfer
+5444,1/19/2023 11:00,3487,Male,17,Personal Care,Soap,10,24.92,249.2,C,Bank Transfer
+5445,1/19/2023 12:00,3038,Female,57,Personal Care,Soap,6,114.26,685.56,B,Bank Transfer
+5446,1/19/2023 13:00,3432,Female,,Beverage,Energy Drink,10,117.01,1170.1,B,Credit Card
+5447,1/19/2023 14:00,3063,Male,58,Household,Dish Soap,10,43.97,439.7,D,E-Wallet
+5448,1/19/2023 15:00,3446,Male,57,Dairy,Butter,5,98.85,494.25,A,Credit Card
+5449,1/19/2023 16:00,3015,Male,27,Frozen,Frozen Pizza,8,35.37,282.96,C,Cash
+5450,1/19/2023 17:00,3062,Male,56,Frozen,Ice Cream,9,90.28,812.52,B,Credit Card
+5451,1/19/2023 18:00,3381,Male,28,Beverage,Juice,6,22.42,134.52,A,Cash
+5452,1/19/2023 19:00,3362,Male,68,Beverage,Juice,1,77.29,77.29,D,Bank Transfer
+5453,1/19/2023 20:00,3082,Female,53,Snacks,Nuts,11,114.78,1262.58,A,Credit Card
+5454,1/19/2023 21:00,3038,Male,60,Dairy,Butter,4,23.17,92.68,D,E-Wallet
+5455,1/19/2023 22:00,3223,Female,29,Beverage,Mineral Water,3,20.97,62.91,D,E-Wallet
+5456,1/19/2023 23:00,3404,Female,25,Personal Care,Soap,8,54.37,434.96,A,Credit Card
+5457,1/20/2023 0:00,3443,Female,54,Beverage,Juice,3,115.11,345.33,B,E-Wallet
+5458,1/20/2023 1:00,3007,Male,46,Snacks,Cookies,7,54.23,379.61,B,Credit Card
+5459,1/20/2023 2:00,3357,Male,29,Personal Care,Toothpaste,6,26.34,158.04,C,Bank Transfer
+5460,1/20/2023 3:00,3475,Male,67,Personal Care,Soap,9,4.87,43.83,D,Cash
+5461,1/20/2023 4:00,3072,Male,,Dairy,Milk,4,44.55,178.2,B,E-Wallet
+5462,1/20/2023 5:00,3334,Female,17,Beverage,Energy Drink,6,88.75,532.5,B,E-Wallet
+5463,1/20/2023 6:00,3242,Female,57,Personal Care,Lotion,2,35.56,71.12,B,Credit Card
+5464,1/20/2023 7:00,3335,Male,64,Dairy,Butter,1,54.82,54.82,C,E-Wallet
+5465,1/20/2023 8:00,3455,Male,66,Personal Care,Soap,10,23.47,234.7,D,E-Wallet
+5466,1/20/2023 9:00,3225,Male,52,Personal Care,Lotion,8,85.1,680.8,B,Cash
+5467,1/20/2023 10:00,3052,Male,26,Beverage,Juice,9,53.66,482.94,B,Cash
+5468,1/20/2023 11:00,3354,Male,52,Snacks,Chips,1,12.54,12.54,D,Credit Card
+5469,1/20/2023 12:00,3260,Female,47,Household,Detergent,1,40.75,40.75,A,E-Wallet
+5470,1/20/2023 13:00,3129,Male,35,Beverage,Energy Drink,10,87.19,871.9,D,E-Wallet
+5471,1/20/2023 14:00,3105,Male,27,Dairy,Cheese,3,80.84,242.52,B,E-Wallet
+5472,1/20/2023 15:00,3127,Male,22,Frozen,Frozen Vegetables,8,91.98,735.84,B,E-Wallet
+5473,1/20/2023 16:00,3127,Male,21,Personal Care,Lotion,8,109.08,872.64,B,E-Wallet
+5474,1/20/2023 17:00,3334,Female,61,Frozen,Frozen Pizza,9,63.12,568.08,D,E-Wallet
+5475,1/20/2023 18:00,3095,Female,69,Electronics,USB Cable,6,17.83,106.98,A,E-Wallet
+5476,1/20/2023 19:00,3166,Female,53,Personal Care,Soap,5,59.4,297,B,Credit Card
+5477,1/20/2023 20:00,3114,Female,51,Personal Care,Shampoo,1,1.99,1.99,A,Cash
+5478,1/20/2023 21:00,3053,Female,22,Snacks,Crackers,2,65.27,130.54,D,Credit Card
+5479,1/20/2023 22:00,3340,Male,47,Electronics,Phone Case,4,111.01,444.04,B,E-Wallet
+5480,1/20/2023 23:00,3259,Female,58,Snacks,Nuts,6,118.03,708.18,B,Cash
+5481,1/21/2023 0:00,3483,Female,48,Produce,Carrots,3,116.93,350.79,B,Cash
+5482,1/21/2023 1:00,3494,Female,65,Personal Care,Toothpaste,10,27.37,273.7,A,Bank Transfer
+5483,1/21/2023 2:00,3225,Male,51,Dairy,Milk,9,82.47,742.23,A,E-Wallet
+5484,1/21/2023 3:00,3015,,43,Personal Care,Toothpaste,9,36.53,328.77,B,E-Wallet
+5485,1/21/2023 4:00,3003,Female,,Personal Care,Lotion,5,36.54,182.7,B,Credit Card
+5486,1/21/2023 5:00,3348,Male,29,Beverage,Soft Drink,4,48.85,195.4,C,Bank Transfer
+5487,1/21/2023 6:00,3475,Female,19,Dairy,Cheese,6,79.21,475.26,B,E-Wallet
+5488,1/21/2023 7:00,3367,Female,65,Dairy,Cheese,4,17.94,71.76,C,Cash
+5489,1/21/2023 8:00,3239,Female,27,Produce,Carrots,11,70.62,776.82,D,E-Wallet
+5490,1/21/2023 9:00,3161,Female,33,Beverage,Mineral Water,1,102.11,102.11,B,E-Wallet
+5491,1/21/2023 10:00,3467,Female,66,Beverage,Mineral Water,7,76.79,537.53,D,E-Wallet
+5492,1/21/2023 11:00,3440,Male,25,Snacks,Chips,7,61.89,433.23,D,Cash
+5493,1/21/2023 12:00,3378,Male,27,Beverage,Mineral Water,5,37.25,186.25,A,Bank Transfer
+5494,1/21/2023 13:00,3289,,59,Household,Cleaner,6,22.38,134.28,D,Credit Card
+5495,1/21/2023 14:00,3415,Female,17,Produce,Broccoli,4,19.95,79.8,C,Cash
+5496,1/21/2023 15:00,3260,Female,51,Personal Care,Lotion,11,50.93,560.23,D,E-Wallet
+5497,1/21/2023 16:00,3224,Male,25,Produce,Bananas,10,83.82,838.2,B,Cash
+5498,1/21/2023 17:00,3234,Male,59,Frozen,Frozen Pizza,10,52.82,528.2,B,Bank Transfer
+5499,1/21/2023 18:00,3220,,45,Snacks,Crackers,1,79.48,79.48,D,Bank Transfer
+5500,1/21/2023 19:00,3248,Male,32,Beverage,Mineral Water,3,117.28,351.84,D,E-Wallet
+5501,1/21/2023 20:00,3336,Female,37,Household,Cleaner,9,113.78,1024.02,A,Credit Card
+5502,1/21/2023 21:00,3369,Male,52,Beverage,Juice,8,39.31,314.48,A,Bank Transfer
+5503,1/21/2023 22:00,3107,Male,27,Snacks,Chips,5,53.18,265.9,B,Cash
+5504,1/21/2023 23:00,3220,Female,48,Electronics,Phone Case,10,15.89,158.9,D,Cash
+5505,1/22/2023 0:00,3335,Female,47,Electronics,USB Cable,7,44.65,312.55,C,Credit Card
+5506,1/22/2023 1:00,3112,Female,31,Frozen,Frozen Vegetables,10,95.72,957.2,A,Bank Transfer
+5507,1/22/2023 2:00,3022,Male,38,Beverage,Soft Drink,10,101.55,1015.5,C,E-Wallet
+5508,1/22/2023 3:00,3159,Male,41,Electronics,Phone Case,10,8,80,B,E-Wallet
+5509,1/22/2023 4:00,3188,Male,30,Electronics,Phone Case,10,65.95,659.5,A,Credit Card
+5510,1/22/2023 5:00,3341,Female,46,Snacks,Nuts,9,84.48,760.32,D,E-Wallet
+5511,1/22/2023 6:00,3288,Female,52,Electronics,USB Cable,7,76.15,533.05,D,Cash
+5512,1/22/2023 7:00,3071,Male,25,Produce,Bananas,9,83.59,752.31,B,Bank Transfer
+5513,1/22/2023 8:00,3225,Male,64,Produce,Carrots,4,117.36,469.44,D,E-Wallet
+5514,1/22/2023 9:00,3392,Male,36,Electronics,USB Cable,1,14.88,14.88,A,Credit Card
+5515,1/22/2023 10:00,3078,Female,54,Personal Care,Shampoo,5,86.79,433.95,A,Credit Card
+5516,1/22/2023 11:00,3190,Female,,Household,Detergent,1,100.85,100.85,D,Credit Card
+5517,1/22/2023 12:00,3249,,51,Beverage,Energy Drink,8,96.91,775.28,B,E-Wallet
+5518,1/22/2023 13:00,3217,Male,39,Beverage,Soft Drink,8,72.18,577.44,C,Bank Transfer
+5519,1/22/2023 14:00,3224,Female,22,Snacks,Cookies,9,89.61,806.49,C,Credit Card
+5520,1/22/2023 15:00,3028,Female,39,Personal Care,Shampoo,6,19.65,117.9,A,Credit Card
+5521,1/22/2023 16:00,3322,Male,35,Household,Cleaner,7,75.69,529.83,A,Cash
+5522,1/22/2023 17:00,3017,Male,59,Electronics,Phone Case,10,48.42,484.2,B,Cash
+5523,1/22/2023 18:00,3475,Male,20,Snacks,Chips,5,86.36,431.8,A,Bank Transfer
+5524,1/22/2023 19:00,3386,Male,20,Snacks,Chips,3,99.82,299.46,C,Cash
+5525,1/22/2023 20:00,3136,Male,68,Personal Care,Lotion,9,60.25,542.25,B,E-Wallet
+5526,1/22/2023 21:00,3294,Male,65,Beverage,Juice,3,5.54,16.62,D,Bank Transfer
+5527,1/22/2023 22:00,3404,Male,31,Household,Tissue,7,45.05,315.35,B,E-Wallet
+5528,1/22/2023 23:00,3256,Female,64,Frozen,Frozen Vegetables,1,64.03,64.03,C,Bank Transfer
+5529,1/23/2023 0:00,3369,Female,35,Snacks,Nuts,6,10.16,60.96,B,E-Wallet
+5530,1/23/2023 1:00,3192,Male,39,Household,Cleaner,9,12.74,114.66,B,Cash
+5531,1/23/2023 2:00,3229,Female,59,Snacks,Chips,7,28.34,198.38,B,Bank Transfer
+5532,1/23/2023 3:00,3377,Female,19,Snacks,Chips,4,103.3,413.2,B,Credit Card
+5533,1/23/2023 4:00,3405,Male,20,Beverage,Soft Drink,10,76.51,765.1,C,Cash
+5534,1/23/2023 5:00,3090,Female,24,Snacks,Cookies,9,88.46,796.14,B,E-Wallet
+5535,1/23/2023 6:00,3287,Male,64,Beverage,Soft Drink,6,93.12,558.72,D,Credit Card
+5536,1/23/2023 7:00,3212,Male,,Snacks,Crackers,6,79.11,474.66,C,Cash
+5537,1/23/2023 8:00,3326,Female,34,Household,Cleaner,6,72.83,436.98,B,E-Wallet
+5538,1/23/2023 9:00,3114,Male,50,Snacks,Crackers,2,65.41,130.82,B,E-Wallet
+5539,1/23/2023 10:00,3399,Female,59,Household,Dish Soap,11,91.26,1003.86,D,Credit Card
+5540,1/23/2023 11:00,3185,Female,23,Electronics,Phone Case,2,72.29,144.58,D,Cash
+5541,1/23/2023 12:00,3257,Female,43,Produce,Apples,1,60.33,60.33,C,Cash
+5542,1/23/2023 13:00,3090,Female,39,Snacks,Nuts,2,91.09,182.18,D,Cash
+5543,1/23/2023 14:00,3285,Female,48,Electronics,Phone Case,1,31.85,31.85,C,Bank Transfer
+5544,1/23/2023 15:00,3066,Male,35,Personal Care,Toothpaste,7,4.82,33.74,B,Credit Card
+5545,1/23/2023 16:00,3278,Female,42,Snacks,Nuts,1,107.42,107.42,A,Credit Card
+5546,1/23/2023 17:00,3445,Female,36,Personal Care,Shampoo,10,116.4,1164,C,Credit Card
+5547,1/23/2023 18:00,3029,Female,40,Beverage,Mineral Water,1,82.61,82.61,D,Credit Card
+5548,1/23/2023 19:00,3009,Female,54,Dairy,Butter,9,95.08,855.72,D,Cash
+5549,1/23/2023 20:00,3297,Male,27,Produce,Bananas,9,6.42,57.78,A,Bank Transfer
+5550,1/23/2023 21:00,3021,Male,56,Personal Care,Lotion,3,19.36,58.08,B,Bank Transfer
+5551,1/23/2023 22:00,3439,Female,42,Snacks,Nuts,3,105.01,315.03,C,Cash
+5552,1/23/2023 23:00,3249,Male,25,Personal Care,Soap,9,51.76,465.84,A,E-Wallet
+5553,1/24/2023 0:00,3096,Female,16,Electronics,USB Cable,8,5.26,42.08,D,Credit Card
+5554,1/24/2023 1:00,3480,Male,67,Snacks,Nuts,6,23.62,141.72,A,E-Wallet
+5555,1/24/2023 2:00,3111,Female,62,Household,Detergent,7,68.88,482.16,B,Bank Transfer
+5556,1/24/2023 3:00,3236,Male,33,Personal Care,Lotion,2,62.92,125.84,A,Cash
+5557,1/24/2023 4:00,3040,Male,19,Electronics,Earphones,4,28.82,115.28,D,E-Wallet
+5558,1/24/2023 5:00,3282,Male,67,Frozen,Frozen Vegetables,3,116.79,350.37,D,Credit Card
+5559,1/24/2023 6:00,3176,,34,Dairy,Cheese,9,90.44,813.96,A,Cash
+5560,1/24/2023 7:00,3126,Male,60,Produce,Broccoli,11,85.62,941.82,B,Credit Card
+5561,1/24/2023 8:00,3205,Female,31,Electronics,Phone Case,8,73.04,584.32,C,Bank Transfer
+5562,1/24/2023 9:00,3387,Male,57,Beverage,Energy Drink,2,92.96,185.92,C,E-Wallet
+5563,1/24/2023 10:00,3224,Female,21,Household,Detergent,2,15.82,31.64,A,Cash
+5564,1/24/2023 11:00,3033,Male,19,Beverage,Soft Drink,10,109.11,1091.1,B,Credit Card
+5565,1/24/2023 12:00,3353,Male,53,Frozen,Frozen Vegetables,10,96.77,967.7,C,Bank Transfer
+5566,1/24/2023 13:00,3298,Female,17,Electronics,Phone Case,8,113.17,905.36,D,Credit Card
+5567,1/24/2023 14:00,3234,Female,28,Electronics,USB Cable,7,13.43,94.01,A,E-Wallet
+5568,1/24/2023 15:00,3077,,19,Household,Tissue,4,2.01,8.04,C,Cash
+5569,1/24/2023 16:00,3299,Female,28,Dairy,Milk,3,94.75,284.25,D,Cash
+5570,1/24/2023 17:00,3454,Male,56,Produce,Bananas,11,118.3,1301.3,A,E-Wallet
+5571,1/24/2023 18:00,3004,Female,67,Produce,Bananas,3,88.9,266.7,A,Bank Transfer
+5572,1/24/2023 19:00,3358,Female,31,,,4,111.72,446.88,C,Bank Transfer
+5573,1/24/2023 20:00,3192,Female,32,Snacks,Chips,1,53.16,53.16,B,Bank Transfer
+5574,1/24/2023 21:00,3198,Female,62,Frozen,Frozen Pizza,11,27.28,300.08,D,Credit Card
+5575,1/24/2023 22:00,3435,Female,43,Personal Care,Soap,6,108.64,651.84,A,Bank Transfer
+5576,1/24/2023 23:00,3451,Male,62,Snacks,Chips,3,1.95,5.85,B,E-Wallet
+5577,1/25/2023 0:00,3219,Male,49,Produce,Bananas,3,70.34,211.02,A,Credit Card
+5578,1/25/2023 1:00,3232,Male,37,Snacks,Nuts,3,83.05,249.15,C,Bank Transfer
+5579,1/25/2023 2:00,3468,Male,41,Household,Cleaner,11,7.21,79.31,D,Bank Transfer
+5580,1/25/2023 3:00,3402,Female,59,Household,Dish Soap,8,109.63,877.04,B,Cash
+5581,1/25/2023 4:00,3404,Male,50,Beverage,Soft Drink,5,110,550,D,E-Wallet
+5582,1/25/2023 5:00,3158,Male,64,Electronics,Phone Case,1,114.92,114.92,D,Bank Transfer
+5583,1/25/2023 6:00,3202,Female,39,Dairy,Milk,2,98.11,196.22,C,E-Wallet
+5584,1/25/2023 7:00,3180,Male,61,Personal Care,Shampoo,6,56.44,338.64,D,Cash
+5585,1/25/2023 8:00,3279,Female,35,Snacks,Chips,7,65.91,461.37,D,Bank Transfer
+5586,1/25/2023 9:00,3303,Female,59,,,1,92.36,92.36,A,Credit Card
+5587,1/25/2023 10:00,3387,Female,30,Beverage,Juice,6,62.18,373.08,C,Bank Transfer
+5588,1/25/2023 11:00,3244,Male,27,Personal Care,Soap,4,73.37,293.48,A,E-Wallet
+5589,1/25/2023 12:00,3050,Female,47,Snacks,Chips,1,101.94,101.94,C,Credit Card
+5590,1/25/2023 13:00,3378,Female,41,Beverage,Soft Drink,9,14.91,134.19,A,Credit Card
+5591,1/25/2023 14:00,3009,Female,69,Snacks,Cookies,4,109.35,437.4,C,Bank Transfer
+5592,1/25/2023 15:00,3497,Female,21,Snacks,Crackers,2,30.88,61.76,C,E-Wallet
+5593,1/25/2023 16:00,3403,Female,37,Beverage,Energy Drink,11,4.28,47.08,C,Cash
+5594,1/25/2023 17:00,3420,Male,34,Dairy,Milk,4,4.38,17.52,D,Bank Transfer
+5595,1/25/2023 18:00,3424,Male,28,,,10,107.11,1071.1,B,Bank Transfer
+5596,1/25/2023 19:00,3411,Male,45,Dairy,Butter,10,86.96,869.6,D,Credit Card
+5597,1/25/2023 20:00,3234,Male,58,Snacks,Cookies,1,105.09,105.09,D,Credit Card
+5598,1/25/2023 21:00,3348,Male,38,Personal Care,Toothpaste,6,63.99,383.94,A,Bank Transfer
+5599,1/25/2023 22:00,3235,Female,,Snacks,Crackers,6,68.72,412.32,B,E-Wallet
+5600,1/25/2023 23:00,3115,,36,Electronics,Earphones,7,18.38,128.66,B,Bank Transfer
+5601,1/26/2023 0:00,3072,Male,42,Frozen,Frozen Pizza,5,114.33,571.65,D,Cash
+5602,1/26/2023 1:00,3106,Female,21,Household,Detergent,3,46.57,139.71,A,Credit Card
+5603,1/26/2023 2:00,3496,Male,40,Beverage,Energy Drink,3,65.57,196.71,C,E-Wallet
+5604,1/26/2023 3:00,3072,Male,33,Beverage,Juice,5,40.28,201.4,D,E-Wallet
+5605,1/26/2023 4:00,3082,Female,64,Household,Tissue,9,29.34,264.06,C,Credit Card
+5606,1/26/2023 5:00,3379,Male,49,Frozen,Frozen Pizza,2,63.36,126.72,A,Credit Card
+5607,1/26/2023 6:00,3149,Female,44,Snacks,Chips,1,62.44,62.44,C,Credit Card
+5608,1/26/2023 7:00,3494,Male,60,Personal Care,Soap,6,117.68,706.08,B,Bank Transfer
+5609,1/26/2023 8:00,3141,Female,38,Dairy,Butter,11,66.24,728.64,D,Credit Card
+5610,1/26/2023 9:00,3283,Male,16,Produce,Broccoli,3,95.66,286.98,A,Credit Card
+5611,1/26/2023 10:00,3239,Male,46,Personal Care,Soap,11,96.04,1056.44,A,Credit Card
+5612,1/26/2023 11:00,3380,Female,16,Snacks,Chips,5,78.26,391.3,B,Cash
+5613,1/26/2023 12:00,3062,Male,22,Household,Detergent,8,33.97,271.76,A,Credit Card
+5614,1/26/2023 13:00,3296,Female,52,Beverage,Juice,7,103.98,727.86,C,Cash
+5615,1/26/2023 14:00,3309,Female,52,Snacks,Crackers,7,69.81,488.67,C,E-Wallet
+5616,1/26/2023 15:00,3208,Female,58,Electronics,USB Cable,7,109.21,764.47,D,Bank Transfer
+5617,1/26/2023 16:00,3296,Female,45,Produce,Carrots,3,7.57,22.71,A,Cash
+5618,1/26/2023 17:00,3127,Male,50,Electronics,Phone Case,7,9.22,64.54,B,Bank Transfer
+5619,1/26/2023 18:00,3265,Male,19,Snacks,Nuts,11,93.47,1028.17,D,Bank Transfer
+5620,1/26/2023 19:00,3411,Male,20,Personal Care,Toothpaste,3,15.96,47.88,B,Cash
+5621,1/26/2023 20:00,3209,Female,32,Dairy,Butter,5,47.43,237.15,B,Credit Card
+5622,1/26/2023 21:00,3259,Female,65,Snacks,Cookies,7,28.09,196.63,C,E-Wallet
+5623,1/26/2023 22:00,3312,Female,39,,,4,59.7,238.8,B,Cash
+5624,1/26/2023 23:00,3181,Male,16,Dairy,Cheese,8,22.63,181.04,B,Bank Transfer
+5625,1/27/2023 0:00,3260,Female,25,Electronics,USB Cable,4,106.09,424.36,C,Credit Card
+5626,1/27/2023 1:00,3296,Female,26,Snacks,Cookies,1,113.06,113.06,D,E-Wallet
+5627,1/27/2023 2:00,3180,Male,60,Snacks,Chips,7,70.15,491.05,A,Cash
+5628,1/27/2023 3:00,3312,Female,53,Personal Care,Shampoo,10,24.61,246.1,C,Credit Card
+5629,1/27/2023 4:00,3321,Female,54,Snacks,Cookies,10,84.66,846.6,D,E-Wallet
+5630,1/27/2023 5:00,3206,Male,47,Personal Care,Toothpaste,10,90.41,904.1,D,Bank Transfer
+5631,1/27/2023 6:00,3200,Female,18,Household,Cleaner,2,43.29,86.58,B,Bank Transfer
+5632,1/27/2023 7:00,3327,Male,35,Frozen,Frozen Vegetables,7,44.36,310.52,C,E-Wallet
+5633,1/27/2023 8:00,3030,Female,19,Snacks,Cookies,7,52.54,367.78,C,Cash
+5634,1/27/2023 9:00,3025,Male,29,Snacks,Crackers,5,7.59,37.95,A,Credit Card
+5635,1/27/2023 10:00,3039,Male,57,Dairy,Milk,8,48.51,388.08,D,Bank Transfer
+5636,1/27/2023 11:00,3208,Male,43,Snacks,Chips,11,33.33,366.63,A,Cash
+5637,1/27/2023 12:00,3331,Female,22,Dairy,Milk,4,33.29,133.16,C,Cash
+5638,1/27/2023 13:00,3153,Female,48,Snacks,Crackers,10,18.25,182.5,B,E-Wallet
+5639,1/27/2023 14:00,3033,Male,37,Household,Detergent,9,54.49,490.41,A,Credit Card
+5640,1/27/2023 15:00,3447,,60,Electronics,Phone Case,9,51.57,464.13,A,Credit Card
+5641,1/27/2023 16:00,3310,,19,Beverage,Juice,5,21.86,109.3,D,E-Wallet
+5642,1/27/2023 17:00,3116,Male,64,Produce,Apples,4,35.02,140.08,B,Cash
+5643,1/27/2023 18:00,3435,Female,43,Electronics,USB Cable,3,8.82,26.46,B,Bank Transfer
+5644,1/27/2023 19:00,3112,,60,Electronics,USB Cable,6,41,246,D,Cash
+5645,1/27/2023 20:00,3469,,42,Produce,Apples,3,28.51,85.53,A,E-Wallet
+5646,1/27/2023 21:00,3180,Male,32,Snacks,Cookies,6,62.92,377.52,A,Credit Card
+5647,1/27/2023 22:00,3436,Female,23,Personal Care,Soap,4,29.74,118.96,A,E-Wallet
+5648,1/27/2023 23:00,3202,Male,54,Snacks,Chips,8,56.47,451.76,A,Bank Transfer
+5649,1/28/2023 0:00,3440,Female,65,Household,Cleaner,4,98.54,394.16,B,Bank Transfer
+5650,1/28/2023 1:00,3114,Male,,Dairy,Milk,8,82.03,656.24,C,Cash
+5651,1/28/2023 2:00,3073,Male,49,,,2,54.08,108.16,D,Bank Transfer
+5652,1/28/2023 3:00,3001,Male,39,Household,Detergent,1,12.25,12.25,B,Credit Card
+5653,1/28/2023 4:00,3226,Male,38,Frozen,Frozen Vegetables,10,3.07,30.7,A,Bank Transfer
+5654,1/28/2023 5:00,3031,Male,44,Beverage,Juice,5,85.83,429.15,D,Bank Transfer
+5655,1/28/2023 6:00,3277,Female,36,Beverage,Juice,1,27.43,27.43,B,E-Wallet
+5656,1/28/2023 7:00,3024,Male,32,Beverage,Soft Drink,6,104.06,624.36,C,E-Wallet
+5657,1/28/2023 8:00,3019,Male,,Beverage,Juice,7,11.12,77.84,A,Credit Card
+5658,1/28/2023 9:00,3061,Male,16,Electronics,USB Cable,8,67.11,536.88,B,E-Wallet
+5659,1/28/2023 10:00,3112,Female,17,Snacks,Crackers,3,58.73,176.19,C,Bank Transfer
+5660,1/28/2023 11:00,3444,Male,48,Dairy,Butter,3,92.92,278.76,C,E-Wallet
+5661,1/28/2023 12:00,3124,Male,,Personal Care,Toothpaste,4,107.36,429.44,C,Credit Card
+5662,1/28/2023 13:00,3469,Male,34,,,6,41.87,251.22,A,E-Wallet
+5663,1/28/2023 14:00,3409,Female,63,Beverage,Mineral Water,5,5.93,29.65,D,E-Wallet
+5664,1/28/2023 15:00,3020,Male,35,Produce,Carrots,8,23.24,185.92,A,E-Wallet
+5665,1/28/2023 16:00,3117,Female,22,Dairy,Milk,11,18.41,202.51,B,E-Wallet
+5666,1/28/2023 17:00,3154,Male,61,Beverage,Mineral Water,5,12.46,62.3,B,Credit Card
+5667,1/28/2023 18:00,3127,Female,66,Household,Cleaner,2,34.52,69.04,A,E-Wallet
+5668,1/28/2023 19:00,3007,Male,45,Beverage,Juice,1,70.13,70.13,B,Credit Card
+5669,1/28/2023 20:00,3451,Female,39,Beverage,Energy Drink,9,51.78,466.02,C,Credit Card
+5670,1/28/2023 21:00,3488,Male,52,Frozen,Ice Cream,8,103.55,828.4,C,Credit Card
+5671,1/28/2023 22:00,3312,Female,36,Snacks,Nuts,8,57.15,457.2,C,E-Wallet
+5672,1/28/2023 23:00,3496,,49,Dairy,Milk,11,35.58,391.38,B,E-Wallet
+5673,1/29/2023 0:00,3072,Male,61,Beverage,Energy Drink,3,113.45,340.35,D,Bank Transfer
+5674,1/29/2023 1:00,3094,Female,38,Personal Care,Shampoo,10,3.78,37.8,C,Bank Transfer
+5675,1/29/2023 2:00,3011,Male,35,Beverage,Energy Drink,1,78.12,78.12,D,E-Wallet
+5676,1/29/2023 3:00,3456,Female,21,Personal Care,Soap,5,20.11,100.55,C,Cash
+5677,1/29/2023 4:00,3249,Female,23,Personal Care,Toothpaste,9,60.97,548.73,B,E-Wallet
+5678,1/29/2023 5:00,3485,Female,54,Snacks,Chips,6,110.87,665.22,C,Bank Transfer
+5679,1/29/2023 6:00,3401,Male,30,Dairy,Butter,5,24.49,122.45,B,Cash
+5680,1/29/2023 7:00,3072,Male,62,Electronics,Phone Case,10,38.08,380.8,C,Bank Transfer
+5681,1/29/2023 8:00,3175,Female,23,Household,Detergent,8,42.46,339.68,B,Bank Transfer
+5682,1/29/2023 9:00,3428,Female,67,Dairy,Milk,1,114.09,114.09,B,E-Wallet
+5683,1/29/2023 10:00,3192,Male,26,Snacks,Cookies,6,76.96,461.76,C,Bank Transfer
+5684,1/29/2023 11:00,3414,,46,Personal Care,Shampoo,9,31.84,286.56,B,Credit Card
+5685,1/29/2023 12:00,3043,Male,62,Beverage,Energy Drink,8,88.79,710.32,C,E-Wallet
+5686,1/29/2023 13:00,3235,Male,41,Household,Dish Soap,9,23.23,209.07,D,Bank Transfer
+5687,1/29/2023 14:00,3016,Male,30,Snacks,Crackers,7,21.76,152.32,B,Credit Card
+5688,1/29/2023 15:00,3119,Female,16,Snacks,Nuts,3,31.49,94.47,B,E-Wallet
+5689,1/29/2023 16:00,3260,Female,29,Electronics,Phone Case,9,113.43,1020.87,B,Cash
+5690,1/29/2023 17:00,3341,Female,69,Household,Dish Soap,6,28.43,170.58,A,Credit Card
+5691,1/29/2023 18:00,3050,Male,62,Beverage,Soft Drink,11,81.19,893.09,C,Cash
+5692,1/29/2023 19:00,3034,Female,47,Dairy,Butter,4,62.46,249.84,D,E-Wallet
+5693,1/29/2023 20:00,3254,Male,40,Household,Dish Soap,9,18.34,165.06,B,E-Wallet
+5694,1/29/2023 21:00,3232,Male,65,Electronics,Phone Case,5,84.61,423.05,D,Credit Card
+5695,1/29/2023 22:00,3291,Male,53,Beverage,Mineral Water,1,44.75,44.75,B,Credit Card
+5696,1/29/2023 23:00,3064,Female,53,Electronics,Earphones,5,107.33,536.65,A,Bank Transfer
+5697,1/30/2023 0:00,3269,Male,59,Dairy,Milk,4,3.34,13.36,B,Cash
+5698,1/30/2023 1:00,3363,Male,57,Snacks,Crackers,9,44.3,398.7,D,Credit Card
+5699,1/30/2023 2:00,3027,Female,38,Beverage,Soft Drink,10,46.73,467.3,A,E-Wallet
+5700,1/30/2023 3:00,3456,Female,26,Snacks,Nuts,1,74.53,74.53,D,Credit Card
+5701,1/30/2023 4:00,3425,Female,44,Personal Care,Shampoo,4,70.72,282.88,B,Credit Card
+5702,1/30/2023 5:00,3298,,23,Household,Tissue,11,85,935,A,Cash
+5703,1/30/2023 6:00,3413,,38,Snacks,Crackers,3,116.57,349.71,C,Cash
+5704,1/30/2023 7:00,3254,Female,27,Electronics,USB Cable,3,106.72,320.16,A,Bank Transfer
+5705,1/30/2023 8:00,3144,Female,21,Snacks,Nuts,6,33.72,202.32,B,Credit Card
+5706,1/30/2023 9:00,3235,Male,22,Snacks,Cookies,9,39.67,357.03,B,Credit Card
+5707,1/30/2023 10:00,3181,Male,47,Beverage,Mineral Water,10,40.87,408.7,C,Cash
+5708,1/30/2023 11:00,3046,,30,Produce,Apples,11,100.38,1104.18,A,Credit Card
+5709,1/30/2023 12:00,3453,Male,55,Personal Care,Toothpaste,6,1.64,9.84,B,Cash
+5710,1/30/2023 13:00,3293,Female,50,Snacks,Cookies,10,12.67,126.7,C,E-Wallet
+5711,1/30/2023 14:00,3360,Male,31,Household,Dish Soap,1,11.91,11.91,D,Bank Transfer
+5712,1/30/2023 15:00,3232,Male,52,Beverage,Energy Drink,10,21.49,214.9,C,E-Wallet
+5713,1/30/2023 16:00,3490,Male,24,Household,Dish Soap,6,67.15,402.9,A,E-Wallet
+5714,1/30/2023 17:00,3444,,27,Dairy,Milk,9,19.42,174.78,B,Bank Transfer
+5715,1/30/2023 18:00,3202,Male,52,Electronics,Earphones,5,96.67,483.35,C,Cash
+5716,1/30/2023 19:00,3143,Male,29,Produce,Bananas,3,97.99,293.97,A,Credit Card
+5717,1/30/2023 20:00,3405,Male,39,Personal Care,Shampoo,1,42.64,42.64,C,E-Wallet
+5718,1/30/2023 21:00,3290,Female,64,Beverage,Energy Drink,2,26.94,53.88,B,Bank Transfer
+5719,1/30/2023 22:00,3214,,21,Dairy,Butter,4,18.54,74.16,D,Credit Card
+5720,1/30/2023 23:00,3214,Male,33,Beverage,Energy Drink,1,64.98,64.98,A,Credit Card
+5721,1/31/2023 0:00,3009,Female,35,Snacks,Crackers,7,59.21,414.47,D,Credit Card
+5722,1/31/2023 1:00,3154,Female,44,Household,Cleaner,5,2.2,11,D,E-Wallet
+5723,1/31/2023 2:00,3333,Male,64,Personal Care,Shampoo,3,37.96,113.88,B,Cash
+5724,1/31/2023 3:00,3246,Female,49,,,2,60.84,121.68,D,Credit Card
+5725,1/31/2023 4:00,3402,Female,27,Dairy,Milk,4,19.6,78.4,C,Cash
+5726,1/31/2023 5:00,3257,Female,17,Beverage,Soft Drink,1,34.11,34.11,B,Cash
+5727,1/31/2023 6:00,3279,Female,27,Personal Care,Lotion,8,89.15,713.2,A,E-Wallet
+5728,1/31/2023 7:00,3289,Female,34,Beverage,Soft Drink,6,47.09,282.54,A,Bank Transfer
+5729,1/31/2023 8:00,3431,Male,25,Personal Care,Soap,2,21.69,43.38,B,Credit Card
+5730,1/31/2023 9:00,3095,Male,42,Household,Cleaner,8,95.78,766.24,C,Credit Card
+5731,1/31/2023 10:00,3378,Male,63,Snacks,Nuts,3,76.9,230.7,D,Credit Card
+5732,1/31/2023 11:00,3277,Male,35,Dairy,Butter,9,75.78,682.02,B,E-Wallet
+5733,1/31/2023 12:00,3215,Male,50,Frozen,Frozen Pizza,7,11.16,78.12,C,Credit Card
+5734,1/31/2023 13:00,3208,Male,33,Personal Care,Soap,6,50.07,300.42,C,E-Wallet
+5735,1/31/2023 14:00,3061,Female,54,Dairy,Cheese,6,30.26,181.56,B,Bank Transfer
+5736,1/31/2023 15:00,3283,Male,32,Personal Care,Toothpaste,7,72.2,505.4,A,Bank Transfer
+5737,1/31/2023 16:00,3229,Female,40,Household,Detergent,11,8.16,89.76,C,E-Wallet
+5738,1/31/2023 17:00,3447,Female,35,Produce,Bananas,4,81.65,326.6,A,E-Wallet
+5739,1/31/2023 18:00,3102,Female,39,Snacks,Cookies,8,71.55,572.4,C,E-Wallet
+5740,1/31/2023 19:00,3180,Female,41,Beverage,Juice,8,46.88,375.04,C,Cash
+5741,1/31/2023 20:00,3448,Male,59,Dairy,Cheese,3,50.38,151.14,D,Bank Transfer
+5742,1/31/2023 21:00,3142,Female,54,Household,Cleaner,1,56.09,56.09,A,Cash
+5743,1/31/2023 22:00,3357,Male,40,,,9,28.77,258.93,D,Bank Transfer
+5744,1/31/2023 23:00,3431,,22,Household,Tissue,2,55.04,110.08,B,Cash
+5745,2/1/2023 0:00,3263,Male,32,Personal Care,Soap,8,50.84,406.72,D,E-Wallet
+5746,2/1/2023 1:00,3332,Female,67,Beverage,Energy Drink,3,85.95,257.85,C,Credit Card
+5747,2/1/2023 2:00,3156,Male,43,Beverage,Juice,11,55.56,611.16,B,E-Wallet
+5748,2/1/2023 3:00,3387,Female,53,Frozen,Ice Cream,7,66.54,465.78,A,E-Wallet
+5749,2/1/2023 4:00,3406,Male,56,Snacks,Chips,4,58.88,235.52,B,Credit Card
+5750,2/1/2023 5:00,3243,Female,35,Produce,Broccoli,5,78.13,390.65,B,Cash
+5751,2/1/2023 6:00,3085,Female,49,Frozen,Frozen Vegetables,5,38.49,192.45,B,Bank Transfer
+5752,2/1/2023 7:00,3191,Male,53,Produce,Apples,2,9.43,18.86,A,Cash
+5753,2/1/2023 8:00,3285,Female,26,Beverage,Energy Drink,3,29.96,89.88,A,E-Wallet
+5754,2/1/2023 9:00,3404,Female,45,,,7,87.29,611.03,C,Bank Transfer
+5755,2/1/2023 10:00,3067,Male,18,Snacks,Nuts,8,31.45,251.6,D,Bank Transfer
+5756,2/1/2023 11:00,3475,Male,30,Personal Care,Toothpaste,2,94.44,188.88,A,Bank Transfer
+5757,2/1/2023 12:00,3213,Male,30,Personal Care,Lotion,6,40.34,242.04,C,Bank Transfer
+5758,2/1/2023 13:00,3361,Male,18,,,2,13.49,26.98,B,Cash
+5759,2/1/2023 14:00,3417,Female,26,Dairy,Milk,4,26.62,106.48,A,Cash
+5760,2/1/2023 15:00,3094,Female,50,Snacks,Crackers,1,85.07,85.07,B,E-Wallet
+5761,2/1/2023 16:00,3048,Male,37,Household,Dish Soap,6,100.04,600.24,D,E-Wallet
+5762,2/1/2023 17:00,3359,Female,33,Snacks,Cookies,4,109.19,436.76,C,E-Wallet
+5763,2/1/2023 18:00,3297,Male,60,Household,Dish Soap,7,54.18,379.26,D,Credit Card
+5764,2/1/2023 19:00,3123,Female,66,Snacks,Nuts,1,81.99,81.99,B,Bank Transfer
+5765,2/1/2023 20:00,3137,Male,54,Personal Care,Soap,8,55,440,A,E-Wallet
+5766,2/1/2023 21:00,3176,Female,67,Dairy,Cheese,4,74.1,296.4,D,Bank Transfer
+5767,2/1/2023 22:00,3486,Female,34,Beverage,Juice,7,65.44,458.08,C,E-Wallet
+5768,2/1/2023 23:00,3215,Male,61,Dairy,Milk,1,71.25,71.25,D,Bank Transfer
+5769,2/2/2023 0:00,3182,Female,55,Beverage,Juice,4,10.95,43.8,A,Cash
+5770,2/2/2023 1:00,3023,Female,32,Electronics,Earphones,5,5.11,25.55,D,E-Wallet
+5771,2/2/2023 2:00,3193,Male,69,Produce,Broccoli,5,48.75,243.75,A,E-Wallet
+5772,2/2/2023 3:00,3149,Female,,Household,Detergent,1,75.22,75.22,A,Bank Transfer
+5773,2/2/2023 4:00,3416,Female,62,Beverage,Soft Drink,11,32.53,357.83,B,Cash
+5774,2/2/2023 5:00,3365,Male,16,Personal Care,Shampoo,1,35.06,35.06,B,Cash
+5775,2/2/2023 6:00,3154,Male,50,Beverage,Soft Drink,5,104.37,521.85,B,Bank Transfer
+5776,2/2/2023 7:00,3033,Female,40,Dairy,Cheese,2,117.31,234.62,C,Cash
+5777,2/2/2023 8:00,3188,Female,24,Beverage,Juice,2,112.86,225.72,D,Cash
+5778,2/2/2023 9:00,3393,,29,Beverage,Mineral Water,7,56.73,397.11,B,E-Wallet
+5779,2/2/2023 10:00,3081,Female,30,Beverage,Mineral Water,10,79.85,798.5,C,E-Wallet
+5780,2/2/2023 11:00,3070,Female,34,Electronics,USB Cable,4,99.54,398.16,C,Credit Card
+5781,2/2/2023 12:00,3430,Female,56,Dairy,Cheese,3,90.4,271.2,D,E-Wallet
+5782,2/2/2023 13:00,3007,Female,62,Dairy,Butter,10,73.5,735,C,Credit Card
+5783,2/2/2023 14:00,3128,Female,39,Snacks,Chips,11,11.63,127.93,D,E-Wallet
+5784,2/2/2023 15:00,3007,Male,58,Snacks,Crackers,3,11.96,35.88,A,Bank Transfer
+5785,2/2/2023 16:00,3121,Male,65,Produce,Bananas,3,4.19,12.57,A,E-Wallet
+5786,2/2/2023 17:00,3229,Female,47,Household,Tissue,10,61.33,613.3,A,Cash
+5787,2/2/2023 18:00,3453,,31,Dairy,Cheese,4,91.75,367,A,Bank Transfer
+5788,2/2/2023 19:00,3161,Female,,Dairy,Butter,9,100.14,901.26,C,E-Wallet
+5789,2/2/2023 20:00,3114,Male,26,Electronics,Phone Case,5,65.11,325.55,A,Bank Transfer
+5790,2/2/2023 21:00,3138,Female,26,Dairy,Cheese,7,24.65,172.55,C,Bank Transfer
+5791,2/2/2023 22:00,3209,Male,38,Household,Tissue,10,61.03,610.3,A,Credit Card
+5792,2/2/2023 23:00,3360,Female,55,Electronics,USB Cable,5,72.53,362.65,A,Cash
+5793,2/3/2023 0:00,3284,Male,58,Beverage,Soft Drink,4,52.68,210.72,D,Cash
+5794,2/3/2023 1:00,3175,Male,35,Beverage,Soft Drink,6,104.56,627.36,D,Bank Transfer
+5795,2/3/2023 2:00,3302,Male,54,Dairy,Cheese,9,70.37,633.33,C,Cash
+5796,2/3/2023 3:00,3022,Male,18,Household,Detergent,6,86.19,517.14,C,Cash
+5797,2/3/2023 4:00,3021,,53,Personal Care,Toothpaste,3,97.36,292.08,A,E-Wallet
+5798,2/3/2023 5:00,3254,Female,33,Beverage,Energy Drink,11,39.15,430.65,B,Bank Transfer
+5799,2/3/2023 6:00,3367,Male,55,Household,Tissue,6,67.81,406.86,B,Bank Transfer
+5800,2/3/2023 7:00,3184,Male,39,Dairy,Butter,9,81.91,737.19,A,E-Wallet
+5801,2/3/2023 8:00,3288,Male,35,Electronics,Phone Case,3,112.33,336.99,A,Bank Transfer
+5802,2/3/2023 9:00,3160,Female,29,Frozen,Frozen Pizza,2,67.83,135.66,B,Credit Card
+5803,2/3/2023 10:00,3371,Male,36,Snacks,Chips,7,105.66,739.62,D,Bank Transfer
+5804,2/3/2023 11:00,3164,Female,36,Snacks,Cookies,1,76.03,76.03,D,E-Wallet
+5805,2/3/2023 12:00,3415,Female,26,Frozen,Ice Cream,2,17.14,34.28,B,Credit Card
+5806,2/3/2023 13:00,3326,Female,60,Dairy,Butter,4,46.23,184.92,C,Bank Transfer
+5807,2/3/2023 14:00,3310,Male,50,Snacks,Nuts,10,71.88,718.8,D,E-Wallet
+5808,2/3/2023 15:00,3277,Male,61,Electronics,Earphones,9,66.23,596.07,B,Cash
+5809,2/3/2023 16:00,3035,Male,51,Household,Dish Soap,7,66.73,467.11,A,Credit Card
+5810,2/3/2023 17:00,3206,Male,59,Beverage,Soft Drink,7,116.63,816.41,A,E-Wallet
+5811,2/3/2023 18:00,3023,Male,24,Produce,Apples,1,62.59,62.59,D,Credit Card
+5812,2/3/2023 19:00,3254,Female,17,Snacks,Crackers,11,65.49,720.39,B,Bank Transfer
+5813,2/3/2023 20:00,3170,Female,34,Frozen,Ice Cream,7,111.48,780.36,D,Credit Card
+5814,2/3/2023 21:00,3254,Male,49,Snacks,Nuts,6,24.61,147.66,C,Cash
+5815,2/3/2023 22:00,3024,Male,69,Beverage,Energy Drink,11,73.99,813.89,B,Cash
+5816,2/3/2023 23:00,3350,Male,24,Frozen,Frozen Vegetables,4,102.79,411.16,D,Credit Card
+5817,2/4/2023 0:00,3330,Female,34,Dairy,Milk,8,29.01,232.08,B,Credit Card
+5818,2/4/2023 1:00,3325,Female,32,Dairy,Milk,7,17.23,120.61,C,Credit Card
+5819,2/4/2023 2:00,3383,Female,60,Snacks,Crackers,2,16.5,33,A,Credit Card
+5820,2/4/2023 3:00,3125,Male,33,Beverage,Soft Drink,9,113.88,1024.92,D,Bank Transfer
+5821,2/4/2023 4:00,3251,Male,52,Electronics,Phone Case,10,8.88,88.8,B,Bank Transfer
+5822,2/4/2023 5:00,3426,,34,Dairy,Butter,2,12.73,25.46,C,Credit Card
+5823,2/4/2023 6:00,3158,Male,52,Frozen,Frozen Pizza,7,25.06,175.42,A,Bank Transfer
+5824,2/4/2023 7:00,3199,,42,Beverage,Soft Drink,7,55.78,390.46,B,E-Wallet
+5825,2/4/2023 8:00,3390,Male,,Snacks,Nuts,3,93.71,281.13,A,Credit Card
+5826,2/4/2023 9:00,3200,Female,59,Dairy,Milk,6,12.78,76.68,C,Cash
+5827,2/4/2023 10:00,3308,Female,37,Frozen,Ice Cream,3,102.97,308.91,B,Credit Card
+5828,2/4/2023 11:00,3218,Female,34,Electronics,USB Cable,5,22.91,114.55,C,E-Wallet
+5829,2/4/2023 12:00,3338,Male,23,Frozen,Ice Cream,11,113.91,1253.01,B,Bank Transfer
+5830,2/4/2023 13:00,3484,Male,25,Household,Dish Soap,10,35.69,356.9,D,E-Wallet
+5831,2/4/2023 14:00,3410,,63,Personal Care,Soap,5,36.93,184.65,A,Credit Card
+5832,2/4/2023 15:00,3356,Male,57,Dairy,Cheese,6,14,84,C,E-Wallet
+5833,2/4/2023 16:00,3041,Male,41,Household,Cleaner,9,9.09,81.81,D,Bank Transfer
+5834,2/4/2023 17:00,3452,Female,67,Beverage,Energy Drink,11,60.49,665.39,A,Cash
+5835,2/4/2023 18:00,3182,Female,57,Household,Dish Soap,3,103.03,309.09,D,Bank Transfer
+5836,2/4/2023 19:00,3316,Male,24,Dairy,Cheese,2,10.79,21.58,C,Cash
+5837,2/4/2023 20:00,3333,Female,20,Snacks,Chips,4,7.58,30.32,A,Cash
+5838,2/4/2023 21:00,3439,Male,22,Beverage,Mineral Water,9,52.78,475.02,D,Cash
+5839,2/4/2023 22:00,3408,Female,52,Produce,Apples,6,51.24,307.44,A,E-Wallet
+5840,2/4/2023 23:00,3375,Male,62,Snacks,Cookies,7,103.16,722.12,B,Credit Card
+5841,2/5/2023 0:00,3351,Female,38,Personal Care,Toothpaste,2,22.8,45.6,D,Credit Card
+5842,2/5/2023 1:00,3127,Female,63,Snacks,Nuts,3,95.18,285.54,A,Bank Transfer
+5843,2/5/2023 2:00,3214,Male,64,Dairy,Milk,3,37.3,111.9,A,E-Wallet
+5844,2/5/2023 3:00,3424,Female,53,Beverage,Juice,10,7.2,72,A,Bank Transfer
+5845,2/5/2023 4:00,3466,Male,67,Electronics,Earphones,9,44.64,401.76,A,E-Wallet
+5846,2/5/2023 5:00,3192,Male,43,Snacks,Nuts,4,48.52,194.08,C,E-Wallet
+5847,2/5/2023 6:00,3418,,50,Household,Cleaner,8,75.8,606.4,C,Cash
+5848,2/5/2023 7:00,3471,Male,47,Dairy,Milk,1,31.05,31.05,C,E-Wallet
+5849,2/5/2023 8:00,3039,Female,67,Produce,Bananas,7,3.15,22.05,A,Cash
+5850,2/5/2023 9:00,3239,Female,25,Snacks,Nuts,2,17.59,35.18,D,Credit Card
+5851,2/5/2023 10:00,3485,Male,29,Electronics,Phone Case,5,30.81,154.05,A,E-Wallet
+5852,2/5/2023 11:00,3122,Female,16,Frozen,Frozen Pizza,7,113.08,791.56,C,Bank Transfer
+5853,2/5/2023 12:00,3239,Female,62,Frozen,Ice Cream,5,34.5,172.5,A,Bank Transfer
+5854,2/5/2023 13:00,3257,Male,68,Beverage,Energy Drink,6,108.34,650.04,B,E-Wallet
+5855,2/5/2023 14:00,3379,,65,Snacks,Nuts,7,70.54,493.78,C,Credit Card
+5856,2/5/2023 15:00,3234,Female,26,Snacks,Crackers,4,38,152,B,Credit Card
+5857,2/5/2023 16:00,3020,Male,19,Frozen,Frozen Pizza,3,81.46,244.38,C,E-Wallet
+5858,2/5/2023 17:00,3111,,52,Dairy,Milk,8,11.48,91.84,D,Bank Transfer
+5859,2/5/2023 18:00,3153,Female,21,Personal Care,Toothpaste,6,99.34,596.04,A,Cash
+5860,2/5/2023 19:00,3134,Male,43,Snacks,Crackers,5,70.85,354.25,A,Bank Transfer
+5861,2/5/2023 20:00,3116,Female,32,Dairy,Butter,5,58.76,293.8,C,Bank Transfer
+5862,2/5/2023 21:00,3094,Male,36,Personal Care,Shampoo,2,60.76,121.52,D,Credit Card
+5863,2/5/2023 22:00,3468,Male,57,Produce,Carrots,5,106.86,534.3,D,Bank Transfer
+5864,2/5/2023 23:00,3457,Male,64,Beverage,Mineral Water,3,15.2,45.6,D,Bank Transfer
+5865,2/6/2023 0:00,3120,Female,65,Electronics,Earphones,9,24.61,221.49,C,Credit Card
+5866,2/6/2023 1:00,3496,Female,21,Frozen,Frozen Vegetables,7,87.05,609.35,A,E-Wallet
+5867,2/6/2023 2:00,3369,Male,36,Frozen,Ice Cream,8,46.87,374.96,D,Bank Transfer
+5868,2/6/2023 3:00,3466,Male,37,Dairy,Butter,5,38.36,191.8,B,E-Wallet
+5869,2/6/2023 4:00,3232,Female,25,Frozen,Ice Cream,11,65.1,716.1,C,Cash
+5870,2/6/2023 5:00,3259,Female,56,Produce,Apples,2,47.24,94.48,A,Cash
+5871,2/6/2023 6:00,3164,Male,19,Dairy,Milk,2,81.48,162.96,C,Bank Transfer
+5872,2/6/2023 7:00,3326,Female,32,Beverage,Mineral Water,9,30.63,275.67,B,Cash
+5873,2/6/2023 8:00,3492,Male,,Beverage,Mineral Water,5,13.48,67.4,D,Cash
+5874,2/6/2023 9:00,3166,Male,35,Produce,Bananas,3,26.19,78.57,D,Cash
+5875,2/6/2023 10:00,3065,Male,30,Frozen,Ice Cream,11,53.77,591.47,B,Cash
+5876,2/6/2023 11:00,3083,Female,41,,,5,62.25,311.25,B,E-Wallet
+5877,2/6/2023 12:00,3294,Male,52,Personal Care,Soap,6,75.25,451.5,B,Bank Transfer
+5878,2/6/2023 13:00,3284,Male,,Dairy,Butter,3,111.46,334.38,B,Cash
+5879,2/6/2023 14:00,3431,Male,37,Personal Care,Shampoo,11,43.67,480.37,A,E-Wallet
+5880,2/6/2023 15:00,3457,Male,54,Snacks,Nuts,6,100.77,604.62,C,Cash
+5881,2/6/2023 16:00,3047,Male,22,Beverage,Energy Drink,6,13.43,80.58,B,E-Wallet
+5882,2/6/2023 17:00,3255,Female,56,Snacks,Cookies,8,102.66,821.28,C,E-Wallet
+5883,2/6/2023 18:00,3010,Female,31,Snacks,Cookies,1,16.39,16.39,D,E-Wallet
+5884,2/6/2023 19:00,3344,Male,57,Dairy,Milk,2,81.09,162.18,D,Cash
+5885,2/6/2023 20:00,3474,,38,Beverage,Mineral Water,10,36.94,369.4,B,E-Wallet
+5886,2/6/2023 21:00,3456,Female,18,Dairy,Cheese,11,118.61,1304.71,A,Credit Card
+5887,2/6/2023 22:00,3133,Female,,Electronics,USB Cable,9,96.83,871.47,D,Bank Transfer
+5888,2/6/2023 23:00,3397,Male,20,Snacks,Cookies,10,89.82,898.2,D,E-Wallet
+5889,2/7/2023 0:00,3342,Male,24,Personal Care,Shampoo,8,61.96,495.68,A,Credit Card
+5890,2/7/2023 1:00,3034,Male,30,Frozen,Frozen Pizza,6,51.02,306.12,B,E-Wallet
+5891,2/7/2023 2:00,3409,,41,Produce,Bananas,6,51.09,306.54,A,E-Wallet
+5892,2/7/2023 3:00,3151,Male,29,Beverage,Mineral Water,10,15.58,155.8,D,Cash
+5893,2/7/2023 4:00,3233,Female,57,Beverage,Energy Drink,11,97.67,1074.37,A,Bank Transfer
+5894,2/7/2023 5:00,3368,Female,65,Personal Care,Lotion,11,16.37,180.07,A,Cash
+5895,2/7/2023 6:00,3341,Female,48,Produce,Bananas,11,32.88,361.68,B,Bank Transfer
+5896,2/7/2023 7:00,3259,Male,41,Dairy,Cheese,8,108.38,867.04,C,Cash
+5897,2/7/2023 8:00,3264,Female,18,Snacks,Crackers,1,25.03,25.03,D,Cash
+5898,2/7/2023 9:00,3174,Male,35,Snacks,Crackers,4,27.66,110.64,D,Bank Transfer
+5899,2/7/2023 10:00,3242,Male,34,Beverage,Energy Drink,5,9.31,46.55,D,Bank Transfer
+5900,2/7/2023 11:00,3446,,54,Household,Tissue,10,100.4,1004,C,Credit Card
+5901,2/7/2023 12:00,3167,Male,64,Produce,Broccoli,6,49.24,295.44,C,Bank Transfer
+5902,2/7/2023 13:00,3307,Male,20,Beverage,Energy Drink,11,51.87,570.57,D,Credit Card
+5903,2/7/2023 14:00,3231,Male,46,Dairy,Cheese,9,10.32,92.88,C,Credit Card
+5904,2/7/2023 15:00,3278,Male,35,Snacks,Crackers,6,108,648,C,Bank Transfer
+5905,2/7/2023 16:00,3301,Female,60,Beverage,Energy Drink,2,42.67,85.34,C,Credit Card
+5906,2/7/2023 17:00,3203,Male,52,Beverage,Energy Drink,7,76.58,536.06,D,Bank Transfer
+5907,2/7/2023 18:00,3151,Female,59,Dairy,Cheese,10,47.59,475.9,D,Cash
+5908,2/7/2023 19:00,3433,Female,36,Household,Detergent,3,79.78,239.34,C,Credit Card
+5909,2/7/2023 20:00,3336,Male,67,Personal Care,Toothpaste,3,24.89,74.67,C,Cash
+5910,2/7/2023 21:00,3244,Male,32,Produce,Carrots,1,8.81,8.81,C,Credit Card
+5911,2/7/2023 22:00,3124,Female,24,Household,Dish Soap,2,93.16,186.32,B,E-Wallet
+5912,2/7/2023 23:00,3179,Female,34,Snacks,Nuts,2,79.24,158.48,A,Credit Card
+5913,2/8/2023 0:00,3028,Female,68,Frozen,Frozen Pizza,8,49.26,394.08,D,Credit Card
+5914,2/8/2023 1:00,3355,Female,51,Electronics,Earphones,3,5.18,15.54,B,Cash
+5915,2/8/2023 2:00,3362,Male,60,Beverage,Soft Drink,3,97.65,292.95,A,Bank Transfer
+5916,2/8/2023 3:00,3285,Female,60,Electronics,Phone Case,11,105.79,1163.69,A,Bank Transfer
+5917,2/8/2023 4:00,3443,Male,33,Frozen,Frozen Vegetables,9,35.84,322.56,A,Credit Card
+5918,2/8/2023 5:00,3248,Female,46,Beverage,Juice,7,48.87,342.09,A,Cash
+5919,2/8/2023 6:00,3358,Female,31,Snacks,Cookies,7,107.78,754.46,C,Bank Transfer
+5920,2/8/2023 7:00,3198,Male,32,Frozen,Ice Cream,8,91.23,729.84,A,E-Wallet
+5921,2/8/2023 8:00,3241,Female,40,Produce,Bananas,5,92.74,463.7,D,Credit Card
+5922,2/8/2023 9:00,3334,Female,39,Produce,Carrots,11,42.59,468.49,D,Credit Card
+5923,2/8/2023 10:00,3221,Male,64,Household,Cleaner,2,99.1,198.2,B,Bank Transfer
+5924,2/8/2023 11:00,3497,Male,31,Beverage,Juice,9,33,297,B,Credit Card
+5925,2/8/2023 12:00,3412,Female,57,Produce,Apples,7,36.91,258.37,A,E-Wallet
+5926,2/8/2023 13:00,3458,Male,41,Electronics,USB Cable,10,71.46,714.6,D,E-Wallet
+5927,2/8/2023 14:00,3110,Female,48,Electronics,USB Cable,8,25.15,201.2,C,Bank Transfer
+5928,2/8/2023 15:00,3431,,53,Beverage,Mineral Water,11,9.95,109.45,C,Cash
+5929,2/8/2023 16:00,3004,Male,68,Personal Care,Soap,6,49.31,295.86,C,E-Wallet
+5930,2/8/2023 17:00,3472,Female,39,Snacks,Cookies,5,64.67,323.35,C,Credit Card
+5931,2/8/2023 18:00,3130,Male,18,Produce,Bananas,10,22.05,220.5,B,Cash
+5932,2/8/2023 19:00,3366,Male,39,Beverage,Soft Drink,5,107.85,539.25,C,Credit Card
+5933,2/8/2023 20:00,3064,Female,45,Dairy,Cheese,6,13.19,79.14,C,Bank Transfer
+5934,2/8/2023 21:00,3285,Male,23,Household,Dish Soap,11,76.3,839.3,A,Cash
+5935,2/8/2023 22:00,3345,Female,33,Household,Cleaner,1,102.01,102.01,B,Credit Card
+5936,2/8/2023 23:00,3095,Female,20,Dairy,Butter,5,64.59,322.95,B,Cash
+5937,2/9/2023 0:00,3431,,66,Beverage,Energy Drink,11,96.74,1064.14,D,Credit Card
+5938,2/9/2023 1:00,3499,Male,68,Produce,Carrots,7,96.13,672.91,D,Bank Transfer
+5939,2/9/2023 2:00,3238,Female,62,Snacks,Nuts,1,41.48,41.48,C,E-Wallet
+5940,2/9/2023 3:00,3015,,25,Beverage,Juice,9,100.21,901.89,D,Credit Card
+5941,2/9/2023 4:00,3166,Female,21,Snacks,Chips,11,74.11,815.21,A,Cash
+5942,2/9/2023 5:00,3353,Female,63,Household,Cleaner,2,113.96,227.92,D,E-Wallet
+5943,2/9/2023 6:00,3242,Male,24,Beverage,Mineral Water,9,37.32,335.88,C,Bank Transfer
+5944,2/9/2023 7:00,3177,Male,21,Snacks,Nuts,3,5.01,15.03,D,Bank Transfer
+5945,2/9/2023 8:00,3200,Female,45,Personal Care,Toothpaste,3,91.28,273.84,B,Cash
+5946,2/9/2023 9:00,3040,Female,60,Snacks,Nuts,5,15.56,77.8,B,E-Wallet
+5947,2/9/2023 10:00,3400,Female,51,Household,Dish Soap,7,89.53,626.71,B,Credit Card
+5948,2/9/2023 11:00,3102,Male,30,Snacks,Nuts,6,23.55,141.3,B,Cash
+5949,2/9/2023 12:00,3364,Male,25,Household,Tissue,2,77.44,154.88,A,Bank Transfer
+5950,2/9/2023 13:00,3489,Male,32,Frozen,Frozen Pizza,3,44.23,132.69,C,Credit Card
+5951,2/9/2023 14:00,3290,,60,Snacks,Crackers,1,103.3,103.3,A,Bank Transfer
+5952,2/9/2023 15:00,3383,Female,22,Snacks,Crackers,2,26.78,53.56,D,E-Wallet
+5953,2/9/2023 16:00,3134,Male,35,Snacks,Nuts,1,18.41,18.41,B,Credit Card
+5954,2/9/2023 17:00,3359,Male,36,Dairy,Milk,8,36.43,291.44,C,Credit Card
+5955,2/9/2023 18:00,3488,Female,24,Personal Care,Toothpaste,2,93.01,186.02,C,Cash
+5956,2/9/2023 19:00,3241,Female,25,Beverage,Juice,2,58.79,117.58,A,Credit Card
+5957,2/9/2023 20:00,3343,Male,18,Personal Care,Shampoo,8,11.84,94.72,B,Credit Card
+5958,2/9/2023 21:00,3437,Male,43,Snacks,Crackers,11,22.47,247.17,C,Cash
+5959,2/9/2023 22:00,3114,Female,60,Snacks,Chips,1,11.07,11.07,A,E-Wallet
+5960,2/9/2023 23:00,3149,Female,25,Beverage,Energy Drink,5,62.55,312.75,A,Bank Transfer
+5961,2/10/2023 0:00,3355,Male,51,Beverage,Juice,10,61.72,617.2,D,Cash
+5962,2/10/2023 1:00,3239,Female,22,Produce,Broccoli,1,33.8,33.8,A,Bank Transfer
+5963,2/10/2023 2:00,3413,Female,43,Beverage,Mineral Water,2,6.36,12.72,C,E-Wallet
+5964,2/10/2023 3:00,3483,Female,53,Snacks,Nuts,6,87.33,523.98,D,E-Wallet
+5965,2/10/2023 4:00,3002,Male,20,Electronics,Phone Case,8,11.64,93.12,A,Credit Card
+5966,2/10/2023 5:00,3353,Male,54,Personal Care,Toothpaste,1,67.56,67.56,A,Cash
+5967,2/10/2023 6:00,3282,Male,36,Household,Detergent,4,78.48,313.92,A,Bank Transfer
+5968,2/10/2023 7:00,3300,,62,Personal Care,Shampoo,9,111.71,1005.39,B,E-Wallet
+5969,2/10/2023 8:00,3480,Male,20,Dairy,Cheese,8,117.14,937.12,C,Cash
+5970,2/10/2023 9:00,3018,Female,53,Beverage,Juice,5,72.91,364.55,B,E-Wallet
+5971,2/10/2023 10:00,3354,,68,Personal Care,Toothpaste,4,30.45,121.8,A,E-Wallet
+5972,2/10/2023 11:00,3030,Female,58,Frozen,Frozen Vegetables,8,119.89,959.12,C,Credit Card
+5973,2/10/2023 12:00,3108,,49,Beverage,Juice,10,68.62,686.2,A,Bank Transfer
+5974,2/10/2023 13:00,3023,Female,34,Personal Care,Soap,11,20.94,230.34,D,Bank Transfer
+5975,2/10/2023 14:00,3048,,59,Frozen,Frozen Pizza,8,104.16,833.28,C,E-Wallet
+5976,2/10/2023 15:00,3439,Male,42,Dairy,Milk,11,59.52,654.72,D,E-Wallet
+5977,2/10/2023 16:00,3212,Male,44,Snacks,Chips,1,97.32,97.32,D,Credit Card
+5978,2/10/2023 17:00,3494,Male,41,,,1,28.22,28.22,D,E-Wallet
+5979,2/10/2023 18:00,3127,Female,49,Beverage,Juice,9,107.86,970.74,C,Bank Transfer
+5980,2/10/2023 19:00,3023,Male,41,Electronics,Phone Case,6,60.11,360.66,C,Bank Transfer
+5981,2/10/2023 20:00,3040,Female,20,Personal Care,Toothpaste,7,62.28,435.96,B,Bank Transfer
+5982,2/10/2023 21:00,3064,Female,43,Produce,Broccoli,5,73.08,365.4,D,Credit Card
+5983,2/10/2023 22:00,3072,Female,21,Beverage,Mineral Water,8,76.87,614.96,D,E-Wallet
+5984,2/10/2023 23:00,3398,Female,54,Beverage,Mineral Water,10,8.96,89.6,D,Cash
+5985,2/11/2023 0:00,3380,Female,31,Personal Care,Toothpaste,10,23.28,232.8,D,E-Wallet
+5986,2/11/2023 1:00,3471,Male,25,Electronics,USB Cable,4,96.86,387.44,A,Bank Transfer
+5987,2/11/2023 2:00,3366,Male,26,Household,Cleaner,9,14.23,128.07,B,E-Wallet
+5988,2/11/2023 3:00,3078,Female,45,Snacks,Crackers,3,28.62,85.86,D,E-Wallet
+5989,2/11/2023 4:00,3002,Male,43,Dairy,Butter,3,62.18,186.54,C,Cash
+5990,2/11/2023 5:00,3378,Female,33,Personal Care,Lotion,7,95.03,665.21,D,E-Wallet
+5991,2/11/2023 6:00,3004,Male,34,Personal Care,Soap,1,21.91,21.91,A,Credit Card
+5992,2/11/2023 7:00,3216,Male,33,Snacks,Cookies,3,78.05,234.15,A,Cash
+5993,2/11/2023 8:00,3243,Female,50,Dairy,Butter,4,42.15,168.6,C,Cash
+5994,2/11/2023 9:00,3356,Female,,Household,Tissue,5,41.96,209.8,A,Cash
+5995,2/11/2023 10:00,3265,Female,37,Beverage,Soft Drink,3,12.73,38.19,D,E-Wallet
+5996,2/11/2023 11:00,3016,Male,69,Electronics,Earphones,3,74.2,222.6,D,Bank Transfer
+5997,2/11/2023 12:00,3352,Male,63,Electronics,USB Cable,1,85.84,85.84,C,Credit Card
+5998,2/11/2023 13:00,3160,Female,49,Snacks,Cookies,4,23.56,94.24,C,Cash
+5999,2/11/2023 14:00,3027,Male,36,Beverage,Energy Drink,11,37.32,410.52,D,E-Wallet
+6000,2/11/2023 15:00,3015,Male,54,Frozen,Frozen Vegetables,6,95.4,572.4,A,Bank Transfer
+6001,2/11/2023 16:00,3497,Female,62,Frozen,Frozen Vegetables,8,118.42,947.36,D,E-Wallet
+6002,2/11/2023 17:00,3324,Male,58,Personal Care,Lotion,5,7.48,37.4,C,Cash
+6003,2/11/2023 18:00,3228,Male,54,Household,Dish Soap,4,60.2,240.8,D,Credit Card
+6004,2/11/2023 19:00,3281,Male,55,Snacks,Chips,10,59.32,593.2,A,Cash
+6005,2/11/2023 20:00,3015,Male,58,Snacks,Nuts,8,71,568,B,E-Wallet
+6006,2/11/2023 21:00,3252,Male,53,Snacks,Cookies,6,49.53,297.18,A,Cash
+6007,2/11/2023 22:00,3012,Male,45,Household,Detergent,7,19.84,138.88,A,Cash
+6008,2/11/2023 23:00,3071,Female,26,Personal Care,Shampoo,11,49.48,544.28,B,Cash
+6009,2/12/2023 0:00,3228,,27,Dairy,Milk,8,49.44,395.52,B,Cash
+6010,2/12/2023 1:00,3408,Male,63,Personal Care,Shampoo,6,75.1,450.6,D,Bank Transfer
+6011,2/12/2023 2:00,3070,Female,27,Frozen,Frozen Pizza,7,92.4,646.8,C,Bank Transfer
+6012,2/12/2023 3:00,3112,Male,60,Produce,Carrots,6,112.7,676.2,C,E-Wallet
+6013,2/12/2023 4:00,3169,Female,41,Snacks,Cookies,1,111.46,111.46,B,Cash
+6014,2/12/2023 5:00,3060,Male,37,Beverage,Energy Drink,2,4.21,8.42,B,Credit Card
+6015,2/12/2023 6:00,3493,Female,47,Personal Care,Toothpaste,10,12.16,121.6,C,E-Wallet
+6016,2/12/2023 7:00,3287,Female,57,Beverage,Soft Drink,7,69.98,489.86,C,Cash
+6017,2/12/2023 8:00,3405,Male,43,Dairy,Milk,6,45.84,275.04,B,Cash
+6018,2/12/2023 9:00,3060,Male,41,Personal Care,Shampoo,9,38.82,349.38,B,Credit Card
+6019,2/12/2023 10:00,3075,Male,44,Personal Care,Soap,5,53.67,268.35,B,Bank Transfer
+6020,2/12/2023 11:00,3464,Male,55,Beverage,Juice,3,102.05,306.15,A,Credit Card
+6021,2/12/2023 12:00,3462,Male,55,Produce,Broccoli,11,33.94,373.34,A,Bank Transfer
+6022,2/12/2023 13:00,3473,Female,66,Household,Dish Soap,3,97.28,291.84,A,Cash
+6023,2/12/2023 14:00,3270,Female,43,Snacks,Crackers,6,36.03,216.18,D,Cash
+6024,2/12/2023 15:00,3358,Female,26,Snacks,Crackers,8,17.73,141.84,D,E-Wallet
+6025,2/12/2023 16:00,3338,Female,39,Dairy,Milk,10,39.94,399.4,C,Credit Card
+6026,2/12/2023 17:00,3270,Male,63,Dairy,Butter,5,96.36,481.8,D,Credit Card
+6027,2/12/2023 18:00,3408,Male,68,Frozen,Frozen Vegetables,1,36.35,36.35,A,E-Wallet
+6028,2/12/2023 19:00,3499,Male,21,Personal Care,Lotion,1,44.13,44.13,B,Cash
+6029,2/12/2023 20:00,3200,,57,Dairy,Cheese,3,30.29,90.87,D,Bank Transfer
+6030,2/12/2023 21:00,3237,Female,50,Snacks,Nuts,8,48.98,391.84,B,Bank Transfer
+6031,2/12/2023 22:00,3025,Female,47,Produce,Broccoli,5,63.14,315.7,A,E-Wallet
+6032,2/12/2023 23:00,3482,Female,54,Snacks,Nuts,9,79.64,716.76,B,Cash
+6033,2/13/2023 0:00,3365,Male,40,Frozen,Frozen Pizza,3,71.5,214.5,D,Cash
+6034,2/13/2023 1:00,3108,,23,Electronics,Earphones,10,31.34,313.4,A,E-Wallet
+6035,2/13/2023 2:00,3156,Male,17,Household,Dish Soap,1,62.83,62.83,B,Bank Transfer
+6036,2/13/2023 3:00,3088,Male,17,Personal Care,Shampoo,1,7.77,7.77,D,E-Wallet
+6037,2/13/2023 4:00,3018,Male,44,Electronics,USB Cable,2,53.32,106.64,C,Cash
+6038,2/13/2023 5:00,3057,Female,33,Dairy,Butter,10,20.13,201.3,C,Cash
+6039,2/13/2023 6:00,3354,Male,,Frozen,Frozen Pizza,3,20.43,61.29,C,Bank Transfer
+6040,2/13/2023 7:00,3170,Female,67,Beverage,Juice,9,100.6,905.4,D,Cash
+6041,2/13/2023 8:00,3323,Female,46,Snacks,Crackers,3,108.37,325.11,C,Credit Card
+6042,2/13/2023 9:00,3140,Female,56,Snacks,Crackers,9,105.36,948.24,C,Cash
+6043,2/13/2023 10:00,3420,Female,57,Produce,Bananas,9,88.71,798.39,D,Cash
+6044,2/13/2023 11:00,3325,Female,19,Household,Cleaner,10,85.16,851.6,A,Credit Card
+6045,2/13/2023 12:00,3083,Male,57,Snacks,Cookies,9,46.94,422.46,A,Credit Card
+6046,2/13/2023 13:00,3076,Female,26,Snacks,Cookies,3,76.01,228.03,D,E-Wallet
+6047,2/13/2023 14:00,3347,Female,56,Electronics,Phone Case,3,117.6,352.8,D,E-Wallet
+6048,2/13/2023 15:00,3273,Male,28,Personal Care,Lotion,6,78.96,473.76,D,Credit Card
+6049,2/13/2023 16:00,3171,Female,66,Dairy,Cheese,5,115.98,579.9,D,Bank Transfer
+6050,2/13/2023 17:00,3092,Male,40,Produce,Broccoli,8,30.31,242.48,D,E-Wallet
+6051,2/13/2023 18:00,3040,,46,Beverage,Mineral Water,4,92.24,368.96,D,Cash
+6052,2/13/2023 19:00,3278,Female,17,Beverage,Energy Drink,10,65.52,655.2,B,Cash
+6053,2/13/2023 20:00,3192,Female,17,Beverage,Energy Drink,5,96.25,481.25,C,Bank Transfer
+6054,2/13/2023 21:00,3394,Male,29,Snacks,Chips,9,44.64,401.76,A,E-Wallet
+6055,2/13/2023 22:00,3361,Male,20,Snacks,Chips,9,13.28,119.52,D,Credit Card
+6056,2/13/2023 23:00,3134,Male,26,Electronics,USB Cable,7,69.73,488.11,C,Cash
+6057,2/14/2023 0:00,3017,Male,54,Frozen,Ice Cream,10,82.58,825.8,C,Credit Card
+6058,2/14/2023 1:00,3332,Male,30,Produce,Broccoli,10,10.74,107.4,B,Credit Card
+6059,2/14/2023 2:00,3447,Female,59,Dairy,Milk,2,96.62,193.24,D,Bank Transfer
+6060,2/14/2023 3:00,3198,Female,64,Beverage,Soft Drink,2,42.74,85.48,B,Bank Transfer
+6061,2/14/2023 4:00,3491,Female,46,Dairy,Milk,1,36.32,36.32,A,Cash
+6062,2/14/2023 5:00,3470,Male,,Dairy,Cheese,11,104.98,1154.78,C,Cash
+6063,2/14/2023 6:00,3434,Female,47,Beverage,Energy Drink,5,19.42,97.1,B,E-Wallet
+6064,2/14/2023 7:00,3080,Female,27,Personal Care,Soap,6,14.36,86.16,C,Credit Card
+6065,2/14/2023 8:00,3196,Female,17,Produce,Carrots,2,63.35,126.7,B,Cash
+6066,2/14/2023 9:00,3409,Male,47,Personal Care,Toothpaste,10,23.23,232.3,C,Credit Card
+6067,2/14/2023 10:00,3033,Male,38,Household,Cleaner,8,70.04,560.32,D,E-Wallet
+6068,2/14/2023 11:00,3249,Male,66,Snacks,Cookies,8,76.68,613.44,A,Bank Transfer
+6069,2/14/2023 12:00,3001,Female,36,Personal Care,Toothpaste,2,84.94,169.88,B,E-Wallet
+6070,2/14/2023 13:00,3079,Female,16,Produce,Apples,2,91.84,183.68,B,Bank Transfer
+6071,2/14/2023 14:00,3128,Male,59,Electronics,Phone Case,7,64.64,452.48,B,E-Wallet
+6072,2/14/2023 15:00,3145,Male,47,Dairy,Cheese,7,87.07,609.49,C,E-Wallet
+6073,2/14/2023 16:00,3427,Female,69,Electronics,USB Cable,11,63.38,697.18,D,E-Wallet
+6074,2/14/2023 17:00,3442,Female,50,Produce,Broccoli,6,83.76,502.56,C,E-Wallet
+6075,2/14/2023 18:00,3147,Female,55,Snacks,Nuts,6,40.49,242.94,D,Credit Card
+6076,2/14/2023 19:00,3054,Male,48,Dairy,Butter,5,1.67,8.35,D,Credit Card
+6077,2/14/2023 20:00,3370,Male,44,Snacks,Crackers,2,6.08,12.16,B,E-Wallet
+6078,2/14/2023 21:00,3339,Male,68,Snacks,Chips,8,100.37,802.96,C,Cash
+6079,2/14/2023 22:00,3084,Male,25,Electronics,Earphones,2,92.22,184.44,B,E-Wallet
+6080,2/14/2023 23:00,3257,Male,46,Electronics,Earphones,11,54.7,601.7,B,Credit Card
+6081,2/15/2023 0:00,3215,Female,50,Personal Care,Lotion,8,116.47,931.76,C,E-Wallet
+6082,2/15/2023 1:00,3144,Female,37,Electronics,USB Cable,3,74.02,222.06,A,Cash
+6083,2/15/2023 2:00,3152,,68,Produce,Broccoli,10,107.98,1079.8,D,Bank Transfer
+6084,2/15/2023 3:00,3212,Female,40,Personal Care,Shampoo,3,80.97,242.91,C,E-Wallet
+6085,2/15/2023 4:00,3463,Male,37,Snacks,Nuts,5,18.24,91.2,D,E-Wallet
+6086,2/15/2023 5:00,3192,Female,36,Beverage,Juice,8,64.31,514.48,C,Bank Transfer
+6087,2/15/2023 6:00,3186,Male,57,Electronics,USB Cable,9,5.77,51.93,B,Bank Transfer
+6088,2/15/2023 7:00,3152,Female,24,Frozen,Frozen Pizza,8,109.3,874.4,B,Cash
+6089,2/15/2023 8:00,3442,Male,35,Snacks,Nuts,4,79.75,319,B,E-Wallet
+6090,2/15/2023 9:00,3101,Male,20,Electronics,USB Cable,6,107.63,645.78,D,Cash
+6091,2/15/2023 10:00,3448,Male,25,Frozen,Frozen Pizza,5,15.04,75.2,B,Credit Card
+6092,2/15/2023 11:00,3169,Female,43,Beverage,Soft Drink,9,42.74,384.66,B,Credit Card
+6093,2/15/2023 12:00,3161,Male,60,Electronics,Earphones,2,102.26,204.52,C,E-Wallet
+6094,2/15/2023 13:00,3224,Male,69,Snacks,Chips,11,112.15,1233.65,A,Credit Card
+6095,2/15/2023 14:00,3442,Female,28,Beverage,Mineral Water,2,13.77,27.54,A,Credit Card
+6096,2/15/2023 15:00,3381,Male,23,Snacks,Chips,8,1.91,15.28,C,Credit Card
+6097,2/15/2023 16:00,3184,Female,55,Beverage,Juice,1,26.71,26.71,C,Bank Transfer
+6098,2/15/2023 17:00,3351,Female,60,Household,Detergent,1,86.22,86.22,D,Credit Card
+6099,2/15/2023 18:00,3271,,34,Electronics,USB Cable,1,40.63,40.63,D,E-Wallet
+6100,2/15/2023 19:00,3321,Male,38,Frozen,Frozen Vegetables,2,54.67,109.34,D,Credit Card
+6101,2/15/2023 20:00,3369,Male,31,Electronics,Earphones,4,105.1,420.4,B,Cash
+6102,2/15/2023 21:00,3396,Female,17,Personal Care,Soap,8,46.72,373.76,B,Credit Card
+6103,2/15/2023 22:00,3163,Female,38,Beverage,Soft Drink,11,13.53,148.83,C,E-Wallet
+6104,2/15/2023 23:00,3037,Male,26,Frozen,Frozen Pizza,5,108.31,541.55,B,Credit Card
+6105,2/16/2023 0:00,3240,Male,21,Household,Cleaner,1,45.87,45.87,D,E-Wallet
+6106,2/16/2023 1:00,3030,Female,45,Snacks,Crackers,10,119.89,1198.9,C,Credit Card
+6107,2/16/2023 2:00,3218,Male,20,Frozen,Ice Cream,10,15.8,158,C,Bank Transfer
+6108,2/16/2023 3:00,3011,Female,26,Electronics,Earphones,1,61.19,61.19,B,Credit Card
+6109,2/16/2023 4:00,3444,Male,69,Produce,Carrots,2,69.15,138.3,D,E-Wallet
+6110,2/16/2023 5:00,3288,Male,20,Personal Care,Toothpaste,1,87.02,87.02,C,Credit Card
+6111,2/16/2023 6:00,3258,Male,63,Household,Detergent,10,80.85,808.5,B,Bank Transfer
+6112,2/16/2023 7:00,3394,,63,Beverage,Mineral Water,10,14.53,145.3,C,Credit Card
+6113,2/16/2023 8:00,3124,Female,38,Beverage,Soft Drink,8,36.21,289.68,A,Cash
+6114,2/16/2023 9:00,3174,Male,47,Beverage,Soft Drink,5,57.34,286.7,C,Credit Card
+6115,2/16/2023 10:00,3022,Female,64,Snacks,Nuts,4,22.41,89.64,B,E-Wallet
+6116,2/16/2023 11:00,3329,Female,22,Snacks,Cookies,4,93.61,374.44,D,Bank Transfer
+6117,2/16/2023 12:00,3118,Male,28,Snacks,Nuts,7,72.17,505.19,A,Bank Transfer
+6118,2/16/2023 13:00,3055,Female,33,Produce,Carrots,11,76.36,839.96,D,Bank Transfer
+6119,2/16/2023 14:00,3443,Female,25,Household,Tissue,3,38.16,114.48,B,E-Wallet
+6120,2/16/2023 15:00,3286,,38,Personal Care,Soap,1,45.4,45.4,D,Cash
+6121,2/16/2023 16:00,3181,Female,39,Snacks,Crackers,10,103.83,1038.3,A,Cash
+6122,2/16/2023 17:00,3345,Female,58,Household,Tissue,4,38.69,154.76,A,Bank Transfer
+6123,2/16/2023 18:00,3277,Female,19,Dairy,Milk,4,85.5,342,A,Credit Card
+6124,2/16/2023 19:00,3338,Female,37,Snacks,Cookies,11,70.6,776.6,D,Credit Card
+6125,2/16/2023 20:00,3276,Female,,Personal Care,Shampoo,8,117.82,942.56,B,Credit Card
+6126,2/16/2023 21:00,3499,Male,22,Household,Tissue,11,17.93,197.23,A,Cash
+6127,2/16/2023 22:00,3232,Female,67,Household,Detergent,10,29.31,293.1,B,Credit Card
+6128,2/16/2023 23:00,3464,,60,Household,Tissue,11,112.06,1232.66,D,Cash
+6129,2/17/2023 0:00,3369,Female,23,Personal Care,Soap,5,25.85,129.25,A,E-Wallet
+6130,2/17/2023 1:00,3167,Male,62,Personal Care,Toothpaste,11,64.3,707.3,A,Bank Transfer
+6131,2/17/2023 2:00,3291,Female,54,Electronics,Earphones,3,23.45,70.35,B,Bank Transfer
+6132,2/17/2023 3:00,3029,Female,66,Beverage,Juice,4,50.79,203.16,D,Cash
+6133,2/17/2023 4:00,3366,Female,46,Dairy,Milk,8,116.13,929.04,D,Credit Card
+6134,2/17/2023 5:00,3056,Male,32,Frozen,Frozen Pizza,2,25.21,50.42,C,Credit Card
+6135,2/17/2023 6:00,3478,Female,34,Produce,Apples,4,13.96,55.84,D,Bank Transfer
+6136,2/17/2023 7:00,3372,Female,63,Personal Care,Lotion,6,118.29,709.74,A,Cash
+6137,2/17/2023 8:00,3439,Male,59,Electronics,Phone Case,3,11.04,33.12,D,Credit Card
+6138,2/17/2023 9:00,3437,Female,23,,,1,111.92,111.92,D,E-Wallet
+6139,2/17/2023 10:00,3176,Female,43,Beverage,Soft Drink,10,79.85,798.5,C,Cash
+6140,2/17/2023 11:00,3067,Male,69,Snacks,Crackers,4,98.62,394.48,C,E-Wallet
+6141,2/17/2023 12:00,3439,Female,50,Electronics,USB Cable,4,51.5,206,D,Cash
+6142,2/17/2023 13:00,3288,Female,62,Personal Care,Shampoo,10,7.34,73.4,D,Cash
+6143,2/17/2023 14:00,3314,Female,33,Household,Tissue,10,77.33,773.3,B,Cash
+6144,2/17/2023 15:00,3334,Female,42,Electronics,Earphones,2,77.38,154.76,A,Cash
+6145,2/17/2023 16:00,3218,Female,68,Dairy,Cheese,6,10.12,60.72,D,Cash
+6146,2/17/2023 17:00,3325,Female,48,Household,Tissue,5,36.74,183.7,D,Bank Transfer
+6147,2/17/2023 18:00,3028,,58,Electronics,Earphones,3,38.03,114.09,B,E-Wallet
+6148,2/17/2023 19:00,3328,Female,20,Personal Care,Toothpaste,11,95.73,1053.03,A,Credit Card
+6149,2/17/2023 20:00,3109,Female,46,Snacks,Nuts,9,73.15,658.35,D,Bank Transfer
+6150,2/17/2023 21:00,3240,Male,39,Frozen,Ice Cream,11,14.52,159.72,A,Cash
+6151,2/17/2023 22:00,3481,Male,43,Electronics,Earphones,10,6.75,67.5,C,Credit Card
+6152,2/17/2023 23:00,3228,Female,21,Produce,Apples,8,45.95,367.6,A,Cash
+6153,2/18/2023 0:00,3316,Female,35,Dairy,Milk,1,58.71,58.71,C,Credit Card
+6154,2/18/2023 1:00,3269,Male,40,Household,Cleaner,1,89.03,89.03,C,Credit Card
+6155,2/18/2023 2:00,3468,Male,62,Beverage,Soft Drink,3,14.98,44.94,C,Bank Transfer
+6156,2/18/2023 3:00,3274,,68,Beverage,Juice,4,27.16,108.64,A,E-Wallet
+6157,2/18/2023 4:00,3435,Female,46,Snacks,Chips,11,97.09,1067.99,D,Credit Card
+6158,2/18/2023 5:00,3050,Female,37,Frozen,Frozen Vegetables,9,13.9,125.1,A,Credit Card
+6159,2/18/2023 6:00,3468,Male,54,Snacks,Cookies,8,8.6,68.8,B,E-Wallet
+6160,2/18/2023 7:00,3299,Male,20,Dairy,Milk,8,85.88,687.04,B,Bank Transfer
+6161,2/18/2023 8:00,3225,Male,32,Snacks,Nuts,7,5.2,36.4,B,Cash
+6162,2/18/2023 9:00,3341,Male,61,Dairy,Milk,7,91.82,642.74,A,Credit Card
+6163,2/18/2023 10:00,3302,,17,Snacks,Nuts,11,31.23,343.53,C,Bank Transfer
+6164,2/18/2023 11:00,3024,Male,54,Frozen,Frozen Vegetables,7,61.32,429.24,A,E-Wallet
+6165,2/18/2023 12:00,3476,Female,58,Beverage,Energy Drink,4,118.37,473.48,A,E-Wallet
+6166,2/18/2023 13:00,3005,Female,22,Produce,Bananas,6,21.08,126.48,B,Credit Card
+6167,2/18/2023 14:00,3414,Female,39,Snacks,Chips,6,79.66,477.96,B,Bank Transfer
+6168,2/18/2023 15:00,3299,Male,59,Snacks,Crackers,10,46.34,463.4,B,Bank Transfer
+6169,2/18/2023 16:00,3309,Female,66,Personal Care,Soap,2,84.44,168.88,A,Bank Transfer
+6170,2/18/2023 17:00,3408,Female,40,Beverage,Juice,4,82.38,329.52,A,E-Wallet
+6171,2/18/2023 18:00,3103,Male,34,Dairy,Butter,11,20.14,221.54,C,Credit Card
+6172,2/18/2023 19:00,3398,Male,21,Dairy,Cheese,6,56.58,339.48,A,Bank Transfer
+6173,2/18/2023 20:00,3228,Female,39,Produce,Broccoli,11,86.8,954.8,A,E-Wallet
+6174,2/18/2023 21:00,3420,Female,32,Frozen,Frozen Vegetables,7,89.39,625.73,D,Bank Transfer
+6175,2/18/2023 22:00,3154,Male,55,Frozen,Frozen Pizza,1,13.23,13.23,A,Credit Card
+6176,2/18/2023 23:00,3247,Male,29,Frozen,Frozen Pizza,4,16.72,66.88,D,Credit Card
+6177,2/19/2023 0:00,3269,Male,48,Dairy,Cheese,9,67.81,610.29,C,Bank Transfer
+6178,2/19/2023 1:00,3232,,22,Household,Detergent,4,58.67,234.68,D,Bank Transfer
+6179,2/19/2023 2:00,3277,Male,35,Household,Cleaner,9,98.12,883.08,D,Bank Transfer
+6180,2/19/2023 3:00,3346,Female,32,Beverage,Energy Drink,5,87.2,436,B,Bank Transfer
+6181,2/19/2023 4:00,3354,Female,26,Personal Care,Lotion,7,73.14,511.98,C,E-Wallet
+6182,2/19/2023 5:00,3040,Female,23,Beverage,Energy Drink,11,53.73,591.03,D,Cash
+6183,2/19/2023 6:00,3206,Female,29,Beverage,Soft Drink,2,113.14,226.28,C,Cash
+6184,2/19/2023 7:00,3469,Male,50,Snacks,Cookies,7,74.81,523.67,B,Cash
+6185,2/19/2023 8:00,3299,Female,35,Frozen,Frozen Pizza,2,115.64,231.28,C,Bank Transfer
+6186,2/19/2023 9:00,3059,Male,49,Frozen,Ice Cream,8,49.37,394.96,D,Credit Card
+6187,2/19/2023 10:00,3049,Female,67,Beverage,Juice,7,119.15,834.05,D,Bank Transfer
+6188,2/19/2023 11:00,3175,Male,32,Personal Care,Lotion,9,117.02,1053.18,D,Bank Transfer
+6189,2/19/2023 12:00,3242,Female,33,Beverage,Energy Drink,4,76.3,305.2,A,Cash
+6190,2/19/2023 13:00,3147,Male,49,Beverage,Mineral Water,9,35.56,320.04,D,Credit Card
+6191,2/19/2023 14:00,3396,Male,43,Dairy,Cheese,1,31.41,31.41,D,E-Wallet
+6192,2/19/2023 15:00,3292,Male,34,Snacks,Chips,1,69.26,69.26,B,Credit Card
+6193,2/19/2023 16:00,3378,Female,38,Snacks,Cookies,10,9.46,94.6,C,E-Wallet
+6194,2/19/2023 17:00,3350,Female,21,Household,Dish Soap,1,26.19,26.19,D,E-Wallet
+6195,2/19/2023 18:00,3364,,20,Snacks,Nuts,1,60.53,60.53,A,Bank Transfer
+6196,2/19/2023 19:00,3033,Female,46,Electronics,Phone Case,4,104.1,416.4,A,Bank Transfer
+6197,2/19/2023 20:00,3108,Male,22,Personal Care,Soap,9,48.09,432.81,C,Cash
+6198,2/19/2023 21:00,3383,Male,23,Household,Dish Soap,11,86.96,956.56,D,Bank Transfer
+6199,2/19/2023 22:00,3343,Male,20,Electronics,USB Cable,11,102.31,1125.41,D,Cash
+6200,2/19/2023 23:00,3318,Female,49,Personal Care,Toothpaste,3,104.94,314.82,A,E-Wallet
+6201,2/20/2023 0:00,3425,Male,67,Electronics,USB Cable,6,64.9,389.4,C,Bank Transfer
+6202,2/20/2023 1:00,3461,Female,29,Frozen,Frozen Pizza,5,33.79,168.95,C,Cash
+6203,2/20/2023 2:00,3220,,45,Household,Detergent,10,81.82,818.2,B,E-Wallet
+6204,2/20/2023 3:00,3220,Male,61,Personal Care,Lotion,2,65.72,131.44,B,E-Wallet
+6205,2/20/2023 4:00,3275,Male,25,Beverage,Energy Drink,6,18.68,112.08,D,E-Wallet
+6206,2/20/2023 5:00,3101,Female,47,Snacks,Chips,6,107.23,643.38,A,Credit Card
+6207,2/20/2023 6:00,3031,Female,29,Frozen,Frozen Vegetables,3,90.95,272.85,A,E-Wallet
+6208,2/20/2023 7:00,3050,Male,25,Produce,Carrots,4,19.73,78.92,B,Credit Card
+6209,2/20/2023 8:00,3170,Male,,Snacks,Chips,10,70.45,704.5,C,Cash
+6210,2/20/2023 9:00,3359,Female,26,Snacks,Nuts,3,103.68,311.04,D,Cash
+6211,2/20/2023 10:00,3017,Male,42,Household,Dish Soap,11,24.07,264.77,D,Bank Transfer
+6212,2/20/2023 11:00,3220,Female,18,Beverage,Juice,3,66.84,200.52,D,E-Wallet
+6213,2/20/2023 12:00,3196,Female,61,Produce,Carrots,11,59.59,655.49,B,E-Wallet
+6214,2/20/2023 13:00,3262,Female,27,Household,Tissue,8,107.76,862.08,A,Credit Card
+6215,2/20/2023 14:00,3316,,60,Dairy,Cheese,4,65.81,263.24,C,Credit Card
+6216,2/20/2023 15:00,3275,Male,29,Electronics,Phone Case,1,70.16,70.16,A,E-Wallet
+6217,2/20/2023 16:00,3186,Male,68,Beverage,Energy Drink,9,21.24,191.16,B,Bank Transfer
+6218,2/20/2023 17:00,3215,,28,Household,Dish Soap,1,28.54,28.54,A,Bank Transfer
+6219,2/20/2023 18:00,3040,Male,59,Household,Dish Soap,6,60.17,361.02,C,Bank Transfer
+6220,2/20/2023 19:00,3380,Female,52,Snacks,Cookies,7,21.45,150.15,C,Bank Transfer
+6221,2/20/2023 20:00,3301,Male,20,Snacks,Nuts,5,79.12,395.6,B,Bank Transfer
+6222,2/20/2023 21:00,3042,Male,39,Produce,Carrots,11,99.16,1090.76,A,Cash
+6223,2/20/2023 22:00,3326,Female,62,Produce,Apples,4,45.29,181.16,C,Credit Card
+6224,2/20/2023 23:00,3152,Male,68,Dairy,Milk,1,93.62,93.62,B,E-Wallet
+6225,2/21/2023 0:00,3150,Male,47,Electronics,Phone Case,5,118.66,593.3,D,Cash
+6226,2/21/2023 1:00,3053,Female,52,Frozen,Frozen Pizza,8,93.71,749.68,B,Credit Card
+6227,2/21/2023 2:00,3213,Female,21,Beverage,Energy Drink,8,58.59,468.72,D,Credit Card
+6228,2/21/2023 3:00,3334,Male,61,,,2,103.54,207.08,A,Credit Card
+6229,2/21/2023 4:00,3152,Female,31,Snacks,Cookies,2,43.64,87.28,A,E-Wallet
+6230,2/21/2023 5:00,3409,Female,47,Beverage,Soft Drink,11,75.2,827.2,C,Cash
+6231,2/21/2023 6:00,3145,Male,22,Personal Care,Soap,5,7.56,37.8,D,Credit Card
+6232,2/21/2023 7:00,3123,Male,56,Frozen,Frozen Pizza,11,29.73,327.03,C,Bank Transfer
+6233,2/21/2023 8:00,3115,,23,Personal Care,Lotion,2,27.75,55.5,B,Credit Card
+6234,2/21/2023 9:00,3366,Female,19,Electronics,USB Cable,10,27.69,276.9,C,E-Wallet
+6235,2/21/2023 10:00,3419,Male,47,Frozen,Ice Cream,2,36.65,73.3,B,Credit Card
+6236,2/21/2023 11:00,3209,Male,66,Household,Tissue,5,72.79,363.95,A,Bank Transfer
+6237,2/21/2023 12:00,3056,Male,40,Snacks,Crackers,3,102.87,308.61,C,Cash
+6238,2/21/2023 13:00,3284,Male,23,Personal Care,Shampoo,10,56.55,565.5,D,E-Wallet
+6239,2/21/2023 14:00,3194,Male,44,Household,Tissue,6,63.25,379.5,D,Cash
+6240,2/21/2023 15:00,3034,,27,Electronics,Earphones,9,112.63,1013.67,A,Bank Transfer
+6241,2/21/2023 16:00,3065,,35,Dairy,Milk,10,69.49,694.9,B,Cash
+6242,2/21/2023 17:00,3111,Female,59,Personal Care,Soap,8,91.44,731.52,A,Cash
+6243,2/21/2023 18:00,3384,Male,51,,,4,5.34,21.36,B,E-Wallet
+6244,2/21/2023 19:00,3131,Male,23,Beverage,Juice,9,11.77,105.93,B,E-Wallet
+6245,2/21/2023 20:00,3443,Female,56,Personal Care,Soap,4,20.52,82.08,D,Cash
+6246,2/21/2023 21:00,3312,Female,37,Beverage,Juice,10,101.21,1012.1,D,Credit Card
+6247,2/21/2023 22:00,3022,Male,52,Beverage,Soft Drink,3,69.81,209.43,B,E-Wallet
+6248,2/21/2023 23:00,3426,Female,38,Household,Detergent,3,70.94,212.82,C,Bank Transfer
+6249,2/22/2023 0:00,3388,Female,34,Electronics,Phone Case,6,100.29,601.74,B,Cash
+6250,2/22/2023 1:00,3463,Male,20,Snacks,Crackers,11,99.42,1093.62,C,Credit Card
+6251,2/22/2023 2:00,3100,Male,41,Personal Care,Toothpaste,3,77.58,232.74,B,Bank Transfer
+6252,2/22/2023 3:00,3231,Female,51,Electronics,Earphones,5,116.83,584.15,B,Cash
+6253,2/22/2023 4:00,3118,Male,66,Snacks,Nuts,2,113.98,227.96,C,E-Wallet
+6254,2/22/2023 5:00,3268,Male,16,Beverage,Juice,9,46.8,421.2,D,Bank Transfer
+6255,2/22/2023 6:00,3293,Female,24,Dairy,Butter,4,28.27,113.08,B,E-Wallet
+6256,2/22/2023 7:00,3240,Male,48,Snacks,Cookies,11,30.32,333.52,D,Cash
+6257,2/22/2023 8:00,3041,Female,46,Beverage,Mineral Water,8,90.33,722.64,A,E-Wallet
+6258,2/22/2023 9:00,3058,Male,17,Beverage,Mineral Water,1,32.9,32.9,C,E-Wallet
+6259,2/22/2023 10:00,3063,Female,30,Electronics,Earphones,4,8.6,34.4,A,Credit Card
+6260,2/22/2023 11:00,3327,Male,68,Beverage,Mineral Water,8,20.51,164.08,B,Cash
+6261,2/22/2023 12:00,3479,Female,31,Personal Care,Soap,4,67.86,271.44,D,Cash
+6262,2/22/2023 13:00,3389,Male,30,Dairy,Milk,11,52.82,581.02,A,Bank Transfer
+6263,2/22/2023 14:00,3091,Female,30,Frozen,Frozen Pizza,3,118.94,356.82,A,Credit Card
+6264,2/22/2023 15:00,3345,Male,46,Beverage,Soft Drink,8,18.09,144.72,C,Credit Card
+6265,2/22/2023 16:00,3017,Male,61,Personal Care,Shampoo,11,2.32,25.52,C,Credit Card
+6266,2/22/2023 17:00,3412,Female,43,Household,Dish Soap,10,80.83,808.3,C,E-Wallet
+6267,2/22/2023 18:00,3375,Male,19,Personal Care,Shampoo,2,11.48,22.96,D,E-Wallet
+6268,2/22/2023 19:00,3411,,42,Produce,Broccoli,9,94.14,847.26,D,E-Wallet
+6269,2/22/2023 20:00,3437,Female,32,,,4,27.14,108.56,B,E-Wallet
+6270,2/22/2023 21:00,3282,Male,39,Dairy,Cheese,9,44.18,397.62,D,Bank Transfer
+6271,2/22/2023 22:00,3177,Male,62,Personal Care,Lotion,4,112.24,448.96,B,Bank Transfer
+6272,2/22/2023 23:00,3093,Male,17,Household,Cleaner,6,30.66,183.96,D,E-Wallet
+6273,2/23/2023 0:00,3316,Male,55,Frozen,Frozen Vegetables,6,16.13,96.78,D,Credit Card
+6274,2/23/2023 1:00,3027,Female,68,Household,Cleaner,11,58.84,647.24,C,E-Wallet
+6275,2/23/2023 2:00,3081,Male,33,Dairy,Butter,3,30.28,90.84,A,Credit Card
+6276,2/23/2023 3:00,3125,Male,18,Dairy,Milk,7,20.09,140.63,B,Bank Transfer
+6277,2/23/2023 4:00,3038,Male,63,Snacks,Chips,10,40.67,406.7,D,Credit Card
+6278,2/23/2023 5:00,3336,Male,64,Frozen,Frozen Pizza,9,59.88,538.92,B,Credit Card
+6279,2/23/2023 6:00,3393,Female,18,Dairy,Cheese,6,2.24,13.44,D,Cash
+6280,2/23/2023 7:00,3288,Male,17,Frozen,Frozen Pizza,4,9.4,37.6,B,E-Wallet
+6281,2/23/2023 8:00,3257,Female,64,Beverage,Juice,6,22.55,135.3,C,Cash
+6282,2/23/2023 9:00,3009,Female,51,Personal Care,Shampoo,4,9.88,39.52,B,E-Wallet
+6283,2/23/2023 10:00,3306,Female,36,Personal Care,Soap,6,18.06,108.36,D,Credit Card
+6284,2/23/2023 11:00,3455,Male,52,Snacks,Chips,11,89.8,987.8,A,Credit Card
+6285,2/23/2023 12:00,3236,Male,22,Dairy,Cheese,10,61.9,619,A,Bank Transfer
+6286,2/23/2023 13:00,3421,Female,39,Frozen,Frozen Pizza,11,37.82,416.02,C,Credit Card
+6287,2/23/2023 14:00,3232,Male,38,Beverage,Juice,6,52.61,315.66,D,E-Wallet
+6288,2/23/2023 15:00,3243,Female,19,Snacks,Nuts,2,69.34,138.68,D,Bank Transfer
+6289,2/23/2023 16:00,3365,Female,61,Beverage,Mineral Water,2,89.39,178.78,C,Bank Transfer
+6290,2/23/2023 17:00,3134,Female,17,Household,Tissue,4,116.22,464.88,D,Cash
+6291,2/23/2023 18:00,3165,Male,57,Electronics,Phone Case,1,119.51,119.51,A,E-Wallet
+6292,2/23/2023 19:00,3126,Male,59,Electronics,USB Cable,4,7.56,30.24,B,Bank Transfer
+6293,2/23/2023 20:00,3295,Male,16,Snacks,Cookies,9,85.94,773.46,A,Credit Card
+6294,2/23/2023 21:00,3132,,,Beverage,Energy Drink,9,7.95,71.55,C,Credit Card
+6295,2/23/2023 22:00,3433,Female,37,Beverage,Juice,8,42.81,342.48,C,Credit Card
+6296,2/23/2023 23:00,3421,Male,62,Dairy,Cheese,7,82.94,580.58,D,Bank Transfer
+6297,2/24/2023 0:00,3202,Female,50,Personal Care,Lotion,11,36.97,406.67,D,Bank Transfer
+6298,2/24/2023 1:00,3394,Female,57,Personal Care,Soap,2,93.04,186.08,A,E-Wallet
+6299,2/24/2023 2:00,3113,Female,28,Dairy,Butter,5,90.83,454.15,C,Credit Card
+6300,2/24/2023 3:00,3355,Female,35,Produce,Apples,6,83.39,500.34,D,Bank Transfer
+6301,2/24/2023 4:00,3008,,29,Snacks,Nuts,5,24.02,120.1,D,E-Wallet
+6302,2/24/2023 5:00,3023,Male,21,Household,Cleaner,9,48.77,438.93,B,E-Wallet
+6303,2/24/2023 6:00,3113,,57,Snacks,Chips,11,82.86,911.46,A,E-Wallet
+6304,2/24/2023 7:00,3244,Female,35,Beverage,Mineral Water,10,113.97,1139.7,A,Bank Transfer
+6305,2/24/2023 8:00,3327,Female,45,Frozen,Frozen Vegetables,11,72.64,799.04,B,E-Wallet
+6306,2/24/2023 9:00,3373,,33,Dairy,Milk,11,22.08,242.88,D,Bank Transfer
+6307,2/24/2023 10:00,3191,Female,16,Beverage,Soft Drink,11,24.64,271.04,B,Cash
+6308,2/24/2023 11:00,3066,Female,25,Personal Care,Lotion,10,13.92,139.2,D,Bank Transfer
+6309,2/24/2023 12:00,3294,Female,48,Frozen,Frozen Pizza,6,46.18,277.08,A,Cash
+6310,2/24/2023 13:00,3148,Female,29,Beverage,Mineral Water,10,118.04,1180.4,D,E-Wallet
+6311,2/24/2023 14:00,3415,Male,67,Beverage,Mineral Water,10,97.53,975.3,A,Cash
+6312,2/24/2023 15:00,3158,Male,41,Snacks,Cookies,1,26.82,26.82,A,Credit Card
+6313,2/24/2023 16:00,3176,Male,26,Frozen,Ice Cream,4,76.1,304.4,A,Bank Transfer
+6314,2/24/2023 17:00,3217,Female,52,Snacks,Chips,9,52.5,472.5,C,E-Wallet
+6315,2/24/2023 18:00,3010,Male,43,Frozen,Frozen Vegetables,5,62.92,314.6,B,Cash
+6316,2/24/2023 19:00,3188,Female,54,Frozen,Frozen Vegetables,5,53.36,266.8,D,Bank Transfer
+6317,2/24/2023 20:00,3081,Male,18,Personal Care,Toothpaste,6,114.77,688.62,A,Bank Transfer
+6318,2/24/2023 21:00,3393,Male,64,Frozen,Frozen Pizza,3,2.49,7.47,D,Credit Card
+6319,2/24/2023 22:00,3363,Male,24,Frozen,Frozen Pizza,7,44.75,313.25,A,E-Wallet
+6320,2/24/2023 23:00,3314,Male,47,Household,Cleaner,6,105.92,635.52,C,Bank Transfer
+6321,2/25/2023 0:00,3416,Female,68,Snacks,Cookies,10,1.53,15.3,C,Cash
+6322,2/25/2023 1:00,3088,Female,32,Frozen,Frozen Pizza,11,81.97,901.67,B,Credit Card
+6323,2/25/2023 2:00,3400,Female,49,Beverage,Energy Drink,1,2.63,2.63,C,E-Wallet
+6324,2/25/2023 3:00,3110,Female,,Snacks,Cookies,11,88.14,969.54,B,E-Wallet
+6325,2/25/2023 4:00,3268,Female,62,Personal Care,Toothpaste,2,63.16,126.32,C,Credit Card
+6326,2/25/2023 5:00,3419,Female,46,Electronics,Earphones,7,19.38,135.66,D,Cash
+6327,2/25/2023 6:00,3245,Male,50,Snacks,Cookies,2,46.23,92.46,D,Cash
+6328,2/25/2023 7:00,3363,Male,24,Snacks,Crackers,4,17.29,69.16,C,Cash
+6329,2/25/2023 8:00,3431,Male,17,Beverage,Soft Drink,7,89.07,623.49,D,Credit Card
+6330,2/25/2023 9:00,3494,,25,Beverage,Juice,3,35.1,105.3,A,Credit Card
+6331,2/25/2023 10:00,3145,Female,41,Personal Care,Lotion,11,23.55,259.05,D,Cash
+6332,2/25/2023 11:00,3285,Male,33,Dairy,Cheese,5,4.46,22.3,B,E-Wallet
+6333,2/25/2023 12:00,3057,Female,63,Household,Tissue,11,103,1133,D,Credit Card
+6334,2/25/2023 13:00,3292,Male,64,Frozen,Ice Cream,7,58.11,406.77,B,Cash
+6335,2/25/2023 14:00,3483,Female,46,Electronics,Phone Case,10,33.68,336.8,D,Cash
+6336,2/25/2023 15:00,3196,Male,31,Snacks,Chips,4,60,240,A,Credit Card
+6337,2/25/2023 16:00,3007,Female,41,Household,Dish Soap,5,16.18,80.9,A,E-Wallet
+6338,2/25/2023 17:00,3147,Male,27,Dairy,Milk,9,3.75,33.75,A,E-Wallet
+6339,2/25/2023 18:00,3495,Female,56,Frozen,Frozen Vegetables,3,96.7,290.1,D,Credit Card
+6340,2/25/2023 19:00,3028,Male,24,Dairy,Butter,6,65.08,390.48,B,Cash
+6341,2/25/2023 20:00,3105,Male,,Dairy,Butter,1,20.53,20.53,C,E-Wallet
+6342,2/25/2023 21:00,3214,Male,,Beverage,Juice,1,56.6,56.6,B,Bank Transfer
+6343,2/25/2023 22:00,3405,Male,45,Personal Care,Toothpaste,10,20.6,206,B,Cash
+6344,2/25/2023 23:00,3005,Male,41,Frozen,Frozen Pizza,8,48.73,389.84,A,E-Wallet
+6345,2/26/2023 0:00,3109,Female,62,Electronics,USB Cable,7,34.4,240.8,D,Cash
+6346,2/26/2023 1:00,3177,Male,53,Household,Dish Soap,9,82.5,742.5,D,E-Wallet
+6347,2/26/2023 2:00,3480,Male,62,Household,Dish Soap,5,57.68,288.4,B,Bank Transfer
+6348,2/26/2023 3:00,3252,Female,69,Beverage,Energy Drink,5,14.65,73.25,D,Cash
+6349,2/26/2023 4:00,3385,Female,65,Snacks,Cookies,5,41.59,207.95,A,Cash
+6350,2/26/2023 5:00,3448,Female,24,Frozen,Frozen Pizza,9,85.93,773.37,A,Bank Transfer
+6351,2/26/2023 6:00,3468,Female,58,Household,Detergent,5,10.87,54.35,D,Cash
+6352,2/26/2023 7:00,3412,Female,24,Personal Care,Lotion,4,36.36,145.44,A,Credit Card
+6353,2/26/2023 8:00,3377,Female,50,Household,Dish Soap,9,19.57,176.13,C,E-Wallet
+6354,2/26/2023 9:00,3300,Female,26,Personal Care,Soap,8,109.65,877.2,A,Cash
+6355,2/26/2023 10:00,3374,Female,17,Electronics,USB Cable,9,43.58,392.22,D,E-Wallet
+6356,2/26/2023 11:00,3432,Male,45,Personal Care,Toothpaste,11,57.87,636.57,A,E-Wallet
+6357,2/26/2023 12:00,3485,,52,Beverage,Soft Drink,11,44.81,492.91,A,Bank Transfer
+6358,2/26/2023 13:00,3140,Male,66,Produce,Apples,9,33.92,305.28,C,Credit Card
+6359,2/26/2023 14:00,3018,Male,57,Beverage,Mineral Water,2,114.69,229.38,D,Credit Card
+6360,2/26/2023 15:00,3117,Male,63,Snacks,Chips,6,94.42,566.52,A,Credit Card
+6361,2/26/2023 16:00,3301,Male,66,Dairy,Cheese,9,13.05,117.45,D,Credit Card
+6362,2/26/2023 17:00,3051,Female,64,Personal Care,Toothpaste,7,84.87,594.09,D,Cash
+6363,2/26/2023 18:00,3498,Female,68,Beverage,Energy Drink,1,53.95,53.95,B,E-Wallet
+6364,2/26/2023 19:00,3005,Male,69,Produce,Broccoli,10,30.19,301.9,B,Credit Card
+6365,2/26/2023 20:00,3415,Male,41,Electronics,Phone Case,3,101.81,305.43,B,E-Wallet
+6366,2/26/2023 21:00,3194,Female,56,Personal Care,Soap,8,108.05,864.4,B,Bank Transfer
+6367,2/26/2023 22:00,3301,,27,Household,Cleaner,10,101.73,1017.3,D,Credit Card
+6368,2/26/2023 23:00,3059,Male,57,Dairy,Cheese,8,115.78,926.24,C,Credit Card
+6369,2/27/2023 0:00,3201,Male,38,Electronics,USB Cable,3,91.53,274.59,A,E-Wallet
+6370,2/27/2023 1:00,3386,Male,48,Personal Care,Toothpaste,4,66.93,267.72,A,E-Wallet
+6371,2/27/2023 2:00,3338,Female,62,Household,Cleaner,1,17.88,17.88,B,E-Wallet
+6372,2/27/2023 3:00,3184,Male,54,Frozen,Frozen Pizza,11,75.01,825.11,B,Credit Card
+6373,2/27/2023 4:00,3291,Female,53,Snacks,Chips,5,2.75,13.75,A,Cash
+6374,2/27/2023 5:00,3428,Male,33,Electronics,USB Cable,11,61.5,676.5,C,E-Wallet
+6375,2/27/2023 6:00,3153,,40,Electronics,Earphones,4,114.34,457.36,A,E-Wallet
+6376,2/27/2023 7:00,3272,Female,48,Dairy,Cheese,11,86.04,946.44,B,Bank Transfer
+6377,2/27/2023 8:00,3314,,59,Beverage,Mineral Water,4,61.62,246.48,B,Cash
+6378,2/27/2023 9:00,3297,Male,45,Beverage,Juice,10,25.42,254.2,A,Cash
+6379,2/27/2023 10:00,3300,Female,65,Beverage,Juice,5,76.8,384,C,Cash
+6380,2/27/2023 11:00,3110,Male,55,Beverage,Energy Drink,7,78.11,546.77,D,Bank Transfer
+6381,2/27/2023 12:00,3148,Male,26,Snacks,Chips,2,60.16,120.32,D,E-Wallet
+6382,2/27/2023 13:00,3059,Male,,Beverage,Mineral Water,10,51.56,515.6,D,Cash
+6383,2/27/2023 14:00,3196,Male,21,Snacks,Chips,4,5.37,21.48,B,Cash
+6384,2/27/2023 15:00,3373,Male,57,Household,Cleaner,4,117.81,471.24,B,E-Wallet
+6385,2/27/2023 16:00,3288,Male,25,Snacks,Crackers,5,31.37,156.85,D,E-Wallet
+6386,2/27/2023 17:00,3244,,18,Snacks,Crackers,1,13.73,13.73,C,Credit Card
+6387,2/27/2023 18:00,3340,Female,61,Frozen,Frozen Vegetables,3,22.81,68.43,A,Bank Transfer
+6388,2/27/2023 19:00,3448,Female,43,Personal Care,Toothpaste,11,63.38,697.18,D,Cash
+6389,2/27/2023 20:00,3295,Male,55,Personal Care,Lotion,5,21.59,107.95,B,Credit Card
+6390,2/27/2023 21:00,3399,Male,61,Produce,Carrots,9,19.2,172.8,D,E-Wallet
+6391,2/27/2023 22:00,3402,,50,,,2,50.51,101.02,D,Cash
+6392,2/27/2023 23:00,3199,Female,17,Electronics,Phone Case,7,75.01,525.07,B,Cash
+6393,2/28/2023 0:00,3451,Female,32,Snacks,Nuts,4,34.85,139.4,B,Bank Transfer
+6394,2/28/2023 1:00,3200,Female,19,Produce,Apples,7,61.84,432.88,A,Cash
+6395,2/28/2023 2:00,3285,Male,56,Snacks,Chips,1,50.24,50.24,B,Cash
+6396,2/28/2023 3:00,3456,Male,67,Beverage,Juice,9,95.91,863.19,D,Cash
+6397,2/28/2023 4:00,3129,Female,50,Beverage,Energy Drink,9,12.35,111.15,B,Bank Transfer
+6398,2/28/2023 5:00,3363,Male,63,Beverage,Soft Drink,11,91.05,1001.55,C,Cash
+6399,2/28/2023 6:00,3118,Male,26,Snacks,Nuts,4,66.59,266.36,B,Cash
+6400,2/28/2023 7:00,3213,Female,68,Beverage,Energy Drink,5,25.17,125.85,B,Cash
+6401,2/28/2023 8:00,3231,,50,Beverage,Juice,2,16.73,33.46,C,Cash
+6402,2/28/2023 9:00,3045,Male,21,Produce,Apples,11,74.65,821.15,C,E-Wallet
+6403,2/28/2023 10:00,3066,Male,18,Snacks,Chips,11,14.42,158.62,A,Bank Transfer
+6404,2/28/2023 11:00,3290,Female,56,Beverage,Juice,10,96.86,968.6,A,Cash
+6405,2/28/2023 12:00,3405,Male,66,Personal Care,Toothpaste,3,73.66,220.98,B,Cash
+6406,2/28/2023 13:00,3176,Female,26,Household,Detergent,4,83.13,332.52,B,Cash
+6407,2/28/2023 14:00,3161,Female,35,Beverage,Juice,5,74.48,372.4,D,E-Wallet
+6408,2/28/2023 15:00,3376,Female,64,Household,Tissue,3,108.52,325.56,D,Credit Card
+6409,2/28/2023 16:00,3103,Female,21,Frozen,Frozen Pizza,1,6.49,6.49,C,E-Wallet
+6410,2/28/2023 17:00,3441,Female,28,Frozen,Frozen Vegetables,1,69.11,69.11,A,Credit Card
+6411,2/28/2023 18:00,3040,Male,16,Beverage,Juice,11,87.33,960.63,A,Credit Card
+6412,2/28/2023 19:00,3199,Female,40,Dairy,Milk,2,35.12,70.24,C,Cash
+6413,2/28/2023 20:00,3015,Female,33,Electronics,USB Cable,11,56.81,624.91,B,E-Wallet
+6414,2/28/2023 21:00,3457,Female,63,Dairy,Butter,3,17.99,53.97,A,Credit Card
+6415,2/28/2023 22:00,3158,Female,35,Household,Dish Soap,10,51.62,516.2,D,Bank Transfer
+6416,2/28/2023 23:00,3300,Male,46,Produce,Carrots,8,22.67,181.36,D,Cash
+6417,3/1/2023 0:00,3115,,44,Frozen,Frozen Pizza,5,100.63,503.15,C,Cash
+6418,3/1/2023 1:00,3183,Male,21,Electronics,Phone Case,7,29.16,204.12,B,Bank Transfer
+6419,3/1/2023 2:00,3252,Male,18,,,7,53.68,375.76,A,Credit Card
+6420,3/1/2023 3:00,3017,Female,40,Household,Tissue,5,57.52,287.6,D,Credit Card
+6421,3/1/2023 4:00,3486,Female,53,Beverage,Mineral Water,11,102.72,1129.92,D,Credit Card
+6422,3/1/2023 5:00,3361,Female,41,Beverage,Mineral Water,6,76.7,460.2,B,Cash
+6423,3/1/2023 6:00,3423,Female,21,Beverage,Juice,7,67.45,472.15,C,Bank Transfer
+6424,3/1/2023 7:00,3304,Male,32,Household,Dish Soap,5,6.95,34.75,C,E-Wallet
+6425,3/1/2023 8:00,3341,Female,47,Dairy,Milk,8,14.4,115.2,C,Bank Transfer
+6426,3/1/2023 9:00,3387,Male,46,Dairy,Milk,1,28.79,28.79,A,Cash
+6427,3/1/2023 10:00,3421,Female,67,Snacks,Chips,2,93.54,187.08,A,Credit Card
+6428,3/1/2023 11:00,3273,Male,31,Household,Tissue,2,10.56,21.12,A,E-Wallet
+6429,3/1/2023 12:00,3081,Female,18,Household,Detergent,6,93.79,562.74,B,E-Wallet
+6430,3/1/2023 13:00,3203,Female,67,Snacks,Cookies,10,99.38,993.8,A,Credit Card
+6431,3/1/2023 14:00,3202,Female,17,Personal Care,Lotion,2,60.26,120.52,A,Bank Transfer
+6432,3/1/2023 15:00,3193,Male,25,Snacks,Cookies,6,113.28,679.68,A,Credit Card
+6433,3/1/2023 16:00,3202,Male,67,Beverage,Mineral Water,6,72.52,435.12,B,Credit Card
+6434,3/1/2023 17:00,3025,Male,65,Frozen,Frozen Vegetables,3,118.38,355.14,B,Bank Transfer
+6435,3/1/2023 18:00,3016,Female,26,Personal Care,Soap,9,91.26,821.34,B,Cash
+6436,3/1/2023 19:00,3183,Male,26,Personal Care,Soap,5,7.1,35.5,D,E-Wallet
+6437,3/1/2023 20:00,3059,Male,52,Frozen,Ice Cream,2,36.22,72.44,C,Cash
+6438,3/1/2023 21:00,3102,Female,23,Household,Tissue,8,112.45,899.6,D,E-Wallet
+6439,3/1/2023 22:00,3246,Male,19,Household,Tissue,4,64.26,257.04,C,E-Wallet
+6440,3/1/2023 23:00,3288,Female,49,Household,Dish Soap,11,23.78,261.58,C,Credit Card
+6441,3/2/2023 0:00,3191,Female,20,Beverage,Juice,7,93.44,654.08,B,Credit Card
+6442,3/2/2023 1:00,3052,Female,34,Electronics,Earphones,11,108.04,1188.44,A,E-Wallet
+6443,3/2/2023 2:00,3281,Female,29,Electronics,Earphones,4,10.26,41.04,D,Cash
+6444,3/2/2023 3:00,3397,Female,63,Frozen,Frozen Vegetables,1,21.42,21.42,A,Bank Transfer
+6445,3/2/2023 4:00,3363,Male,22,Household,Dish Soap,11,79.8,877.8,B,Credit Card
+6446,3/2/2023 5:00,3080,Male,30,Household,Tissue,7,94.13,658.91,B,Bank Transfer
+6447,3/2/2023 6:00,3370,Male,65,Household,Dish Soap,1,32.04,32.04,B,Credit Card
+6448,3/2/2023 7:00,3361,Male,37,Snacks,Cookies,4,82.26,329.04,D,Cash
+6449,3/2/2023 8:00,3340,Male,31,Beverage,Mineral Water,9,48.08,432.72,B,Bank Transfer
+6450,3/2/2023 9:00,3028,Male,47,Frozen,Ice Cream,7,112.18,785.26,D,Bank Transfer
+6451,3/2/2023 10:00,3188,Female,47,Dairy,Cheese,2,87.6,175.2,B,Cash
+6452,3/2/2023 11:00,3008,Male,53,Snacks,Nuts,11,36.4,400.4,D,Cash
+6453,3/2/2023 12:00,3415,Female,47,Personal Care,Soap,4,46.97,187.88,C,Cash
+6454,3/2/2023 13:00,3220,Female,23,Snacks,Chips,9,48.56,437.04,C,Cash
+6455,3/2/2023 14:00,3477,Female,52,Snacks,Crackers,4,98.1,392.4,A,E-Wallet
+6456,3/2/2023 15:00,3106,Male,58,Snacks,Nuts,9,112.92,1016.28,A,Bank Transfer
+6457,3/2/2023 16:00,3318,Female,47,Household,Detergent,8,69.87,558.96,D,Credit Card
+6458,3/2/2023 17:00,3418,Female,45,Beverage,Energy Drink,6,59.81,358.86,C,Credit Card
+6459,3/2/2023 18:00,3101,Male,53,Snacks,Chips,7,106.66,746.62,C,E-Wallet
+6460,3/2/2023 19:00,3426,,52,Personal Care,Lotion,4,68.93,275.72,C,Cash
+6461,3/2/2023 20:00,3252,Male,18,Beverage,Juice,1,11.78,11.78,D,E-Wallet
+6462,3/2/2023 21:00,3468,Male,67,Frozen,Frozen Pizza,10,68.45,684.5,A,Credit Card
+6463,3/2/2023 22:00,3453,Female,65,Beverage,Energy Drink,10,31.93,319.3,A,Cash
+6464,3/2/2023 23:00,3091,Male,41,Beverage,Mineral Water,3,81.47,244.41,D,Bank Transfer
+6465,3/3/2023 0:00,3101,Male,65,Produce,Apples,8,110.5,884,B,Bank Transfer
+6466,3/3/2023 1:00,3293,Female,55,Household,Detergent,11,24.67,271.37,C,Credit Card
+6467,3/3/2023 2:00,3031,,43,Beverage,Mineral Water,11,43.46,478.06,B,Bank Transfer
+6468,3/3/2023 3:00,3161,Female,47,Snacks,Nuts,4,64.94,259.76,B,Bank Transfer
+6469,3/3/2023 4:00,3240,Female,57,Dairy,Milk,8,78.86,630.88,A,Credit Card
+6470,3/3/2023 5:00,3096,Male,20,Beverage,Mineral Water,9,48.27,434.43,A,E-Wallet
+6471,3/3/2023 6:00,3337,Male,22,Electronics,Earphones,9,111.12,1000.08,C,E-Wallet
+6472,3/3/2023 7:00,3427,Female,29,Snacks,Nuts,6,21.17,127.02,A,Cash
+6473,3/3/2023 8:00,3279,Female,28,Snacks,Nuts,10,48.64,486.4,C,Bank Transfer
+6474,3/3/2023 9:00,3496,Male,31,Household,Detergent,3,82.09,246.27,A,Credit Card
+6475,3/3/2023 10:00,3429,Female,44,Electronics,Phone Case,4,93.38,373.52,C,Credit Card
+6476,3/3/2023 11:00,3041,Male,31,Produce,Carrots,6,85.48,512.88,D,E-Wallet
+6477,3/3/2023 12:00,3229,Male,29,Dairy,Cheese,10,54.6,546,C,Bank Transfer
+6478,3/3/2023 13:00,3251,,55,Electronics,USB Cable,10,115.12,1151.2,B,Cash
+6479,3/3/2023 14:00,3377,Female,42,Snacks,Chips,11,68.31,751.41,B,Cash
+6480,3/3/2023 15:00,3081,,39,Dairy,Cheese,10,51.88,518.8,C,E-Wallet
+6481,3/3/2023 16:00,3112,Female,41,Beverage,Energy Drink,9,95.09,855.81,A,Credit Card
+6482,3/3/2023 17:00,3018,Male,32,Snacks,Cookies,11,36.26,398.86,C,Bank Transfer
+6483,3/3/2023 18:00,3398,,39,Dairy,Butter,5,47.79,238.95,C,Cash
+6484,3/3/2023 19:00,3400,Male,27,Snacks,Nuts,10,101.81,1018.1,B,Cash
+6485,3/3/2023 20:00,3125,Male,26,Personal Care,Lotion,1,88.89,88.89,A,E-Wallet
+6486,3/3/2023 21:00,3280,Male,44,Personal Care,Lotion,5,110.88,554.4,A,Cash
+6487,3/3/2023 22:00,3487,Male,40,Beverage,Energy Drink,1,58.34,58.34,D,E-Wallet
+6488,3/3/2023 23:00,3195,Female,19,Dairy,Milk,4,12.54,50.16,A,Bank Transfer
+6489,3/4/2023 0:00,3397,Male,23,Personal Care,Toothpaste,2,112.27,224.54,D,Cash
+6490,3/4/2023 1:00,3295,Female,23,Beverage,Soft Drink,11,93.76,1031.36,C,E-Wallet
+6491,3/4/2023 2:00,3021,Female,44,Frozen,Ice Cream,7,24.98,174.86,C,Cash
+6492,3/4/2023 3:00,3061,Female,59,Beverage,Soft Drink,1,6.28,6.28,B,Bank Transfer
+6493,3/4/2023 4:00,3403,Male,62,Household,Dish Soap,1,102.79,102.79,B,E-Wallet
+6494,3/4/2023 5:00,3208,Female,,Beverage,Energy Drink,3,106.13,318.39,D,Credit Card
+6495,3/4/2023 6:00,3284,Female,59,Personal Care,Soap,7,93.28,652.96,D,Cash
+6496,3/4/2023 7:00,3069,Female,56,Snacks,Cookies,11,69.55,765.05,C,Credit Card
+6497,3/4/2023 8:00,3392,Male,40,Personal Care,Toothpaste,3,46.49,139.47,C,E-Wallet
+6498,3/4/2023 9:00,3399,Male,25,Produce,Carrots,5,79.92,399.6,C,Cash
+6499,3/4/2023 10:00,3201,Male,37,Electronics,Phone Case,8,46.82,374.56,B,Credit Card
+6500,3/4/2023 11:00,3402,Female,19,Household,Detergent,9,67.73,609.57,C,E-Wallet
+6501,3/4/2023 12:00,3020,Female,44,Frozen,Ice Cream,3,20.87,62.61,D,Cash
+6502,3/4/2023 13:00,3228,Female,61,Household,Tissue,11,51.92,571.12,C,E-Wallet
+6503,3/4/2023 14:00,3173,Male,53,Electronics,Phone Case,7,81.14,567.98,C,Cash
+6504,3/4/2023 15:00,3059,Female,45,Household,Detergent,2,100.54,201.08,C,Credit Card
+6505,3/4/2023 16:00,3236,Male,51,Produce,Bananas,7,48.93,342.51,D,Bank Transfer
+6506,3/4/2023 17:00,3154,,59,Dairy,Butter,9,37.07,333.63,B,Cash
+6507,3/4/2023 18:00,3450,Male,41,Produce,Apples,3,31.2,93.6,D,E-Wallet
+6508,3/4/2023 19:00,3422,Female,66,Beverage,Mineral Water,7,111.49,780.43,D,Cash
+6509,3/4/2023 20:00,3390,Female,37,Beverage,Juice,7,24.65,172.55,B,Bank Transfer
+6510,3/4/2023 21:00,3003,Female,59,Dairy,Butter,5,17.36,86.8,D,Cash
+6511,3/4/2023 22:00,3405,Female,21,Dairy,Cheese,1,73.62,73.62,C,E-Wallet
+6512,3/4/2023 23:00,3471,Male,49,Personal Care,Lotion,6,46.68,280.08,D,Credit Card
+6513,3/5/2023 0:00,3090,Female,64,Beverage,Energy Drink,4,82.4,329.6,A,Credit Card
+6514,3/5/2023 1:00,3305,Male,29,Beverage,Energy Drink,1,91.43,91.43,B,Bank Transfer
+6515,3/5/2023 2:00,3278,Male,58,Personal Care,Soap,10,118.39,1183.9,B,E-Wallet
+6516,3/5/2023 3:00,3084,,37,Household,Tissue,9,60.08,540.72,D,Bank Transfer
+6517,3/5/2023 4:00,3429,Male,30,Snacks,Nuts,3,48.37,145.11,B,E-Wallet
+6518,3/5/2023 5:00,3286,Male,61,Dairy,Cheese,6,92.04,552.24,C,E-Wallet
+6519,3/5/2023 6:00,3416,Male,64,Snacks,Cookies,10,94.72,947.2,B,Cash
+6520,3/5/2023 7:00,3368,Male,,Electronics,Phone Case,11,113.61,1249.71,B,Cash
+6521,3/5/2023 8:00,3258,Male,50,Snacks,Cookies,6,38.87,233.22,A,Credit Card
+6522,3/5/2023 9:00,3432,Male,,Snacks,Crackers,7,59.16,414.12,B,Credit Card
+6523,3/5/2023 10:00,3360,Female,18,Snacks,Chips,1,75.23,75.23,A,Bank Transfer
+6524,3/5/2023 11:00,3295,Female,31,Frozen,Ice Cream,1,117.82,117.82,C,Credit Card
+6525,3/5/2023 12:00,3358,Male,62,Household,Detergent,6,91.52,549.12,B,Bank Transfer
+6526,3/5/2023 13:00,3286,Female,45,Personal Care,Toothpaste,10,118.68,1186.8,D,Bank Transfer
+6527,3/5/2023 14:00,3160,Male,57,Personal Care,Lotion,8,99.68,797.44,B,E-Wallet
+6528,3/5/2023 15:00,3283,Female,66,Personal Care,Shampoo,7,26.86,188.02,D,Cash
+6529,3/5/2023 16:00,3012,Female,55,Snacks,Chips,2,96.58,193.16,A,Credit Card
+6530,3/5/2023 17:00,3430,Female,31,Beverage,Juice,9,69.6,626.4,A,Cash
+6531,3/5/2023 18:00,3471,Female,32,Produce,Apples,8,40.98,327.84,B,Bank Transfer
+6532,3/5/2023 19:00,3335,Female,50,Dairy,Butter,8,23.99,191.92,B,Bank Transfer
+6533,3/5/2023 20:00,3188,Female,58,Produce,Apples,3,18.8,56.4,B,Bank Transfer
+6534,3/5/2023 21:00,3099,Female,17,Household,Tissue,10,16.63,166.3,B,E-Wallet
+6535,3/5/2023 22:00,3489,Male,28,Dairy,Butter,6,51.62,309.72,A,Cash
+6536,3/5/2023 23:00,3306,Male,24,Household,Cleaner,9,110.05,990.45,D,Cash
+6537,3/6/2023 0:00,3235,Male,17,Personal Care,Lotion,5,76.53,382.65,B,Credit Card
+6538,3/6/2023 1:00,3451,Female,67,Dairy,Cheese,3,60.49,181.47,A,E-Wallet
+6539,3/6/2023 2:00,3335,Female,25,Dairy,Cheese,2,57.84,115.68,A,E-Wallet
+6540,3/6/2023 3:00,3069,Male,28,Personal Care,Shampoo,5,20.69,103.45,D,Cash
+6541,3/6/2023 4:00,3092,Male,49,Snacks,Cookies,10,92.58,925.8,B,Bank Transfer
+6542,3/6/2023 5:00,3424,,31,Dairy,Butter,6,35.98,215.88,D,E-Wallet
+6543,3/6/2023 6:00,3138,Male,37,Electronics,Earphones,4,87.16,348.64,B,Bank Transfer
+6544,3/6/2023 7:00,3174,Female,57,Frozen,Frozen Vegetables,5,15.18,75.9,D,Credit Card
+6545,3/6/2023 8:00,3470,Female,35,Frozen,Frozen Vegetables,1,92.59,92.59,B,Bank Transfer
+6546,3/6/2023 9:00,3387,Female,46,Snacks,Cookies,6,92.61,555.66,A,E-Wallet
+6547,3/6/2023 10:00,3178,Female,32,Household,Dish Soap,2,3.97,7.94,C,Bank Transfer
+6548,3/6/2023 11:00,3295,Female,29,Beverage,Mineral Water,11,102.66,1129.26,B,Cash
+6549,3/6/2023 12:00,3230,Male,27,Dairy,Milk,2,15.66,31.32,A,Credit Card
+6550,3/6/2023 13:00,3100,Female,68,Beverage,Mineral Water,11,105.98,1165.78,D,Credit Card
+6551,3/6/2023 14:00,3428,Male,58,Snacks,Chips,6,38.58,231.48,C,Credit Card
+6552,3/6/2023 15:00,3322,Female,67,Produce,Carrots,7,117.33,821.31,D,Bank Transfer
+6553,3/6/2023 16:00,3182,Male,54,Household,Tissue,7,51.79,362.53,D,Bank Transfer
+6554,3/6/2023 17:00,3441,Male,69,Personal Care,Toothpaste,1,118.38,118.38,A,E-Wallet
+6555,3/6/2023 18:00,3217,Male,49,Snacks,Cookies,5,14.16,70.8,C,Credit Card
+6556,3/6/2023 19:00,3166,Male,35,Personal Care,Lotion,4,19.59,78.36,C,E-Wallet
+6557,3/6/2023 20:00,3158,,66,Frozen,Ice Cream,9,59.56,536.04,C,Credit Card
+6558,3/6/2023 21:00,3326,Female,26,Dairy,Milk,6,9.98,59.88,A,E-Wallet
+6559,3/6/2023 22:00,3207,Female,45,Dairy,Milk,2,112.79,225.58,B,Bank Transfer
+6560,3/6/2023 23:00,3149,Male,46,Personal Care,Shampoo,7,78.66,550.62,D,Bank Transfer
+6561,3/7/2023 0:00,3058,Male,20,Produce,Bananas,1,86.54,86.54,C,Credit Card
+6562,3/7/2023 1:00,3084,Male,40,Frozen,Ice Cream,4,58.66,234.64,D,Credit Card
+6563,3/7/2023 2:00,3397,Male,27,Dairy,Cheese,9,102.17,919.53,D,E-Wallet
+6564,3/7/2023 3:00,3075,Female,38,Snacks,Cookies,11,55.08,605.88,B,E-Wallet
+6565,3/7/2023 4:00,3068,Female,63,Electronics,Earphones,1,63.71,63.71,A,Cash
+6566,3/7/2023 5:00,3181,Female,64,Frozen,Frozen Vegetables,9,64.94,584.46,C,Bank Transfer
+6567,3/7/2023 6:00,3418,Female,44,Electronics,USB Cable,9,42.51,382.59,B,E-Wallet
+6568,3/7/2023 7:00,3462,Female,37,Electronics,Phone Case,1,108.1,108.1,A,Bank Transfer
+6569,3/7/2023 8:00,3187,Male,34,Snacks,Chips,10,42.79,427.9,A,Bank Transfer
+6570,3/7/2023 9:00,3314,Female,23,Electronics,USB Cable,1,83.39,83.39,B,Cash
+6571,3/7/2023 10:00,3166,Male,59,Snacks,Chips,1,81.35,81.35,B,Cash
+6572,3/7/2023 11:00,3122,Female,53,Household,Detergent,2,17.43,34.86,C,E-Wallet
+6573,3/7/2023 12:00,3396,Female,43,,,9,93.7,843.3,D,Bank Transfer
+6574,3/7/2023 13:00,3206,Male,30,Household,Tissue,3,107.52,322.56,B,Credit Card
+6575,3/7/2023 14:00,3056,Male,55,Beverage,Soft Drink,5,41.96,209.8,A,Credit Card
+6576,3/7/2023 15:00,3256,Male,65,Snacks,Nuts,7,101.1,707.7,B,E-Wallet
+6577,3/7/2023 16:00,3398,Male,42,Frozen,Frozen Vegetables,8,74.64,597.12,A,Bank Transfer
+6578,3/7/2023 17:00,3345,Male,49,Personal Care,Toothpaste,2,89.18,178.36,C,Cash
+6579,3/7/2023 18:00,3275,Female,59,Personal Care,Soap,11,9.71,106.81,D,Credit Card
+6580,3/7/2023 19:00,3124,Female,63,Beverage,Juice,7,16.56,115.92,C,Credit Card
+6581,3/7/2023 20:00,3121,Male,48,Personal Care,Soap,10,96.02,960.2,B,Credit Card
+6582,3/7/2023 21:00,3082,Male,60,Snacks,Nuts,1,46.16,46.16,C,Credit Card
+6583,3/7/2023 22:00,3247,Female,64,Household,Tissue,7,4.08,28.56,B,E-Wallet
+6584,3/7/2023 23:00,3241,Female,17,Snacks,Chips,9,34.1,306.9,D,Credit Card
+6585,3/8/2023 0:00,3332,Male,19,Snacks,Crackers,7,73.94,517.58,B,E-Wallet
+6586,3/8/2023 1:00,3384,Female,56,Beverage,Energy Drink,8,102.1,816.8,D,E-Wallet
+6587,3/8/2023 2:00,3067,Male,58,Snacks,Chips,2,40.61,81.22,A,Credit Card
+6588,3/8/2023 3:00,3229,Female,31,Beverage,Energy Drink,11,44.95,494.45,D,E-Wallet
+6589,3/8/2023 4:00,3438,Female,50,Household,Dish Soap,5,22.7,113.5,B,Cash
+6590,3/8/2023 5:00,3329,Female,42,Household,Detergent,3,61.84,185.52,B,Bank Transfer
+6591,3/8/2023 6:00,3093,Female,26,Snacks,Nuts,6,68.89,413.34,C,Credit Card
+6592,3/8/2023 7:00,3028,Female,34,Beverage,Energy Drink,9,66.6,599.4,D,E-Wallet
+6593,3/8/2023 8:00,3245,Male,32,Electronics,USB Cable,2,111.36,222.72,A,Cash
+6594,3/8/2023 9:00,3214,Female,62,Household,Dish Soap,10,10.65,106.5,D,Credit Card
+6595,3/8/2023 10:00,3385,Male,34,Dairy,Milk,4,13.38,53.52,A,E-Wallet
+6596,3/8/2023 11:00,3396,Male,26,Dairy,Milk,7,11.81,82.67,A,Bank Transfer
+6597,3/8/2023 12:00,3068,Female,34,Produce,Broccoli,7,82.74,579.18,C,Cash
+6598,3/8/2023 13:00,3472,Female,65,Frozen,Frozen Vegetables,1,51.3,51.3,B,Bank Transfer
+6599,3/8/2023 14:00,3447,Male,27,Personal Care,Toothpaste,1,46.42,46.42,A,Credit Card
+6600,3/8/2023 15:00,3445,Male,48,Snacks,Crackers,1,116.9,116.9,B,Cash
+6601,3/8/2023 16:00,3387,Male,57,Personal Care,Shampoo,10,77.83,778.3,A,Bank Transfer
+6602,3/8/2023 17:00,3390,Male,48,Personal Care,Shampoo,5,87.61,438.05,A,Credit Card
+6603,3/8/2023 18:00,3129,Male,32,Beverage,Soft Drink,9,99.09,891.81,A,E-Wallet
+6604,3/8/2023 19:00,3209,Male,37,Beverage,Juice,10,8.97,89.7,B,Bank Transfer
+6605,3/8/2023 20:00,3131,Female,61,Beverage,Soft Drink,4,101.83,407.32,A,Cash
+6606,3/8/2023 21:00,3179,Male,49,Snacks,Crackers,7,28.14,196.98,D,E-Wallet
+6607,3/8/2023 22:00,3003,Male,27,Produce,Broccoli,9,72.24,650.16,D,E-Wallet
+6608,3/8/2023 23:00,3376,Female,63,Beverage,Mineral Water,11,64.77,712.47,B,Cash
+6609,3/9/2023 0:00,3137,Male,47,Snacks,Crackers,6,90.66,543.96,D,E-Wallet
+6610,3/9/2023 1:00,3146,Male,20,Beverage,Juice,2,103.55,207.1,A,Bank Transfer
+6611,3/9/2023 2:00,3097,Female,30,Snacks,Crackers,1,114.17,114.17,D,Bank Transfer
+6612,3/9/2023 3:00,3491,Female,63,Beverage,Juice,6,86.45,518.7,D,E-Wallet
+6613,3/9/2023 4:00,3282,Female,20,Household,Detergent,6,3,18,D,Cash
+6614,3/9/2023 5:00,3150,Male,23,Personal Care,Lotion,11,97.65,1074.15,A,Bank Transfer
+6615,3/9/2023 6:00,3249,Female,58,Snacks,Cookies,8,4.44,35.52,B,Credit Card
+6616,3/9/2023 7:00,3449,Male,59,Personal Care,Lotion,4,106.21,424.84,B,Cash
+6617,3/9/2023 8:00,3339,Male,16,Electronics,Earphones,5,35.65,178.25,D,E-Wallet
+6618,3/9/2023 9:00,3326,,58,Produce,Carrots,11,96.94,1066.34,B,Credit Card
+6619,3/9/2023 10:00,3410,Male,27,Snacks,Nuts,1,28.34,28.34,B,Cash
+6620,3/9/2023 11:00,3469,Male,32,Dairy,Cheese,10,84.89,848.9,D,Credit Card
+6621,3/9/2023 12:00,3318,Female,60,Electronics,Earphones,9,62.32,560.88,C,Credit Card
+6622,3/9/2023 13:00,3325,Female,16,Produce,Bananas,10,74.71,747.1,B,Bank Transfer
+6623,3/9/2023 14:00,3210,Female,30,Beverage,Energy Drink,3,84.85,254.55,C,Bank Transfer
+6624,3/9/2023 15:00,3128,,17,Dairy,Cheese,2,60.23,120.46,D,Cash
+6625,3/9/2023 16:00,3493,Male,37,Electronics,USB Cable,9,22.57,203.13,C,E-Wallet
+6626,3/9/2023 17:00,3015,Male,42,Personal Care,Toothpaste,1,107.44,107.44,A,Credit Card
+6627,3/9/2023 18:00,3404,Female,33,Snacks,Cookies,11,75.62,831.82,A,E-Wallet
+6628,3/9/2023 19:00,3304,Female,55,Personal Care,Lotion,7,118.78,831.46,A,Cash
+6629,3/9/2023 20:00,3412,Female,66,Household,Detergent,7,30.86,216.02,C,Credit Card
+6630,3/9/2023 21:00,3185,Female,34,Snacks,Cookies,2,25.18,50.36,B,Bank Transfer
+6631,3/9/2023 22:00,3165,Female,64,Snacks,Cookies,4,8.97,35.88,B,E-Wallet
+6632,3/9/2023 23:00,3307,Female,39,Household,Detergent,7,39.69,277.83,A,Credit Card
+6633,3/10/2023 0:00,3073,Male,22,Snacks,Nuts,1,48.83,48.83,C,E-Wallet
+6634,3/10/2023 1:00,3218,Female,36,Snacks,Nuts,9,79.79,718.11,A,E-Wallet
+6635,3/10/2023 2:00,3020,Male,62,Dairy,Butter,7,19.11,133.77,D,Cash
+6636,3/10/2023 3:00,3235,Female,46,Dairy,Cheese,11,80.88,889.68,A,E-Wallet
+6637,3/10/2023 4:00,3135,Female,43,Beverage,Soft Drink,7,51.78,362.46,B,E-Wallet
+6638,3/10/2023 5:00,3179,Female,,Beverage,Juice,2,54.84,109.68,D,Bank Transfer
+6639,3/10/2023 6:00,3058,Female,26,Dairy,Butter,3,37.27,111.81,B,Credit Card
+6640,3/10/2023 7:00,3009,Male,50,Frozen,Frozen Pizza,10,86.13,861.3,A,Credit Card
+6641,3/10/2023 8:00,3033,Female,66,Electronics,Earphones,5,87.54,437.7,A,Bank Transfer
+6642,3/10/2023 9:00,3214,Male,61,Beverage,Mineral Water,1,15.83,15.83,B,Bank Transfer
+6643,3/10/2023 10:00,3449,Male,34,Beverage,Soft Drink,6,103.15,618.9,A,Cash
+6644,3/10/2023 11:00,3136,Male,42,Frozen,Frozen Vegetables,2,118.53,237.06,A,Bank Transfer
+6645,3/10/2023 12:00,3050,Male,64,Electronics,Earphones,1,28.43,28.43,D,Credit Card
+6646,3/10/2023 13:00,3375,Female,26,Snacks,Cookies,6,87.38,524.28,A,Bank Transfer
+6647,3/10/2023 14:00,3226,Male,59,Electronics,Earphones,9,114.7,1032.3,A,E-Wallet
+6648,3/10/2023 15:00,3304,Male,41,Beverage,Mineral Water,5,8.57,42.85,B,E-Wallet
+6649,3/10/2023 16:00,3063,Male,30,Personal Care,Lotion,1,119.91,119.91,A,Credit Card
+6650,3/10/2023 17:00,3487,Male,26,Beverage,Mineral Water,11,113.29,1246.19,C,Cash
+6651,3/10/2023 18:00,3125,Female,35,Beverage,Soft Drink,9,87.28,785.52,B,Credit Card
+6652,3/10/2023 19:00,3089,Female,28,Snacks,Chips,2,69.75,139.5,D,Bank Transfer
+6653,3/10/2023 20:00,3353,Male,45,Electronics,USB Cable,1,12.14,12.14,B,Bank Transfer
+6654,3/10/2023 21:00,3457,Female,31,Snacks,Chips,4,79.82,319.28,D,Credit Card
+6655,3/10/2023 22:00,3376,Female,59,Snacks,Crackers,5,65.55,327.75,D,E-Wallet
+6656,3/10/2023 23:00,3492,Female,20,Dairy,Milk,1,21.56,21.56,A,Credit Card
+6657,3/11/2023 0:00,3492,Male,33,Beverage,Mineral Water,7,109.09,763.63,B,Credit Card
+6658,3/11/2023 1:00,3241,Male,37,Beverage,Juice,9,60.33,542.97,A,E-Wallet
+6659,3/11/2023 2:00,3209,Male,50,Electronics,Earphones,2,22.35,44.7,B,Cash
+6660,3/11/2023 3:00,3377,,31,Personal Care,Shampoo,4,94.87,379.48,C,E-Wallet
+6661,3/11/2023 4:00,3331,,48,Snacks,Chips,10,45.88,458.8,C,Bank Transfer
+6662,3/11/2023 5:00,3083,Male,68,Produce,Carrots,9,45.33,407.97,C,Cash
+6663,3/11/2023 6:00,3086,Male,69,Personal Care,Shampoo,3,38.67,116.01,A,Bank Transfer
+6664,3/11/2023 7:00,3265,Male,37,Household,Cleaner,8,115.48,923.84,B,Bank Transfer
+6665,3/11/2023 8:00,3394,Male,35,Snacks,Chips,3,6.47,19.41,A,Cash
+6666,3/11/2023 9:00,3217,Female,56,Beverage,Juice,5,63.15,315.75,A,Credit Card
+6667,3/11/2023 10:00,3149,Male,25,Personal Care,Lotion,7,91.47,640.29,A,E-Wallet
+6668,3/11/2023 11:00,3203,Female,20,Personal Care,Lotion,10,100.51,1005.1,B,Bank Transfer
+6669,3/11/2023 12:00,3020,Female,30,Dairy,Butter,9,65.64,590.76,B,Cash
+6670,3/11/2023 13:00,3396,Female,41,Snacks,Crackers,11,92.55,1018.05,A,E-Wallet
+6671,3/11/2023 14:00,3231,Male,67,Snacks,Nuts,5,116.86,584.3,D,E-Wallet
+6672,3/11/2023 15:00,3434,Female,38,,,10,66.99,669.9,C,Credit Card
+6673,3/11/2023 16:00,3463,,66,Electronics,USB Cable,6,42.37,254.22,A,Cash
+6674,3/11/2023 17:00,3006,Female,52,,,7,119.43,836.01,D,Bank Transfer
+6675,3/11/2023 18:00,3401,Female,23,Electronics,Phone Case,4,103.72,414.88,C,Cash
+6676,3/11/2023 19:00,3313,Female,24,Frozen,Ice Cream,11,43.11,474.21,A,Bank Transfer
+6677,3/11/2023 20:00,3325,Female,30,Beverage,Mineral Water,1,105.32,105.32,D,E-Wallet
+6678,3/11/2023 21:00,3079,Male,36,Personal Care,Lotion,6,94.5,567,A,Cash
+6679,3/11/2023 22:00,3224,Male,,Snacks,Nuts,4,80.62,322.48,A,Credit Card
+6680,3/11/2023 23:00,3252,Male,43,Dairy,Butter,2,72.59,145.18,B,Cash
+6681,3/12/2023 0:00,3368,Female,,Snacks,Chips,8,11.99,95.92,A,Cash
+6682,3/12/2023 1:00,3179,Female,17,Dairy,Butter,4,90.54,362.16,C,E-Wallet
+6683,3/12/2023 2:00,3067,Male,57,Beverage,Energy Drink,1,21.42,21.42,C,Credit Card
+6684,3/12/2023 3:00,3131,Male,21,,,8,93.77,750.16,A,Cash
+6685,3/12/2023 4:00,3207,Male,52,Dairy,Butter,2,87.48,174.96,A,Bank Transfer
+6686,3/12/2023 5:00,3176,Male,61,Frozen,Frozen Vegetables,4,53.74,214.96,C,E-Wallet
+6687,3/12/2023 6:00,3096,Male,22,Beverage,Soft Drink,11,15.94,175.34,A,Bank Transfer
+6688,3/12/2023 7:00,3328,Male,33,Beverage,Soft Drink,6,54.26,325.56,B,Bank Transfer
+6689,3/12/2023 8:00,3134,Female,54,Produce,Carrots,9,14.82,133.38,A,E-Wallet
+6690,3/12/2023 9:00,3005,,67,Dairy,Milk,7,37.05,259.35,A,E-Wallet
+6691,3/12/2023 10:00,3367,Female,18,Household,Tissue,1,32.71,32.71,D,Bank Transfer
+6692,3/12/2023 11:00,3016,Male,34,Snacks,Cookies,4,54.54,218.16,C,E-Wallet
+6693,3/12/2023 12:00,3238,Male,64,Dairy,Cheese,2,9.8,19.6,C,Cash
+6694,3/12/2023 13:00,3053,Female,,Household,Detergent,9,45.25,407.25,C,E-Wallet
+6695,3/12/2023 14:00,3273,Female,46,Snacks,Chips,7,80.69,564.83,B,Credit Card
+6696,3/12/2023 15:00,3295,Male,24,Electronics,Phone Case,7,84.79,593.53,B,Bank Transfer
+6697,3/12/2023 16:00,3389,Female,38,Personal Care,Lotion,6,2.82,16.92,B,Bank Transfer
+6698,3/12/2023 17:00,3088,Male,32,Frozen,Ice Cream,6,73.54,441.24,C,Cash
+6699,3/12/2023 18:00,3347,Female,29,Beverage,Juice,7,30.87,216.09,D,Bank Transfer
+6700,3/12/2023 19:00,3281,Female,45,Beverage,Energy Drink,9,50.18,451.62,D,E-Wallet
+6701,3/12/2023 20:00,3021,Male,63,Personal Care,Toothpaste,11,14.38,158.18,D,Cash
+6702,3/12/2023 21:00,3110,Male,19,Dairy,Milk,2,1.61,3.22,B,Bank Transfer
+6703,3/12/2023 22:00,3136,Female,34,Snacks,Crackers,7,95.3,667.1,B,Bank Transfer
+6704,3/12/2023 23:00,3174,Female,34,Snacks,Chips,4,35.52,142.08,C,Cash
+6705,3/13/2023 0:00,3034,Male,46,Personal Care,Soap,7,21.53,150.71,A,Bank Transfer
+6706,3/13/2023 1:00,3463,Male,54,Dairy,Butter,11,56.02,616.22,D,Credit Card
+6707,3/13/2023 2:00,3291,,34,Produce,Broccoli,3,106.22,318.66,C,Cash
+6708,3/13/2023 3:00,3282,Male,30,Beverage,Soft Drink,5,61.22,306.1,D,Cash
+6709,3/13/2023 4:00,3356,Female,32,Snacks,Crackers,2,15.95,31.9,A,Bank Transfer
+6710,3/13/2023 5:00,3482,Female,60,Personal Care,Toothpaste,1,31.8,31.8,B,Cash
+6711,3/13/2023 6:00,3291,Female,31,Beverage,Soft Drink,4,38.38,153.52,A,E-Wallet
+6712,3/13/2023 7:00,3437,Male,61,Snacks,Chips,7,13.87,97.09,C,E-Wallet
+6713,3/13/2023 8:00,3271,,52,Dairy,Cheese,9,98.56,887.04,A,Cash
+6714,3/13/2023 9:00,3323,Female,29,Frozen,Frozen Pizza,2,66.37,132.74,A,E-Wallet
+6715,3/13/2023 10:00,3425,Female,19,Frozen,Ice Cream,11,108.29,1191.19,C,E-Wallet
+6716,3/13/2023 11:00,3393,Female,33,Frozen,Frozen Vegetables,11,74.58,820.38,B,Bank Transfer
+6717,3/13/2023 12:00,3164,Male,32,Personal Care,Lotion,3,4.57,13.71,A,Bank Transfer
+6718,3/13/2023 13:00,3436,Male,47,Electronics,Phone Case,9,106.49,958.41,C,Cash
+6719,3/13/2023 14:00,3107,Male,21,Electronics,Earphones,2,15.47,30.94,B,Credit Card
+6720,3/13/2023 15:00,3376,Female,68,Electronics,USB Cable,3,73.25,219.75,C,Cash
+6721,3/13/2023 16:00,3442,Male,20,Household,Tissue,4,43.86,175.44,D,Credit Card
+6722,3/13/2023 17:00,3474,Female,55,Household,Dish Soap,1,86.78,86.78,A,E-Wallet
+6723,3/13/2023 18:00,3010,,20,Household,Tissue,9,10.99,98.91,B,Credit Card
+6724,3/13/2023 19:00,3158,Male,36,Electronics,Phone Case,8,95.42,763.36,A,Bank Transfer
+6725,3/13/2023 20:00,3490,Female,27,Electronics,Earphones,7,96.56,675.92,C,E-Wallet
+6726,3/13/2023 21:00,3125,Male,42,Beverage,Energy Drink,3,28.73,86.19,B,Cash
+6727,3/13/2023 22:00,3228,Female,48,Snacks,Chips,6,20.74,124.44,B,Bank Transfer
+6728,3/13/2023 23:00,3442,Female,31,Snacks,Chips,7,77.26,540.82,B,Bank Transfer
+6729,3/14/2023 0:00,3465,Male,42,Beverage,Juice,9,78.48,706.32,D,Bank Transfer
+6730,3/14/2023 1:00,3217,Male,25,Dairy,Cheese,4,35.48,141.92,D,E-Wallet
+6731,3/14/2023 2:00,3331,Female,30,Electronics,Phone Case,6,65.73,394.38,D,Cash
+6732,3/14/2023 3:00,3443,Male,23,Beverage,Soft Drink,7,106.03,742.21,C,Bank Transfer
+6733,3/14/2023 4:00,3248,Female,22,Electronics,USB Cable,2,61.19,122.38,B,Bank Transfer
+6734,3/14/2023 5:00,3111,Female,42,Electronics,USB Cable,9,14.2,127.8,B,E-Wallet
+6735,3/14/2023 6:00,3415,Female,38,Produce,Carrots,5,105.31,526.55,D,E-Wallet
+6736,3/14/2023 7:00,3076,Female,38,Beverage,Juice,8,21.38,171.04,D,E-Wallet
+6737,3/14/2023 8:00,3153,Male,24,Snacks,Cookies,5,69.65,348.25,D,Bank Transfer
+6738,3/14/2023 9:00,3474,Male,36,Personal Care,Toothpaste,8,97.36,778.88,C,Credit Card
+6739,3/14/2023 10:00,3423,Female,39,Electronics,Earphones,11,96.35,1059.85,B,Cash
+6740,3/14/2023 11:00,3056,Female,33,Beverage,Energy Drink,6,32.03,192.18,D,Cash
+6741,3/14/2023 12:00,3461,Female,33,Personal Care,Lotion,7,66.2,463.4,B,Bank Transfer
+6742,3/14/2023 13:00,3158,Female,64,Produce,Carrots,2,65.75,131.5,B,Credit Card
+6743,3/14/2023 14:00,3259,Female,21,Household,Tissue,1,55.36,55.36,A,Bank Transfer
+6744,3/14/2023 15:00,3031,Male,35,Household,Cleaner,8,115.73,925.84,D,Bank Transfer
+6745,3/14/2023 16:00,3128,Male,58,Personal Care,Shampoo,4,47.6,190.4,B,Bank Transfer
+6746,3/14/2023 17:00,3213,Female,54,Dairy,Butter,3,34.22,102.66,A,E-Wallet
+6747,3/14/2023 18:00,3046,Male,23,Dairy,Milk,2,78.32,156.64,D,Bank Transfer
+6748,3/14/2023 19:00,3163,Male,57,Beverage,Energy Drink,8,89.5,716,D,Cash
+6749,3/14/2023 20:00,3376,Female,21,Electronics,USB Cable,5,12.35,61.75,D,Bank Transfer
+6750,3/14/2023 21:00,3093,Female,21,Electronics,Phone Case,10,71.17,711.7,B,Cash
+6751,3/14/2023 22:00,3141,Male,22,Household,Dish Soap,4,2.91,11.64,B,Bank Transfer
+6752,3/14/2023 23:00,3286,,26,Frozen,Frozen Vegetables,7,10.76,75.32,C,Credit Card
+6753,3/15/2023 0:00,3454,,63,Snacks,Cookies,1,90.1,90.1,B,Cash
+6754,3/15/2023 1:00,3139,Male,68,Frozen,Frozen Pizza,1,97.13,97.13,D,Bank Transfer
+6755,3/15/2023 2:00,3267,Female,41,Electronics,Earphones,4,21,84,B,Cash
+6756,3/15/2023 3:00,3068,Female,35,Dairy,Milk,8,87.81,702.48,D,Bank Transfer
+6757,3/15/2023 4:00,3242,Female,39,Snacks,Chips,10,11.73,117.3,C,Cash
+6758,3/15/2023 5:00,3406,Male,23,Household,Detergent,9,115.96,1043.64,B,Cash
+6759,3/15/2023 6:00,3354,Male,47,Beverage,Soft Drink,11,7.04,77.44,C,Credit Card
+6760,3/15/2023 7:00,3478,Female,24,Personal Care,Soap,2,8.37,16.74,D,Bank Transfer
+6761,3/15/2023 8:00,3069,Female,38,Snacks,Nuts,7,30.02,210.14,B,E-Wallet
+6762,3/15/2023 9:00,3287,,28,Beverage,Mineral Water,11,44.77,492.47,B,E-Wallet
+6763,3/15/2023 10:00,3092,Male,20,Electronics,USB Cable,8,56.87,454.96,A,Bank Transfer
+6764,3/15/2023 11:00,3415,Female,29,Produce,Broccoli,3,44.78,134.34,B,Cash
+6765,3/15/2023 12:00,3343,Female,68,Beverage,Energy Drink,11,10.66,117.26,C,Bank Transfer
+6766,3/15/2023 13:00,3003,Male,60,Snacks,Crackers,1,84.4,84.4,C,Bank Transfer
+6767,3/15/2023 14:00,3163,Female,65,Beverage,Soft Drink,2,39.21,78.42,D,Bank Transfer
+6768,3/15/2023 15:00,3341,Male,39,Snacks,Nuts,7,79.47,556.29,A,Credit Card
+6769,3/15/2023 16:00,3060,Female,17,Snacks,Chips,8,78.01,624.08,C,Bank Transfer
+6770,3/15/2023 17:00,3341,Male,18,Snacks,Cookies,8,87.99,703.92,B,Bank Transfer
+6771,3/15/2023 18:00,3010,Female,63,Electronics,Earphones,7,67.58,473.06,C,E-Wallet
+6772,3/15/2023 19:00,3251,Male,57,Personal Care,Soap,3,57.45,172.35,B,Bank Transfer
+6773,3/15/2023 20:00,3460,Male,28,Beverage,Juice,11,16.49,181.39,B,Bank Transfer
+6774,3/15/2023 21:00,3155,Male,63,Frozen,Frozen Vegetables,1,50.71,50.71,D,Bank Transfer
+6775,3/15/2023 22:00,3357,,30,Personal Care,Soap,3,41.04,123.12,B,Credit Card
+6776,3/15/2023 23:00,3140,Male,68,Beverage,Soft Drink,3,21.01,63.03,A,Credit Card
+6777,3/16/2023 0:00,3343,Female,48,Personal Care,Lotion,8,16,128,C,Credit Card
+6778,3/16/2023 1:00,3086,Male,22,Dairy,Cheese,2,32.96,65.92,B,Cash
+6779,3/16/2023 2:00,3471,Male,58,Dairy,Butter,5,99.11,495.55,D,Credit Card
+6780,3/16/2023 3:00,3087,Female,68,Frozen,Ice Cream,1,69.76,69.76,C,Bank Transfer
+6781,3/16/2023 4:00,3399,Female,30,Household,Detergent,7,80.21,561.47,A,E-Wallet
+6782,3/16/2023 5:00,3154,Female,26,Personal Care,Lotion,11,12.5,137.5,A,Bank Transfer
+6783,3/16/2023 6:00,3412,Female,46,Frozen,Frozen Vegetables,8,43.09,344.72,D,Cash
+6784,3/16/2023 7:00,3397,Male,18,Snacks,Crackers,1,98.16,98.16,B,Cash
+6785,3/16/2023 8:00,3099,Male,26,Frozen,Ice Cream,11,73.04,803.44,B,Cash
+6786,3/16/2023 9:00,3485,Female,18,Electronics,Earphones,4,10.21,40.84,A,Bank Transfer
+6787,3/16/2023 10:00,3044,Female,41,Dairy,Cheese,7,60.66,424.62,A,E-Wallet
+6788,3/16/2023 11:00,3038,Male,30,Dairy,Milk,9,56.19,505.71,B,Bank Transfer
+6789,3/16/2023 12:00,3260,Female,45,Snacks,Nuts,1,56.47,56.47,C,E-Wallet
+6790,3/16/2023 13:00,3206,Male,50,Beverage,Soft Drink,8,80.38,643.04,A,E-Wallet
+6791,3/16/2023 14:00,3303,Female,45,Dairy,Butter,10,67.59,675.9,B,Bank Transfer
+6792,3/16/2023 15:00,3485,Male,16,Dairy,Butter,6,88.47,530.82,C,Bank Transfer
+6793,3/16/2023 16:00,3008,Male,,Snacks,Chips,11,20.05,220.55,B,Cash
+6794,3/16/2023 17:00,3098,Male,39,Household,Cleaner,1,107.14,107.14,B,Cash
+6795,3/16/2023 18:00,3450,,68,Personal Care,Shampoo,7,101.83,712.81,D,Bank Transfer
+6796,3/16/2023 19:00,3008,Male,26,Dairy,Cheese,9,20.21,181.89,A,Bank Transfer
+6797,3/16/2023 20:00,3217,Male,23,Produce,Bananas,8,19.03,152.24,D,Bank Transfer
+6798,3/16/2023 21:00,3347,Male,56,Snacks,Cookies,4,90.05,360.2,C,Credit Card
+6799,3/16/2023 22:00,3075,Male,24,Household,Tissue,9,54.5,490.5,D,E-Wallet
+6800,3/16/2023 23:00,3315,Female,47,Beverage,Juice,7,27.2,190.4,D,E-Wallet
+6801,3/17/2023 0:00,3059,Male,54,Produce,Carrots,1,92.23,92.23,B,Bank Transfer
+6802,3/17/2023 1:00,3017,Male,64,Dairy,Milk,11,24.9,273.9,B,Credit Card
+6803,3/17/2023 2:00,3378,Male,68,Frozen,Frozen Pizza,4,33.32,133.28,B,Bank Transfer
+6804,3/17/2023 3:00,3414,Male,66,Household,Detergent,9,102.85,925.65,D,Cash
+6805,3/17/2023 4:00,3307,Male,30,Frozen,Ice Cream,8,93.92,751.36,D,Bank Transfer
+6806,3/17/2023 5:00,3486,Female,18,Snacks,Crackers,7,101.98,713.86,D,E-Wallet
+6807,3/17/2023 6:00,3057,Male,27,Beverage,Mineral Water,6,66.06,396.36,B,E-Wallet
+6808,3/17/2023 7:00,3376,Male,31,Beverage,Soft Drink,8,48.45,387.6,B,Bank Transfer
+6809,3/17/2023 8:00,3138,Female,19,Snacks,Crackers,3,54.62,163.86,A,Cash
+6810,3/17/2023 9:00,3290,Female,55,Electronics,USB Cable,2,24.67,49.34,D,Bank Transfer
+6811,3/17/2023 10:00,3122,Male,52,Personal Care,Lotion,2,72.82,145.64,C,Bank Transfer
+6812,3/17/2023 11:00,3143,Female,46,,,6,83.94,503.64,A,E-Wallet
+6813,3/17/2023 12:00,3247,,52,Personal Care,Toothpaste,8,62.72,501.76,A,Cash
+6814,3/17/2023 13:00,3342,Male,22,Household,Cleaner,2,22.75,45.5,C,Bank Transfer
+6815,3/17/2023 14:00,3409,Female,57,Beverage,Juice,11,118.15,1299.65,A,Cash
+6816,3/17/2023 15:00,3142,Female,34,Beverage,Mineral Water,7,69.95,489.65,D,E-Wallet
+6817,3/17/2023 16:00,3153,Male,28,Snacks,Crackers,5,70.27,351.35,A,Bank Transfer
+6818,3/17/2023 17:00,3365,Female,66,Personal Care,Toothpaste,4,54.8,219.2,A,Cash
+6819,3/17/2023 18:00,3181,Female,66,Snacks,Nuts,7,76.59,536.13,A,Credit Card
+6820,3/17/2023 19:00,3273,Female,21,Personal Care,Lotion,8,114.72,917.76,A,E-Wallet
+6821,3/17/2023 20:00,3363,Male,37,Personal Care,Toothpaste,4,112.49,449.96,A,Credit Card
+6822,3/17/2023 21:00,3322,Female,47,Snacks,Cookies,4,19.25,77,A,Cash
+6823,3/17/2023 22:00,3349,Male,49,Electronics,USB Cable,10,51.71,517.1,B,Credit Card
+6824,3/17/2023 23:00,3085,Female,41,Frozen,Frozen Vegetables,5,106.8,534,B,Bank Transfer
+6825,3/18/2023 0:00,3304,Female,66,Household,Cleaner,6,24.79,148.74,C,E-Wallet
+6826,3/18/2023 1:00,3386,Male,32,Beverage,Energy Drink,9,90.77,816.93,A,Bank Transfer
+6827,3/18/2023 2:00,3125,,65,Snacks,Crackers,8,92.51,740.08,A,Credit Card
+6828,3/18/2023 3:00,3447,Male,25,Snacks,Nuts,11,23.1,254.1,C,Credit Card
+6829,3/18/2023 4:00,3308,Female,58,Electronics,Earphones,4,2.2,8.8,C,E-Wallet
+6830,3/18/2023 5:00,3352,Female,51,Dairy,Milk,11,69.6,765.6,D,Cash
+6831,3/18/2023 6:00,3072,Male,41,Beverage,Mineral Water,7,21.94,153.58,B,E-Wallet
+6832,3/18/2023 7:00,3356,Female,28,Dairy,Cheese,3,72.99,218.97,A,Credit Card
+6833,3/18/2023 8:00,3437,,45,Electronics,USB Cable,6,118.87,713.22,D,Credit Card
+6834,3/18/2023 9:00,3475,Male,29,Personal Care,Toothpaste,3,83.58,250.74,B,E-Wallet
+6835,3/18/2023 10:00,3283,Female,26,Household,Dish Soap,5,59.68,298.4,B,Credit Card
+6836,3/18/2023 11:00,3057,Male,33,Snacks,Chips,1,50.21,50.21,A,Cash
+6837,3/18/2023 12:00,3106,Male,37,Beverage,Energy Drink,11,69.87,768.57,A,Bank Transfer
+6838,3/18/2023 13:00,3407,Female,38,Personal Care,Shampoo,3,25.92,77.76,B,Cash
+6839,3/18/2023 14:00,3189,Female,52,Beverage,Juice,3,53.36,160.08,B,Bank Transfer
+6840,3/18/2023 15:00,3268,Male,,Frozen,Ice Cream,2,103.32,206.64,C,Cash
+6841,3/18/2023 16:00,3326,,22,Beverage,Juice,4,57.53,230.12,B,E-Wallet
+6842,3/18/2023 17:00,3171,Female,17,Frozen,Frozen Pizza,6,25.13,150.78,D,Credit Card
+6843,3/18/2023 18:00,3152,Female,40,Snacks,Crackers,8,89.27,714.16,C,Cash
+6844,3/18/2023 19:00,3101,Female,54,Produce,Apples,6,39.47,236.82,D,Credit Card
+6845,3/18/2023 20:00,3057,,39,Snacks,Chips,8,116.72,933.76,A,Bank Transfer
+6846,3/18/2023 21:00,3025,Male,58,Beverage,Soft Drink,10,17.15,171.5,B,Credit Card
+6847,3/18/2023 22:00,3276,Male,36,Beverage,Energy Drink,3,101.98,305.94,B,Credit Card
+6848,3/18/2023 23:00,3175,Male,66,Frozen,Ice Cream,7,60.96,426.72,C,E-Wallet
+6849,3/19/2023 0:00,3173,Female,32,Produce,Broccoli,3,59.43,178.29,B,Credit Card
+6850,3/19/2023 1:00,3229,Male,66,Produce,Apples,3,10.64,31.92,A,E-Wallet
+6851,3/19/2023 2:00,3134,Male,39,Beverage,Energy Drink,10,86.86,868.6,D,E-Wallet
+6852,3/19/2023 3:00,3375,Male,38,Beverage,Juice,7,20.08,140.56,D,Cash
+6853,3/19/2023 4:00,3213,Male,50,Produce,Bananas,11,13.68,150.48,C,Cash
+6854,3/19/2023 5:00,3415,Female,37,Household,Tissue,10,41.4,414,A,Cash
+6855,3/19/2023 6:00,3097,Female,67,Dairy,Cheese,2,76.13,152.26,D,Cash
+6856,3/19/2023 7:00,3112,Male,24,Personal Care,Lotion,5,34.83,174.15,D,Cash
+6857,3/19/2023 8:00,3209,Male,30,Personal Care,Lotion,8,27.44,219.52,C,Cash
+6858,3/19/2023 9:00,3122,Female,55,Personal Care,Toothpaste,4,97.77,391.08,D,Bank Transfer
+6859,3/19/2023 10:00,3417,Male,37,Dairy,Cheese,5,87.11,435.55,D,Bank Transfer
+6860,3/19/2023 11:00,3113,Female,25,Household,Cleaner,7,19.99,139.93,D,Credit Card
+6861,3/19/2023 12:00,3322,Female,58,Snacks,Chips,3,59.22,177.66,B,E-Wallet
+6862,3/19/2023 13:00,3117,Male,63,Frozen,Frozen Vegetables,5,61.29,306.45,B,E-Wallet
+6863,3/19/2023 14:00,3488,Female,65,Beverage,Mineral Water,7,72.05,504.35,A,E-Wallet
+6864,3/19/2023 15:00,3481,Female,20,Snacks,Crackers,8,101.15,809.2,C,Cash
+6865,3/19/2023 16:00,3386,Male,25,Personal Care,Shampoo,7,114.95,804.65,B,Bank Transfer
+6866,3/19/2023 17:00,3429,Male,50,Dairy,Cheese,9,110.88,997.92,D,E-Wallet
+6867,3/19/2023 18:00,3398,Male,36,Dairy,Cheese,3,25.72,77.16,C,Cash
+6868,3/19/2023 19:00,3259,Male,26,Beverage,Mineral Water,9,100.7,906.3,A,E-Wallet
+6869,3/19/2023 20:00,3218,Female,55,Produce,Broccoli,10,74.11,741.1,C,Bank Transfer
+6870,3/19/2023 21:00,3216,Female,67,Beverage,Soft Drink,3,17.71,53.13,B,E-Wallet
+6871,3/19/2023 22:00,3381,Female,18,Frozen,Frozen Pizza,4,72.94,291.76,D,E-Wallet
+6872,3/19/2023 23:00,3012,Male,38,Snacks,Crackers,1,45.38,45.38,D,Cash
+6873,3/20/2023 0:00,3179,Male,65,Produce,Broccoli,11,10.87,119.57,A,Cash
+6874,3/20/2023 1:00,3073,Male,60,Frozen,Frozen Pizza,6,94.6,567.6,B,E-Wallet
+6875,3/20/2023 2:00,3004,Female,65,Personal Care,Toothpaste,10,22.07,220.7,C,E-Wallet
+6876,3/20/2023 3:00,3133,Female,54,Frozen,Frozen Vegetables,3,79.31,237.93,C,Credit Card
+6877,3/20/2023 4:00,3053,Male,42,Produce,Apples,6,80.66,483.96,D,Bank Transfer
+6878,3/20/2023 5:00,3069,,38,Snacks,Crackers,10,119.83,1198.3,A,Cash
+6879,3/20/2023 6:00,3076,Female,69,Produce,Broccoli,10,32.07,320.7,D,E-Wallet
+6880,3/20/2023 7:00,3173,Female,65,Household,Dish Soap,10,6.34,63.4,B,Bank Transfer
+6881,3/20/2023 8:00,3139,Male,58,Electronics,USB Cable,5,31.91,159.55,D,Credit Card
+6882,3/20/2023 9:00,3348,Male,24,Electronics,USB Cable,10,72.12,721.2,B,Credit Card
+6883,3/20/2023 10:00,3126,Male,19,Household,Tissue,10,96.81,968.1,D,Bank Transfer
+6884,3/20/2023 11:00,3027,Male,62,Snacks,Chips,11,89.57,985.27,B,E-Wallet
+6885,3/20/2023 12:00,3214,Male,24,Snacks,Cookies,4,27.5,110,A,Credit Card
+6886,3/20/2023 13:00,3259,Female,24,Dairy,Cheese,6,110.97,665.82,D,Credit Card
+6887,3/20/2023 14:00,3021,,29,Household,Detergent,7,114.96,804.72,D,E-Wallet
+6888,3/20/2023 15:00,3139,Male,29,,,3,65.47,196.41,C,Cash
+6889,3/20/2023 16:00,3028,Female,61,Snacks,Chips,8,51.88,415.04,A,Credit Card
+6890,3/20/2023 17:00,3413,Male,58,Beverage,Juice,2,57.31,114.62,B,E-Wallet
+6891,3/20/2023 18:00,3081,Female,54,Beverage,Juice,7,98.5,689.5,C,Bank Transfer
+6892,3/20/2023 19:00,3458,Female,42,Snacks,Chips,3,13.72,41.16,A,Cash
+6893,3/20/2023 20:00,3463,Female,,Dairy,Butter,7,93.52,654.64,C,Bank Transfer
+6894,3/20/2023 21:00,3113,Female,34,Beverage,Juice,8,84.21,673.68,A,Credit Card
+6895,3/20/2023 22:00,3128,Male,46,Beverage,Juice,6,115.58,693.48,D,Bank Transfer
+6896,3/20/2023 23:00,3044,Male,61,Personal Care,Lotion,8,7.37,58.96,A,E-Wallet
+6897,3/21/2023 0:00,3413,Male,17,Beverage,Juice,4,119.53,478.12,B,Bank Transfer
+6898,3/21/2023 1:00,3068,Female,23,,,2,84.97,169.94,C,E-Wallet
+6899,3/21/2023 2:00,3487,Male,21,Electronics,Earphones,10,55.64,556.4,B,E-Wallet
+6900,3/21/2023 3:00,3408,Male,65,Beverage,Mineral Water,3,99.97,299.91,C,Credit Card
+6901,3/21/2023 4:00,3109,Female,54,Produce,Bananas,8,51.18,409.44,D,Bank Transfer
+6902,3/21/2023 5:00,3152,Male,28,Household,Cleaner,11,56.72,623.92,A,Bank Transfer
+6903,3/21/2023 6:00,3142,,35,Produce,Apples,1,61.43,61.43,B,Cash
+6904,3/21/2023 7:00,3120,Female,42,Dairy,Cheese,11,64.08,704.88,A,Credit Card
+6905,3/21/2023 8:00,3282,Male,68,Dairy,Milk,3,111.15,333.45,B,E-Wallet
+6906,3/21/2023 9:00,3203,Female,59,Beverage,Mineral Water,3,9.85,29.55,D,Bank Transfer
+6907,3/21/2023 10:00,3259,Male,26,Produce,Carrots,3,17.57,52.71,B,E-Wallet
+6908,3/21/2023 11:00,3139,Female,34,Electronics,USB Cable,5,87.82,439.1,D,Cash
+6909,3/21/2023 12:00,3175,Female,17,Produce,Carrots,7,116.29,814.03,C,Bank Transfer
+6910,3/21/2023 13:00,3494,Male,16,,,1,112.61,112.61,C,Credit Card
+6911,3/21/2023 14:00,3434,Female,22,Snacks,Crackers,5,100.83,504.15,C,Cash
+6912,3/21/2023 15:00,3006,Male,60,Electronics,Earphones,1,102.78,102.78,C,E-Wallet
+6913,3/21/2023 16:00,3052,Male,38,Beverage,Mineral Water,4,95.85,383.4,D,Bank Transfer
+6914,3/21/2023 17:00,3033,Male,53,Snacks,Cookies,3,18.22,54.66,C,Credit Card
+6915,3/21/2023 18:00,3241,Male,36,Personal Care,Lotion,8,92.03,736.24,A,Bank Transfer
+6916,3/21/2023 19:00,3145,Female,69,Electronics,Phone Case,6,60.88,365.28,D,Credit Card
+6917,3/21/2023 20:00,3296,Male,46,Personal Care,Toothpaste,5,53.8,269,C,Credit Card
+6918,3/21/2023 21:00,3146,Male,39,Frozen,Frozen Pizza,9,33.06,297.54,C,Bank Transfer
+6919,3/21/2023 22:00,3300,Male,65,Dairy,Butter,11,98.96,1088.56,C,Bank Transfer
+6920,3/21/2023 23:00,3111,Female,39,Beverage,Soft Drink,7,14.68,102.76,A,Cash
+6921,3/22/2023 0:00,3260,Male,35,Personal Care,Toothpaste,7,118.58,830.06,D,Credit Card
+6922,3/22/2023 1:00,3356,,53,Snacks,Nuts,7,88.91,622.37,B,Credit Card
+6923,3/22/2023 2:00,3240,,48,Snacks,Chips,7,89.14,623.98,C,Bank Transfer
+6924,3/22/2023 3:00,3231,Female,30,Frozen,Frozen Pizza,5,8.42,42.1,D,Bank Transfer
+6925,3/22/2023 4:00,3241,Female,28,Personal Care,Lotion,11,97.41,1071.51,B,E-Wallet
+6926,3/22/2023 5:00,3057,Female,66,Beverage,Mineral Water,10,107.09,1070.9,B,Cash
+6927,3/22/2023 6:00,3335,Female,57,Snacks,Nuts,8,60.1,480.8,C,Cash
+6928,3/22/2023 7:00,3433,Female,39,Personal Care,Toothpaste,3,51.78,155.34,A,Cash
+6929,3/22/2023 8:00,3425,Male,17,Electronics,Earphones,6,52.81,316.86,C,Bank Transfer
+6930,3/22/2023 9:00,3346,Female,67,Personal Care,Soap,7,62.27,435.89,C,Credit Card
+6931,3/22/2023 10:00,3417,Male,61,Dairy,Cheese,4,76.79,307.16,B,Bank Transfer
+6932,3/22/2023 11:00,3192,Male,31,Beverage,Soft Drink,4,91.02,364.08,B,Bank Transfer
+6933,3/22/2023 12:00,3284,Male,22,Dairy,Milk,10,55.59,555.9,B,Bank Transfer
+6934,3/22/2023 13:00,3350,,59,Beverage,Energy Drink,1,73.31,73.31,D,E-Wallet
+6935,3/22/2023 14:00,3436,,68,Beverage,Soft Drink,7,33.36,233.52,D,Credit Card
+6936,3/22/2023 15:00,3174,Male,32,Snacks,Nuts,6,40.43,242.58,C,Cash
+6937,3/22/2023 16:00,3348,Female,23,Dairy,Butter,3,20.58,61.74,C,Credit Card
+6938,3/22/2023 17:00,3365,Male,16,Beverage,Juice,11,22.18,243.98,D,Bank Transfer
+6939,3/22/2023 18:00,3188,Female,49,Dairy,Milk,1,53.5,53.5,C,Bank Transfer
+6940,3/22/2023 19:00,3424,Male,16,Dairy,Milk,7,46.22,323.54,C,Cash
+6941,3/22/2023 20:00,3098,Male,41,Snacks,Nuts,1,29.82,29.82,A,Cash
+6942,3/22/2023 21:00,3010,Male,65,Beverage,Mineral Water,11,91.46,1006.06,C,E-Wallet
+6943,3/22/2023 22:00,3438,Male,57,Personal Care,Shampoo,4,24.78,99.12,B,Credit Card
+6944,3/22/2023 23:00,3231,Female,35,Snacks,Crackers,11,116.4,1280.4,C,E-Wallet
+6945,3/23/2023 0:00,3049,Female,39,Frozen,Frozen Pizza,11,108.62,1194.82,A,Cash
+6946,3/23/2023 1:00,3335,Male,33,Snacks,Crackers,2,112.4,224.8,D,Credit Card
+6947,3/23/2023 2:00,3172,Female,19,Personal Care,Soap,4,48.33,193.32,D,Credit Card
+6948,3/23/2023 3:00,3222,Female,58,Snacks,Chips,3,73.97,221.91,A,Cash
+6949,3/23/2023 4:00,3284,Female,62,Frozen,Ice Cream,9,36.19,325.71,B,Cash
+6950,3/23/2023 5:00,3167,Female,33,Snacks,Crackers,11,116.57,1282.27,A,Credit Card
+6951,3/23/2023 6:00,3474,Male,62,Household,Cleaner,4,24.67,98.68,C,Cash
+6952,3/23/2023 7:00,3282,,69,Personal Care,Toothpaste,2,87.78,175.56,D,Bank Transfer
+6953,3/23/2023 8:00,3364,Male,60,Personal Care,Toothpaste,2,72.59,145.18,C,E-Wallet
+6954,3/23/2023 9:00,3129,Male,17,Personal Care,Lotion,1,117.73,117.73,B,E-Wallet
+6955,3/23/2023 10:00,3086,Female,46,Electronics,USB Cable,6,42.19,253.14,D,E-Wallet
+6956,3/23/2023 11:00,3087,Male,33,Beverage,Juice,11,65.65,722.15,D,Cash
+6957,3/23/2023 12:00,3473,Female,32,Household,Tissue,11,68.46,753.06,A,E-Wallet
+6958,3/23/2023 13:00,3392,Male,65,Household,Detergent,11,113.23,1245.53,C,Bank Transfer
+6959,3/23/2023 14:00,3418,Female,42,Snacks,Chips,2,97.8,195.6,D,Bank Transfer
+6960,3/23/2023 15:00,3381,Male,45,Household,Dish Soap,8,59.79,478.32,C,Credit Card
+6961,3/23/2023 16:00,3372,Male,27,Beverage,Juice,9,73.09,657.81,D,Bank Transfer
+6962,3/23/2023 17:00,3399,Female,68,Personal Care,Soap,10,73.19,731.9,B,Cash
+6963,3/23/2023 18:00,3066,Female,24,Snacks,Chips,7,77.67,543.69,B,Credit Card
+6964,3/23/2023 19:00,3140,Male,63,Snacks,Cookies,10,37.66,376.6,A,Cash
+6965,3/23/2023 20:00,3186,Female,28,Beverage,Soft Drink,8,23.55,188.4,A,E-Wallet
+6966,3/23/2023 21:00,3146,Male,59,Beverage,Mineral Water,10,48.43,484.3,C,E-Wallet
+6967,3/23/2023 22:00,3059,Male,21,Frozen,Frozen Vegetables,1,2.6,2.6,D,Credit Card
+6968,3/23/2023 23:00,3445,Female,37,Produce,Carrots,4,20.38,81.52,B,Cash
+6969,3/24/2023 0:00,3007,Female,16,Snacks,Chips,2,23,46,A,E-Wallet
+6970,3/24/2023 1:00,3170,Male,37,Snacks,Cookies,6,56.42,338.52,D,E-Wallet
+6971,3/24/2023 2:00,3475,Male,64,Dairy,Milk,8,2.32,18.56,A,Cash
+6972,3/24/2023 3:00,3194,Female,26,Beverage,Mineral Water,5,28.29,141.45,D,Cash
+6973,3/24/2023 4:00,3355,Male,68,Electronics,Earphones,8,3.52,28.16,C,Credit Card
+6974,3/24/2023 5:00,3430,Female,16,Beverage,Energy Drink,1,100.61,100.61,C,Cash
+6975,3/24/2023 6:00,3443,Female,24,Produce,Apples,4,109.68,438.72,C,Bank Transfer
+6976,3/24/2023 7:00,3432,Male,56,Electronics,USB Cable,5,45.62,228.1,D,E-Wallet
+6977,3/24/2023 8:00,3077,Female,35,Electronics,Earphones,8,92.03,736.24,A,Cash
+6978,3/24/2023 9:00,3324,Male,64,Frozen,Frozen Pizza,11,16,176,D,Bank Transfer
+6979,3/24/2023 10:00,3476,Male,65,Dairy,Milk,1,118.68,118.68,D,E-Wallet
+6980,3/24/2023 11:00,3151,Female,28,Produce,Carrots,3,28.07,84.21,C,Bank Transfer
+6981,3/24/2023 12:00,3115,Male,25,,,4,70.03,280.12,D,Bank Transfer
+6982,3/24/2023 13:00,3146,Female,59,Snacks,Nuts,9,96.03,864.27,C,E-Wallet
+6983,3/24/2023 14:00,3149,Female,64,Personal Care,Toothpaste,5,65.93,329.65,A,Bank Transfer
+6984,3/24/2023 15:00,3359,Female,23,Frozen,Frozen Pizza,4,84.46,337.84,C,Bank Transfer
+6985,3/24/2023 16:00,3125,Female,65,Household,Detergent,7,11.49,80.43,D,E-Wallet
+6986,3/24/2023 17:00,3142,Female,56,Household,Dish Soap,8,18.57,148.56,D,Credit Card
+6987,3/24/2023 18:00,3333,Male,39,Beverage,Mineral Water,7,45.25,316.75,B,Cash
+6988,3/24/2023 19:00,3496,,68,Beverage,Energy Drink,11,28.22,310.42,A,E-Wallet
+6989,3/24/2023 20:00,3306,Male,48,Electronics,Earphones,8,118.56,948.48,D,Cash
+6990,3/24/2023 21:00,3340,Male,54,Personal Care,Shampoo,3,52.94,158.82,B,E-Wallet
+6991,3/24/2023 22:00,3205,Male,39,Snacks,Cookies,10,19.67,196.7,A,E-Wallet
+6992,3/24/2023 23:00,3264,Male,55,Household,Cleaner,5,12.34,61.7,B,Cash
+6993,3/25/2023 0:00,3388,Male,35,Produce,Apples,10,116.37,1163.7,D,Credit Card
+6994,3/25/2023 1:00,3070,Female,59,Personal Care,Shampoo,5,17.31,86.55,C,Bank Transfer
+6995,3/25/2023 2:00,3024,Male,23,Frozen,Ice Cream,4,34.73,138.92,D,Cash
+6996,3/25/2023 3:00,3380,Male,61,Snacks,Chips,3,85.83,257.49,D,Cash
+6997,3/25/2023 4:00,3242,Male,46,Frozen,Frozen Vegetables,4,105.77,423.08,D,Cash
+6998,3/25/2023 5:00,3280,Male,,Frozen,Ice Cream,7,26.39,184.73,D,E-Wallet
+6999,3/25/2023 6:00,3433,Female,27,Beverage,Soft Drink,4,97.45,389.8,C,Credit Card
+7000,3/25/2023 7:00,3276,Female,64,Frozen,Frozen Pizza,6,108.65,651.9,B,Cash
+5296,1/13/2023 7:00,3280,Female,46,Snacks,Chips,7,78.3,548.1,D,Credit Card
+6101,2/15/2023 20:00,3369,Male,31,Electronics,Earphones,4,105.1,420.4,B,Cash
+5178,1/8/2023 9:00,3136,Female,37,Household,Detergent,5,12.48,62.4,C,Credit Card
+5311,1/13/2023 22:00,3246,Male,51,Beverage,Juice,6,118.74,712.44,A,Credit Card
+5569,1/24/2023 16:00,3299,Female,28,Dairy,Milk,3,94.75,284.25,D,Cash
+5773,2/2/2023 4:00,3416,Female,62,Beverage,Soft Drink,11,32.53,357.83,B,Cash
+5608,1/26/2023 7:00,3494,Male,60,Personal Care,Soap,6,117.68,706.08,B,Bank Transfer
+5554,1/24/2023 1:00,3480,Male,67,Snacks,Nuts,6,23.62,141.72,A,E-Wallet
+5218,1/10/2023 1:00,3252,Female,18,Frozen,Ice Cream,11,45.26,497.86,B,Credit Card
+5938,2/9/2023 1:00,3499,Male,68,Produce,Carrots,7,96.13,672.91,D,Bank Transfer
+5409,1/18/2023 0:00,3002,Male,46,Electronics,Earphones,9,10.84,97.56,D,Bank Transfer
+5067,1/3/2023 18:00,3206,Female,57,Dairy,Butter,2,24.44,48.88,D,Credit Card
+6526,3/5/2023 13:00,3286,Female,45,Personal Care,Toothpaste,10,118.68,1186.8,D,Bank Transfer
+6821,3/17/2023 20:00,3363,Male,37,Personal Care,Toothpaste,4,112.49,449.96,A,Credit Card
+5274,1/12/2023 9:00,3101,,65,Frozen,Frozen Pizza,1,59.19,59.19,C,Bank Transfer
